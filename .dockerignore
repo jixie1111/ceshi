@@ -1,0 +1,17 @@
+.git
+.venv
+venv
+__pycache__
+*.pyc
+.pytest_cache
+node_modules
+dist
+.vite
+.env
+data/runtime
+data/uploads
+data/generated_reports
+data/textbooks
+*.pdf
+*.docx
+*.xlsx

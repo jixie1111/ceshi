@@ -1,0 +1,4 @@
+# Optional semantic embedding backend.
+# The default deployment uses TF-IDF + BM25 so it can run on CPU Spaces without
+# downloading large model packages during image build.
+sentence-transformers==2.7.0
