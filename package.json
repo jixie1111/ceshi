@@ -1,0 +1,17 @@
+{
+  "name": "knowledge-forge-root",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=18 <=20"
+  },
+  "scripts": {
+    "frontend:dev": "npm --prefix src/frontend run dev",
+    "frontend:build": "npm --prefix src/frontend run build",
+    "backend:dev": "python -m uvicorn src.backend.app.main:app --host 0.0.0.0 --port 8000 --reload",
+    "dev": "concurrently \"npm run backend:dev\" \"npm run frontend:dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

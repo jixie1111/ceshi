@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Env
+.env
+
+# Runtime storage
+data/runtime/
+data/uploads/
+data/generated_reports/
+
+# 教材数据（不上传到 GitHub）
+data/textbooks/*.pdf
+*.pdf
+*.docx
+*.xlsx
+
+# OS
+.DS_Store
