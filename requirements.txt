@@ -1,2 +1,10 @@
 gradio==4.44.1
 python-multipart==0.0.20
+fastapi==0.115.0
+uvicorn==0.32.0
+pydantic==2.9.2
+pydantic-settings==2.6.1
+reportlab==4.2.5
+numpy==1.26.4
+scikit-learn==1.5.2
+rapidfuzz==3.10.1
