@@ -1,5 +1,3 @@
-import os
-
 import gradio as gr
 
 
@@ -68,8 +66,4 @@ with gr.Blocks(title="KnowledgeForge") as demo:
 
 app = demo
 
-demo.queue().launch(
-    server_name=os.getenv("GRADIO_SERVER_NAME", "0.0.0.0"),
-    server_port=int(os.getenv("GRADIO_SERVER_PORT", "7860")),
-    show_error=True,
-)
+demo.launch()
