@@ -5,6 +5,7 @@ colorFrom: blue
 colorTo: green
 sdk: docker
 app_port: 7860
+app_file: app.py
 pinned: false
 license: mit
 short_description: 学科知识整合智能体
