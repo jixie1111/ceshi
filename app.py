@@ -64,5 +64,4 @@ with gr.Blocks(title="KnowledgeForge") as demo:
     gr.Button("提问").click(rag_demo, inputs=question, outputs=answer)
 
 
-if __name__ == "__main__":
-    demo.launch()
+demo.launch()
