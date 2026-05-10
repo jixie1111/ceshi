@@ -1,3 +1,15 @@
+---
+title: KnowledgeForge
+emoji: 📚
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+license: mit
+short_description: 学科知识整合智能体
+---
+
 # KnowledgeForge · 学科知识整合智能体
 
 > Python 3.10 + Node 18/20 全栈项目。面向“AI 全栈极速黑客松·学科知识整合智能体开发”赛题，覆盖多格式教材解析、单书知识图谱、跨教材去重整合、RAG 精准问答、多轮教师反馈、报告导出和 Benchmark。
