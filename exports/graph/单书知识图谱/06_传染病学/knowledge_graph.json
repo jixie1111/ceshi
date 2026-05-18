@@ -1,0 +1,3599 @@
+{
+  "textbook_id": "book_786a362bca53",
+  "nodes": [
+    {
+      "id": "node_0ee07f842847",
+      "name": "特异性免疫",
+      "definition": "这些综合性的能力就是所谓机体的非特异性免疫， 是人 类在长期进化过程中， 不断与病原生物斗争而逐渐形成的， 并可遗传给后代。",
+      "category": "生理机制",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_7511c9fd01ae",
+      "name": "隐性感染",
+      "definition": "二 隐性感染 隐性感染 （covert infection） 又称亚临床感染 （sub-clinical infection） 是指病原体侵入机体后， 仅诱 导机体产生特异性免疫应答， 而不引起或只引起轻微的组织损伤， 因而在临床上不显出任何症状、 体 征甚至生化改变， 只能通过免疫学检查才能发现。",
+      "category": "应用场景",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_fa8e49df387c",
+      "name": "新发感染病",
+      "definition": "20 世纪90 年代国际 上提出了， “emerging infectious diseases， EID” 的概念， 起初被我国学者翻译为 “新发传染病” 此后随 着人们对感染性疾病认识的不断深入， 该定义得到了修订， “新发传染病” 逐渐演变为 “新发感染病” 不仅包括由新种或新型病原微生物引起的新发现的传染病， 而且包括近年来导致地区性或国际性公 共卫生问题的再发的老传染病 （re-emerging infectious dise",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_a5513405ca56",
+      "name": "感染后免疫",
+      "definition": "感染后免疫都是特异性免疫， 而且是主动免疫， 通过细胞免疫 （cell-mediated immunity） 和体液免疫 （humoral immunity） 的相互作用而产生免疫应答， 分别由T 淋巴细胞与B 淋巴细胞介导。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_b789934af3f3",
+      "name": "人工自动免疫",
+      "definition": "人工自动免疫是有计划地对易感者进行疫苗、 菌苗、 类毒素的接种， 使机体在1～4 周内主动产生免疫 功能， 维持数月至数年， 免疫次数1～3 次， 主要用于预防传染病。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_62dfb22fd708",
+      "name": "医院感染",
+      "definition": "医院感染包括 在住院期间发生的感染和在医院内获得但在出院后发生的感染， 但不包括入院前已开始或入院时已 存在的感染， 后者称为社区获得性感染 （community acquired infection） 指的是在医院外罹患的感染， 包括具有明确潜伏期而在入院后平均潜伏期内发病的感染。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_e74bc06e722e",
+      "name": "同一种病原体感染",
+      "definition": "机体在被某种病原体感 染的基础上再次被同一种病原体感染称为重复感染 （re-infection） 较常见于疟疾、 血吸虫病和钩虫病 等。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_bb979b229f75",
+      "name": "他病原体感染",
+      "definition": "在重叠感染中， 发生于原发感 染后的其他病原体感染称为继发性感染 （secondary infection） 如病毒性肝炎继发细菌、 真菌感染。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_9d26fda35bb1",
+      "name": "潜伏性感染",
+      "definition": "潜伏性感染期间， 病原体一般不排出体外， 这是与病原携带状态的不同 之处。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_6b67633b52cc",
+      "name": "干扰素等免疫调节剂",
+      "definition": "干扰素等免疫调节剂可调 节宿主免疫功能， 用于乙型肝炎、 丙型肝炎的治疗。",
+      "category": "应用场景",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_1119cf6ebf03",
+      "name": "糖皮质激素分泌不足",
+      "definition": "但败血症并发肾上腺出血则可导 致糖皮质激素分泌不足或停止。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_9e0867feda0c",
+      "name": "利尿激素分泌增加",
+      "definition": "3. 水、 电解质代谢 急性感染时， 氯化钠因出汗、 呕吐或腹泻而丢失， 加上抗利尿激素分泌增加、 尿量减少、 水分潴留而导致低钠血症， 至恢复期才出现利尿。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_2f4e5092ed9b",
+      "name": "中枢神经系统感染",
+      "definition": "中枢神经系统感染引起的抗 利尿激素分泌增加可导致水分潴留。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_84791cb58cc0",
+      "name": "新型冠状病毒感染",
+      "definition": "当某病在一定 时间内迅速传播， 波及全国各地， 甚至超出国界或洲境时称为大流行 （pandemic） 或称世界性流行， 如 2003 年的严重急性呼吸综合征大流行、 2019 年开始的新型冠状病毒感染大流行。",
+      "category": "核心概念",
+      "chapter": "第一章 总论",
+      "page": 18,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第一章 总论, 第 18 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_99b31f86dc97",
+      "name": "新发感染病",
+      "definition": "一、 基本概念和组成 新发感染病的概念最早于1992 年由美国国家科学院医学研究所 （Institute of Medicine， IOM） 提 出， 当时给出的定义是 “新的、 刚出现的或呈现抗药性的感染病， 其在人群中的发生在过去20 年中不 断增加或者有迹象表明在将来其发病有增加的可能性”",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_7d124fc7f6d5",
+      "name": "多重耐药菌感染",
+      "definition": "三 特殊的新发感染病 - 多重耐药菌感染 多重耐药菌 （multi-drug resistant organisms， MDROs） 是指具有多重耐药性的细菌， 较为明确的定 义为对三类或三类以上抗菌药物同时耐药的细菌。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_3673fcf7f827",
+      "name": "感染病仍然",
+      "definition": "人们逐渐认识到， 感染病仍然是一个重要的公共卫生问题， 同感染病的斗争也是21 世纪人类的重要任务之一。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_f4856629da9c",
+      "name": "新型冠状病毒感染",
+      "definition": "新发 现的感染病主要包括以下几种类型： ①某些疾病过去可能确实不存在， 由病原体发生的适应性变异 和进化得以感染人类所致的新疾病， 包括病原体来自动物的感染病， 如艾滋病、 严重急性呼吸综合征、 人禽流感、 新型冠状病毒感染等；",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_a45dcdbd079a",
+      "name": "人类免疫缺陷病毒",
+      "definition": "病原体 疾病 病毒 甲型肝炎病毒 （hepatitis A virus） 甲型病毒性肝炎 埃博拉病毒 （Ebola virus） 埃博拉出血热 汉坦病毒 （Hantaan virus， HTNV） 肾综合征出血热 丁型肝炎病毒 （hepatitis D virus） 丁型病毒性肝炎 人类免疫缺陷病毒 （human immunodeficiency virus， HIV） 艾滋病 （AIDS） 戊型肝炎病毒 （hepatitis E vi",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_9052742cb20e",
+      "name": "遗传和变异",
+      "definition": "三、 流行因素 一 新发感染病发生的生物学因素 遗传和变异是生物体的基本特征之一， 病原体可以出现自发的基因突变， 或在外界环境的作用 下， 基因发生改变。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_25bf579c5a7d",
+      "name": "综合征",
+      "definition": "新发 现的感染病主要包括以下几种类型： ①某些疾病过去可能确实不存在， 由病原体发生的适应性变异 和进化得以感染人类所致的新疾病， 包括病原体来自动物的感染病， 如艾滋病、 严重急性呼吸综合征、 人禽流感、 新型冠状病毒感染等；",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_c9f8aedf5e6d",
+      "name": "猿猴免疫缺陷病毒",
+      "definition": "人类免疫缺陷病毒 （human immunodeficiency virus， HIV） 与猿猴免疫缺陷病毒 （simian immunodeficiency virus， SIV） 具有很高的同源性， 目前学术界认为HIV 可能来源于SIV。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_9494eed06d13",
+      "name": "禽流感病毒从感染禽类到感染人",
+      "definition": "这些均可 使原来的病原体出现新的毒力基因或耐药基因， 或改头换面成为一种新的病原体， 或其感染的宿主 改变 如禽流感病毒从感染禽类到感染人类 引起人类疾病。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_bcd4a1fa9ff3",
+      "name": "形成感染病易于发生",
+      "definition": "3. 自然灾害 可造成生态环境的破坏， 使人类生产、 生活环境质量恶化， 卫生设施破坏， 机体处 于应激状态， 免疫功能紊乱， 形成感染病易于发生和流行的条件。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_db66cfaf7676",
+      "name": "效地控制各种感染病",
+      "definition": "因而， 只有很好地掌握其出现、 发展规律， 全球共同合作， 才能彻底有效地控制各种感染病。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_1377b8697aa0",
+      "name": "提升感染病防治水平",
+      "definition": "建立和完善感染病防治队伍， 重 视专业人才的培养， 提升感染病防治水平。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_2fcb1bfa0b83",
+      "name": "传播疾病等老感染病再度肆虐",
+      "definition": "然而由于人类对自然的过度开发、 城市化、 全球化加速发展、 不合理使用抗菌药物 等， 艾滋病、 埃博拉病毒病等新发现的感染病层出不穷， 结核、 性传播疾病等老感染病再度肆虐， 使得 人们逐渐认识到感染病难以完全消灭， 在一定程度上人类和感染病的斗争将贯穿人类历史的始终， 感 染病的防治仍然任重道远。",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_67b0b4b70910",
+      "name": "淋巴性脉络丛脑膜",
+      "definition": "近年来出现的严重急性呼吸综合征、 人感染高致病性禽流感、 埃博拉病毒病等重要新发感染病均为人 兽共患病 表2-4） 疾病类型 疾病举例 病毒性疾病 EB 病毒感染、 埃博拉病毒病、 马尔堡出血热、 汉坦病毒病、 淋巴性脉络丛脑膜炎病毒感 染、 灵长类痘病毒病、 麻疹、 鸡新城疫、 猿猴免疫缺陷病、 狂犬病、 流行性感冒、 流行性乙 型脑炎、 病毒性肝炎、 肾综合征出血热、 口蹄疫、 尼帕病毒脑炎、 严重急性呼吸综合征 衣原体 / 立克次",
+      "category": "核心概念",
+      "chapter": "第二章 新发感染病",
+      "page": 35,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第二章 新发感染病, 第 35 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_3ae788d5f635",
+      "name": "淋巴细胞",
+      "definition": "正常人肝组 织无Fas 分子的表达， HCV 感染肝细胞内有较大量Fas 表达， 同时， HCV 可激活细胞毒性T 淋巴细胞 （CTL） 表达FasL， Fas 和FasL 是一对诱导细胞凋亡的膜蛋白分子， 二者结合导致细胞凋亡。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_b2a8e5c6e9f2",
+      "name": "抗体",
+      "definition": "感染后早期产生IgM 型抗体， 是近期感染的标志， 一般持续8～12 周， 少数可延续6 个月左右。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_766265141ba1",
+      "name": "电解质",
+      "definition": "主要表现为少尿或无尿、 氮质血症、 电解质平衡失调。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_5e00bc39a406",
+      "name": "休克",
+      "definition": "3. 循环系统表现 包括面色苍灰， 皮肤发花和四肢发凉， 指 / 趾发绀， 出冷汗， 毛细血管再充盈时 间延长， 心率增快或减慢， 脉搏浅速或减弱甚至消失， 血压升高或下降， 甚至休克。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_2df4815c869e",
+      "name": "坏死",
+      "definition": "第一为免疫耐受期： 其特点是HBV 复制活跃， 血清HBsAg 水平高和HBeAg 阳 性， HBV DNA 滴度很高， 血清丙氨酸转氨酶 （ALT） 正常， 肝组织无明显坏死和纤维化。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_b3976f4824f0",
+      "name": "心肌炎",
+      "definition": "肝外并发症包括 胆道炎症、 胰腺炎、 糖尿病、 甲状腺功能亢进、 再生障碍性贫血、 溶血性贫血、 心肌炎、 肾小球肾炎、 肾小 管性酸中毒等。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_cbe11a4fd626",
+      "name": "抗原",
+      "definition": "核心直径27nm， 内含环状双股DNA、 DNA 聚合酶 （DNA polymerase， DNAP） 核心抗原 （hepatitis B core antigen， HBcAg） 是病毒复制的主体。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_e5d0d32e0e0b",
+      "name": "病毒",
+      "definition": "第三章 病毒性疾病 本章数字资源 病毒性疾病是由病毒 （virus） 引起的急、 慢性感染性疾病。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_80d6654a7796",
+      "name": "肺水肿",
+      "definition": "五 肝肺综合征 肝衰竭和肝硬化患者可出现肺水肿、 间质性肺炎、 盘状肺不张、 胸腔积液和低氧血症等改变， 统称 为肝肺综合征 （hepatopulmonary syndrome） 表现为低氧血症和高动力循环症， 临床上可出现胸闷、 气 促、 呼吸困难、 胸痛、 发绀、 头晕等症状， 严重者可出现晕厥与昏迷。",
+      "category": "应用场景",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_9e5adaecfe3b",
+      "name": "体温",
+      "definition": "表现为发热， 体温38～39℃， 伴咽 痛及口腔疼痛， 小儿常拒食， 尤以手、 足、 口腔、 臀部出现疱疹为特征。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_22cca6328686",
+      "name": "受体",
+      "definition": "VP4 为 外壳蛋白， 构成轮状病毒表面的棘突， 与宿主细胞表面的受体分子连接， 是病毒附着宿主细胞的主要 蛋白， 故与病毒的感染性和宿主特异性密切相关， 根据其抗原性不同可将轮状病毒进行血清学分型。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_83da03982b34",
+      "name": "淋巴结肿大",
+      "definition": "李智伟 第六节 | 风 疹 风疹 （rubella） 是由风疹病毒 （rubella virus） 感染引起的急性传染病， 全身症状轻， 以发热、 全身皮 疹为主要特征， 常伴有耳后、 枕后淋巴结肿大。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_a99e2116fc4b",
+      "name": "静脉滴注",
+      "definition": "（4） 其他对症治疗包括降温、 镇静、 止惊， 必要时应用促进脑细胞恢复的药物， 如神经节苷脂 20mg/d， 静脉滴注。",
+      "category": "应用场景",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_6df951151b7b",
+      "name": "弥散性血管内凝血",
+      "definition": "三 出血 肝衰竭肝细胞坏死时凝血因子合成减少， 肝硬化脾功能亢进致血小板减少， 弥散性血管内凝血 （DIC） 导致凝血因子和血小板消耗， 少数并发血小板减少性紫癜或再生障碍性贫血等因素都可引起 出血。",
+      "category": "核心概念",
+      "chapter": "第三章 病毒性疾病",
+      "page": 43,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第三章 病毒性疾病, 第 43 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_5f52e454f287",
+      "name": "动物宿主持续感染",
+      "definition": "动物宿主持续感染是病原体维持自然循环的基本条件。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_ea1fd8d5fd29",
+      "name": "弥散性血管内凝血",
+      "definition": "危重病例呈严重的多器官损害， 出现心、 肝、 肾衰竭及循环衰竭， 还可发 生弥散性血管内凝血。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_f7c50243ef4a",
+      "name": "淋巴结肿大",
+      "definition": "二 临床表现 临床表现包括起病急、 高热、 颜面潮红、 焦痂或溃疡、 皮疹、 浅表淋巴结肿大、 肝脾大， 尤以发现焦 痂或特异性溃疡最具临床诊断价值。",
+      "category": "应用场景",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_7a268ecd8d90",
+      "name": "抗原",
+      "definition": "主要有两种抗原： 一是 可溶性耐热型特异性抗原， 为群特异性抗原， 可与斑疹伤寒以外的立克次体病相鉴别；",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_6b265f556020",
+      "name": "间接免疫荧光抗体法",
+      "definition": "四 血清学检查 采用酶联免疫吸附法 （ELISA） 和间接免疫荧光抗体法 （IFA） 检测急性期和恢复期血清 仅检测 急性期的血清是不够敏感的 五 病原学检查 在血涂片中发现中性粒细胞内的特征性桑葚状包涵体是最快速的诊断方法， 但这样的包涵体通 常数量少且有时不存在。",
+      "category": "方法/指标",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_a3a8949447c0",
+      "name": "斑疹伤寒现症感染抗体检测阳性",
+      "definition": "普氏立 克次体血清抗体效价IgM≥1∶40 或IgG≥1∶160， 或两次血清标本的抗体效价提高4 倍或4 倍以上 为斑疹伤寒现症感染抗体检测阳性。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_0280b6876c23",
+      "name": "低血压休克期",
+      "definition": "以发热、 出血和 肾损害为主要表现， 典型患者有发热期、 低血压休克期、 少尿期、 多尿期和恢复期5 期经过。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_7d77ed94faa8",
+      "name": "中枢神经系统",
+      "definition": "一 典型斑疹伤寒 典型斑疹伤寒多起病急骤， 主要临床表现为发热、 皮疹及中枢神经系统症状。",
+      "category": "应用场景",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_80ce3b4f904f",
+      "name": "心肌炎",
+      "definition": "部分中毒重者可发生中毒性心肌炎， 表现为心音 低钝、 心律不齐、 奔马律。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_5ca220c17c82",
+      "name": "水肿",
+      "definition": "【病原学】 莫氏立克次体的形态、 染色特点、 生化反应、 培养条件及抵抗力均与普氏立克次体相似， 但在动物 实验上可以区别： ①莫氏立克次体接种雄性豚鼠腹腔后， 豚鼠除发热外， 阴囊高度水肿， 称为豚鼠阴囊 现象。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_62eed44d07a5",
+      "name": "复发性斑疹伤寒",
+      "definition": "患流行性斑疹伤寒后数月至数年， 可能出 现复发， 称为复发性斑疹伤寒， 又称Brill-Zinsser 病。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_b74a537b0c62",
+      "name": "典型病理变化",
+      "definition": "基本病变是小血管炎， 典型病理变化是增生性、 血栓性、 坏死性血管炎及血管周围炎性细胞浸润 所形成的斑疹伤寒结节。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_157488f67a6c",
+      "name": "具体预防措施",
+      "definition": "具体预防措施包括： ①避免蜱叮咬是降低感染风险的主要措施。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_2a23732d9a3e",
+      "name": "避免蜱叮咬",
+      "definition": "具体预防措施包括： ①避免蜱叮咬是降低感染风险的主要措施。",
+      "category": "核心概念",
+      "chapter": "第四章 立克次体病",
+      "page": 168,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第四章 立克次体病, 第 168 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_7cee226571f8",
+      "name": "静脉滴注",
+      "definition": "儿童剂量为20 万～40 万U/kg， 分3 次加 入5% 葡萄糖液内静脉滴注， 疗程5～7 天。",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_07bec4dcbf0d",
+      "name": "抗原",
+      "definition": "M 蛋白抗原变异是M 分型的基础。",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_35c8c6b4d88d",
+      "name": "休克",
+      "definition": "多种细菌可 导致血流感染 败血症 严重者表现为感染性休克， 可导致死亡。",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_18c084e4c74d",
+      "name": "坏死",
+      "definition": "二 病理解剖 败血症期主要病变是血管内皮损害， 血管壁炎症、 坏死和血栓形成， 血管周围出血。",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_3e28f9541481",
+      "name": "心肌炎",
+      "definition": "临床主要表现为发热， 咽、 喉部灰白色假膜和全身毒血症症状， 严重者可并发心肌炎和 周围神经麻痹。",
+      "category": "应用场景",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_ace2c0cea227",
+      "name": "水肿",
+      "definition": "脑膜炎期主要 病变部位在软脑膜和蛛网膜， 表现为： 血管充血、 出血、 炎症和水肿；",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_5ce90990baf0",
+      "name": "电解质",
+      "definition": "李用国 第七节 | 细菌感染性腹泻 细菌感染性腹泻 （bacterial diarrhea） 是指由细菌引起， 以腹泻为主要表现的一组常见肠道传染 病， 一般为急性表现， 也有病程超过14 天的， 为迁延性腹泻， 常伴有脱水和 / 或电解质紊乱。",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_20ec5494d632",
+      "name": "循环衰竭",
+      "definition": "志贺菌释放的内毒素入血后， 可以引起发热和毒血症， 并可通过释放各种血管活性物质， 引起急 性微循环衰竭， 进而引起感染性休克、 DIC 及重要器官功能衰竭， 临床表现为中毒型菌痢。",
+      "category": "应用场景",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_241873bf5ea8",
+      "name": "体温",
+      "definition": "3. 再燃 部分患者于缓解期， 体温还没有下降到正常时， 又重新升高， 持续5～7 天热退， 称为再 燃。",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_3ce23af33222",
+      "name": "抗体",
+      "definition": "其原因可能是A 组链球菌某些型与受感染者心肌、 肾小球基膜或关节滑囊的抗原产生交叉免疫反应， 也可能是形成了抗原 - 抗体复合物沉积在上述部位而致免疫损伤。",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_c90439d6c92d",
+      "name": "细菌",
+      "definition": "第五章 细菌性疾病 本章数字资源 细菌性疾病是由细菌引起的感染性疾病。",
+      "category": "核心概念",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_3120239259d9",
+      "name": "肌肉",
+      "definition": "四肢肌肉弛缓性瘫痪表现为深腱反射减弱和消失， 但不出现病理反射， 肢体瘫 痪较少见， 感觉正常， 意识清楚。",
+      "category": "生理机制",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_d507c2e084f6",
+      "name": "免疫聚合酶链反应",
+      "definition": "5. 其他 可用于检测肉毒毒素的方法包括侧向层析法、 原位免疫聚合酶链反应等。",
+      "category": "方法/指标",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_5cf02cfe6594",
+      "name": "外毒素",
+      "definition": "细菌是一类具有细胞壁的单细胞微生物， 按照形状可 分为球菌、 杆菌、 螺形菌 包括弧菌与螺菌 主要致病机制为产生外毒素 霍乱肠毒素、 猩红热、 白喉 内毒素 痢疾、 沙门菌、 百日咳、 流行性脑脊髓膜炎 细菌的侵袭力 痢疾 等。",
+      "category": "生理机制",
+      "chapter": "第五章 细菌性疾病",
+      "page": 180,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第五章 细菌性疾病, 第 180 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_5c1b214a9f58",
+      "name": "抗原",
+      "definition": "-1,3-D- 葡 聚糖是真菌的细胞壁成分， 广泛存在于除隐球菌和接合菌外的各类真菌细胞壁中， 占细胞壁成分的 50% 以上， 尤以酵母菌为高， 细菌、 病毒、 人体细胞及其他病原菌无此成分， 故其作为真菌抗原有较 高的特异性。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_8a7fb05fbc2f",
+      "name": "侵袭性感染",
+      "definition": "侵袭性感染是 最具破坏性的疾病形式， 主要见于免疫抑制患者， 临床表现为脑膜炎、 肺炎、 鼻窦炎等。",
+      "category": "应用场景",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_ce0c32a975af",
+      "name": "静脉注射",
+      "definition": "治疗 感染类型 首选 备选 L-AMB， 3～5mg/ （kg d） 静脉注射；",
+      "category": "应用场景",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_bb58a304b752",
+      "name": "关节新型隐球菌病",
+      "definition": "四 骨骼、 关节新型隐球菌病 骨骼、 关节新型隐球菌病约占新型隐球菌病的10%， 表现为连续数月的骨骼、 关节肿胀和疼痛。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_7f0dd22d2de1",
+      "name": "肺门淋巴结肿大",
+      "definition": "八 影像学检查 典型新型隐球菌肺部感染， 影像学表现为单个或多个界限清楚的肺部团块或结节影， 严重者可出 现阶段性、 大叶性或弥漫性肺部浸润病灶， 少数情况下还可出现胸腔积液、 肺门淋巴结肿大和肺空洞；",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_63ec32619e2a",
+      "name": "快速静脉滴注",
+      "definition": "在腰椎穿刺之前， 用20% 甘露醇250ml 快速静脉滴注可降低发生脑疝的 6/L 之间， 以淋巴细胞为主， 蛋白 危险性。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_847a8cc352b8",
+      "name": "糖皮质激素",
+      "definition": "是否存在影响免疫防御功 能的基础疾病和因素， 如恶性肿瘤、 结缔组织病、 器官移植和使用糖皮质激素或免疫抑制剂等， 其中， HIV 感染是本病重要的易感因素， 即使没有流行病学资料也不能排除本病可能。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_6a2b2b8574cd",
+      "name": "坏死",
+      "definition": "肾脏感染多为血行播散， 可累及肾皮质和髓质， 局部坏死、 脓肿， 可 导致肾功能损害， 患者表现为发热、 寒战、 腰痛和腹痛。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_02db0d5f237b",
+      "name": "侵袭性肺曲霉病",
+      "definition": "三 侵袭性曲霉病 1. 侵袭性肺曲霉病 是侵袭性曲霉病最常见的类型， 病情较为凶险， 多为局限性肉芽肿或广泛 化脓性肺炎， 伴脓肿形成。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_0a4759a5abaa",
+      "name": "腐生性曲霉病",
+      "definition": "二 腐生性曲霉病 腐生性曲霉病包括慢性空洞型曲霉病和曲霉球。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_1b8287b53cf8",
+      "name": "呼吸道传播",
+      "definition": "二 传播途径 呼吸道传播是新型隐球菌病最重要的传播途径， 也可通过皮肤伤口或消化道进入人体引起疾病， 或成为带菌者。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_72ef53a4debc",
+      "name": "作用机制均",
+      "definition": "（3） 三唑类药物： 目前该类药物种类较多， 作用机制均是通过与菌体胞膜结合， 使胞质外渗， 菌体 溶解死亡。",
+      "category": "生理机制",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_c21239e4942d",
+      "name": "黑色素",
+      "definition": "黑色素是新型隐球菌的另一致病因子， 能清除宿主效应细胞产生的过氧化物和其他氧化物， 以保 护隐球菌免受攻击。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_bf68ca789d3c",
+      "name": "酵母菌",
+      "definition": "第一节 | 念珠菌病 念珠菌病 （candidiasis） 是由各种致病性假丝酵母菌引起的局部或全身感染性疾病， 好发于免疫 功能低下的患者。",
+      "category": "核心概念",
+      "chapter": "第六章 深部真菌病",
+      "page": 247,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第六章 深部真菌病, 第 247 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_54c0a1a8e1fa",
+      "name": "神经梅毒",
+      "definition": "三 梅毒核酸检测 采用PCR 对血浆、 血清、 皮肤破损部位组织液、 淋巴结穿刺液和脑脊液等标本进行TP 核酸检测， 其优点是特异性较高， 对早期梅毒、 神经梅毒、 先天性梅毒和伴艾滋病的梅毒的诊断， 以及梅毒发病期 与既往感染的鉴别诊断均具有重要价值。",
+      "category": "应用场景",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_228fdcc7411f",
+      "name": "抗体",
+      "definition": "三 血清学检查 （1） 免疫荧光分析和 / 或酶联免疫吸附试验检测血清或脑脊液中的特异性抗体： 是莱姆病实验室 检查的首选方法。",
+      "category": "方法/指标",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_e5a4b5b9af73",
+      "name": "神经系统病变",
+      "definition": "2. 第二期 无论是否伴有其他神经系统病变， 出现脑膜炎的患者都应静脉用药。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_d215b0a33cbe",
+      "name": "静脉滴注",
+      "definition": "1. 赫氏反应 尽快使用镇静剂， 并静脉滴注氢化可的松。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_d0f403b3556a",
+      "name": "淋巴细胞",
+      "definition": "三 肾脏 间质性肾炎是钩体病患者肾脏的基本病变， 可有肾肿大， 肾小管上皮细胞变性坏死， 间质水肿， 单 核细胞、 淋巴细胞浸润和小出血。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_8db3b28b5552",
+      "name": "免疫荧光分析",
+      "definition": "三 血清学检查 （1） 免疫荧光分析和 / 或酶联免疫吸附试验检测血清或脑脊液中的特异性抗体： 是莱姆病实验室 检查的首选方法。",
+      "category": "方法/指标",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_2cdc582f0257",
+      "name": "面神经损害",
+      "definition": "面神经损害表现为面肌不完全麻痹， 麻木或刺痛， 但无明显的感觉障碍。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_9c1be866272f",
+      "name": "肌肉关节痛",
+      "definition": "本期患者多伴有发热、 寒战、 肌肉关节痛、 剧烈头痛、 颈强直等症状。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_110b12ee898f",
+      "name": "具有抗原性",
+      "definition": "外膜 具有抗原性和免疫原性， 其相应抗体为保护性抗体。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_6c6b9e5fda74",
+      "name": "骨关节病变",
+      "definition": "（2） 二期梅毒： 硬下疳如不治疗或治疗不彻底， TP 可由淋巴系统进入血液循环， 形成菌血症播散 全身， 引起皮疹、 骨关节病变、 眼部病变、 神经系统病变及其他器官病变等多系统表现， 称二期梅毒。",
+      "category": "应用场景",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_f6546309d9da",
+      "name": "视神经炎",
+      "definition": "眼部病变： 表现为虹膜炎、 虹膜睫状体炎、 脉络炎、 视神经视网膜炎、 视神经炎等， 常为双侧， 房 水中可找到TP。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_e67058806b2e",
+      "name": "出现关节",
+      "definition": "膝、 踝和肘等 大关节受累多见， 表现为反复发作的单关节炎， 出现关节和肌肉僵硬、 疼痛， 关节肿胀、 活动受限， 可 伴随体温升高和中毒症状等。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_46c714c40ddb",
+      "name": "心肌坏死",
+      "definition": "心脏包膜有出血点， 间质炎症和水 肿， 心肌坏死及肌纤维溶解。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_0626925f843e",
+      "name": "免疫力",
+      "definition": "三 人群易感性 人群普遍易感， 感染后可获较强同型免疫力， 部分型间或群间也有一定的交叉免疫， 可二次感染。",
+      "category": "核心概念",
+      "chapter": "第七章 螺旋体病",
+      "page": 263,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第七章 螺旋体病, 第 263 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_32b16abd4b3f",
+      "name": "检测特异性抗体",
+      "definition": "四 免疫学检测 1. 检测特异性抗体是诊断利什曼病， 尤其是黑热病的重要方法。",
+      "category": "方法/指标",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_db35f4ecdc11",
+      "name": "免疫学血清试验",
+      "definition": "三 免疫学血清试验 免疫学血清试验包括抗原检测和抗体检测。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_6b608d3a43ec",
+      "name": "继发细菌感染",
+      "definition": "继发细菌感染是阿米巴肝脓肿的重要并发症。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_e30a876c2041",
+      "name": "弓形虫感染",
+      "definition": "弓形虫感染是艾滋病患者重要的机会性感染之一。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_74119ce1d16a",
+      "name": "淋巴结肿大",
+      "definition": "细胞增生和继发的阻塞性充血是肝、 脾、 淋巴结肿大的基本原因。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_d2a7455feceb",
+      "name": "经口感染",
+      "definition": "二 传播途径 经口感染是主要传播途径。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_2793782103e7",
+      "name": "他不良反应",
+      "definition": "其 他不良反应包括厌食、 呕吐、 腹痛等胃肠道反应， 偶有头晕、 中性粒细胞减少等。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_b9a2a96a1f45",
+      "name": "定期检测血清抗体",
+      "definition": "二 妊娠前定期检查 孕妇应定期检测血清抗体， 首次检测的孕期为10～12 周， 阴性者须在20～22 周时复查， 不论首 次检查还是复查， 如能确定有孕期感染， 均应考虑治疗性人工流产， 以免产后约半数新生儿出现先天 性弓形虫病。",
+      "category": "应用场景",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_791ef88fc71f",
+      "name": "检测循环抗原",
+      "definition": "2. 检测特异性抗原单克隆抗体抗原斑点试验 （McAb-AST）及单克隆抗体斑点ELISA （Dot- ELISA） 检测循环抗原， 特异性及敏感性高， 用于早期诊断， 亦可用于疗效评估。",
+      "category": "应用场景",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_9f34b5a5d8cd",
+      "name": "静脉注射",
+      "definition": "首选青蒿琥酯注射剂静脉注射。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_b64610673160",
+      "name": "肿瘤",
+      "definition": "免疫功能低下者， 如接受免疫抑制治疗者、 肿瘤、 器官移植和艾滋病等患者易 感染本病， 且多呈显性感染。",
+      "category": "应用场景",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_5635f36b53f4",
+      "name": "坏死",
+      "definition": "二 急性粒细胞缺乏症 急性粒细胞缺乏症者表现为高热、 极度衰竭、 口咽部溃疡与坏死、 局部淋巴结肿大及外周血象及 中性粒细胞百分率显著减少， 甚至消失。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_79ba66603f53",
+      "name": "休克",
+      "definition": "肝脓肿向腹腔溃破可引起 急性腹膜炎， 向心包溃破可发生心包压塞和休克， 是阿米巴肝脓肿的严重并发症。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_f28d45d0847b",
+      "name": "先天性弓形虫病",
+      "definition": "④先天性弓形虫病 包括无症状感染者 ⑤弓形虫性视网膜脉络膜炎， 即 免疫功能正常伴有视力下降、 病变位于血管弓内或视盘附近、 病变大于两个视盘直径的活动性炎症 患者。",
+      "category": "核心概念",
+      "chapter": "第八章 原虫病",
+      "page": 278,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第八章 原虫病, 第 278 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_8b44d8c43a73",
+      "name": "免疫学检查",
+      "definition": "痰并 殖吸虫虫卵检查、 脑脊液免疫学检查阳性等是鉴别诊断的依据。",
+      "category": "应用场景",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_8f7eb70cd6f5",
+      "name": "感染方式",
+      "definition": "虫卵亦可在肛门周围孵化， 幼虫经肛门逆行进入肠内并发育为成 虫， 这种感染方式称为逆行感染。",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_848ab232a532",
+      "name": "宿主体内发育过程",
+      "definition": "虫体细小， 雌雄 同体， 常寄生于十二指肠及空肠上部， 在宿主体内发育过程分为成虫、 脱囊期幼虫、 移行期幼虫和成囊 期幼虫4 个阶段。",
+      "category": "生理机制",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_075f56e8d470",
+      "name": "羊循环株",
+      "definition": "犬 - 羊循环株是最主要的病原。",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_61efced32724",
+      "name": "抗原",
+      "definition": "虫卵周围有嗜酸性辐射 样棒状物， 系抗原与抗体结合的免疫复合物， 称为何博礼现象 （Hoeppli phenomena）",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_de56f4d46aa0",
+      "name": "水肿",
+      "definition": "但此药的缺点是不良反应大， 因其杀虫作用迅速， 虫体死亡后， 囊结周 围的炎症反应和水肿明显加重， 出现原有症状加剧， 颅内压明显增高， 甚至个别病例治疗后因发生脑 疝而死亡， 所以在运用该药的过程中， 应密切观察， 注意颅内压的变化。",
+      "category": "生理机制",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_4455aee48acf",
+      "name": "贫血",
+      "definition": "临床常见表现为贫血、 营养不良、 胃肠功能失调、 劳动力下降。",
+      "category": "应用场景",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_b3a45e3df69c",
+      "name": "门静脉高压",
+      "definition": "门静脉血管壁增 厚， 门静脉细支发生窦前阻塞， 引起门静脉高压， 致使腹壁、 食管、 胃底静脉曲张。",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_52113d0fb295",
+      "name": "血吸虫病",
+      "definition": "第一节 | 吸虫病 一、 日本血吸虫病 血吸虫病 （schistosomiasis） 是由血吸虫寄生于人体所致的疾病。",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_43b7f8065a8b",
+      "name": "感染性虫卵",
+      "definition": "未受精卵不能发育， 受精卵随粪便排出， 在适宜环境发育 为含杆状蚴虫卵 感染性虫卵 此时被吞食即可导致感染。",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_dba65f21379f",
+      "name": "重度感染",
+      "definition": "重度感染者及有肝、 胆并发症者， 特别是 儿童营养不良时， - 谷氨酰转移酶、 碱性磷酸酶升高。",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_1aa4142075a3",
+      "name": "感染猪",
+      "definition": "【流行病学】 一 传染源 感染猪或牛带绦虫的患者是该病的传染源。",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_76f07bdd4323",
+      "name": "炎症",
+      "definition": "囊尾蚴的形成是囊尾蚴与宿主组织炎症反应相互间不断作用的病理生理演变过程。",
+      "category": "生理机制",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_53ae95e79755",
+      "name": "蛔虫病",
+      "definition": "人类线虫感染所导致的疾 病包括钩虫病、 蛔虫病、 蛲虫病、 鞭虫病、 旋毛虫病等。",
+      "category": "核心概念",
+      "chapter": "第九章 蠕虫病",
+      "page": 301,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第九章 蠕虫病, 第 301 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_2690caebfb15",
+      "name": "感染性休克",
+      "definition": "第十章 其他感染相关问题 本章数字资源 本章介绍其他感染相关问题， 包括败血症 血流感染 感染性休克、 医院感染、 抗菌药物的临床应 用、 感染微生态学理论与实践及人工肝脏。",
+      "category": "应用场景",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_4e5c4b4073b8",
+      "name": "医院感染",
+      "definition": "第十章 其他感染相关问题 本章数字资源 本章介绍其他感染相关问题， 包括败血症 血流感染 感染性休克、 医院感染、 抗菌药物的临床应 用、 感染微生态学理论与实践及人工肝脏。",
+      "category": "应用场景",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_b1c837c4fe85",
+      "name": "微生态调节剂",
+      "definition": "微生态调节剂包括益生菌 （probiotics） 益生元 （prebiotics） 合生元 （synbiotics） 及粪便菌群 移植等。",
+      "category": "核心概念",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_86843015f3db",
+      "name": "手术部位感染",
+      "definition": "【临床常见的医院感染】 虽然医院感染发生的部位不同， 病原体亦有多种， 但严重影响患者医疗安全、 可通过措施有效 控制的常见医院感染包括： ①中心导管相关血流感染 （central line associated bloodstream infection， CLABSI） ②呼吸机相关肺炎 （ventilator associated pneumonia， VAP） ③尿管相关尿路感染 （catheter associated uri",
+      "category": "应用场景",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_f3d8715b2002",
+      "name": "血流感染",
+      "definition": "第十章 其他感染相关问题 本章数字资源 本章介绍其他感染相关问题， 包括败血症 血流感染 感染性休克、 医院感染、 抗菌药物的临床应 用、 感染微生态学理论与实践及人工肝脏。",
+      "category": "应用场景",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_520e499e6223",
+      "name": "微生态平衡",
+      "definition": "微生态平衡是健康 的基础， 微生态失衡可使人体从健康转向疾病。",
+      "category": "核心概念",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_828424ad1224",
+      "name": "尿路感染",
+      "definition": "【临床常见的医院感染】 虽然医院感染发生的部位不同， 病原体亦有多种， 但严重影响患者医疗安全、 可通过措施有效 控制的常见医院感染包括： ①中心导管相关血流感染 （central line associated bloodstream infection， CLABSI） ②呼吸机相关肺炎 （ventilator associated pneumonia， VAP） ③尿管相关尿路感染 （catheter associated uri",
+      "category": "应用场景",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_0423da630f13",
+      "name": "微生态学",
+      "definition": "第十章 其他感染相关问题 本章数字资源 本章介绍其他感染相关问题， 包括败血症 血流感染 感染性休克、 医院感染、 抗菌药物的临床应 用、 感染微生态学理论与实践及人工肝脏。",
+      "category": "应用场景",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_8d3fdb73803b",
+      "name": "受体",
+      "definition": "人体通过一系列的模式识别受体来识 别病原微生物的保守结构， 即病原相关分子模式， 这种先天性模式识别受体包括Toll 样受体 （toll-like receptors， TLRs） 核苷酸结合寡聚化结构域 （nucleotide-binding oligomerization domain， NOD） 蛋白质和 解旋酶中的维A 酸诱导基因1 （retinoic acid inducible gene 1， RIG-1） 广泛参与细胞内病",
+      "category": "核心概念",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_98ec559c01a8",
+      "name": "过敏性休克",
+      "definition": "过敏性休克是机体对某些药物 如青霉素等 或生物制 品发生过敏反应所致。",
+      "category": "核心概念",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_a16a9aee33a3",
+      "name": "细菌性感染",
+      "definition": "一 细菌性感染是抗菌药物应用的唯一指征 抗菌药物只对各种细菌和真菌感染 部分抗菌药物也用于支原体、 衣原体， 螺旋体、 立克次体及原 虫等病原微生物所致的感染 治疗有效， 缺乏这些感染证据者均无用药指征。",
+      "category": "应用场景",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_5c1be2784091",
+      "name": "免疫",
+      "definition": "病原菌进入血液循环后 迅速被机体免疫功能清除， 未引起明显全身炎症反应者称为菌血症 （bacteremia）",
+      "category": "核心概念",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_c6701da5d963",
+      "name": "黏膜屏障结构破坏",
+      "definition": "皮肤外伤、 黏膜屏障结构破坏是革兰氏阳性菌败血症的主要诱因。",
+      "category": "核心概念",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_5ad04e6bcb54",
+      "name": "上述事实证明感染",
+      "definition": "上述事实证明感染是宿主的生理现象。",
+      "category": "核心概念",
+      "chapter": "第十章 其他感染相关问题",
+      "page": 342,
+      "textbook_id": "book_786a362bca53",
+      "textbook_title": "06_传染病学",
+      "source": "06_传染病学, 第十章 其他感染相关问题, 第 342 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    }
+  ],
+  "edges": [
+    {
+      "source": "node_0ee07f842847",
+      "target": "node_7511c9fd01ae",
+      "relation_type": "contains",
+      "description": "“第一章 总论”中的核心主题“特异性免疫”包含或统摄“隐性感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_0ee07f842847",
+      "target": "node_fa8e49df387c",
+      "relation_type": "contains",
+      "description": "“第一章 总论”中的核心主题“特异性免疫”包含或统摄“新发感染病”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_0ee07f842847",
+      "target": "node_a5513405ca56",
+      "relation_type": "contains",
+      "description": "“第一章 总论”中的核心主题“特异性免疫”包含或统摄“感染后免疫”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_0ee07f842847",
+      "target": "node_b789934af3f3",
+      "relation_type": "contains",
+      "description": "“第一章 总论”中的核心主题“特异性免疫”包含或统摄“人工自动免疫”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_0ee07f842847",
+      "target": "node_62dfb22fd708",
+      "relation_type": "contains",
+      "description": "“第一章 总论”中的核心主题“特异性免疫”包含或统摄“医院感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_0ee07f842847",
+      "target": "node_e74bc06e722e",
+      "relation_type": "contains",
+      "description": "“第一章 总论”中的核心主题“特异性免疫”包含或统摄“同一种病原体感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_0ee07f842847",
+      "target": "node_bb979b229f75",
+      "relation_type": "contains",
+      "description": "“第一章 总论”中的核心主题“特异性免疫”包含或统摄“他病原体感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_fa8e49df387c",
+      "target": "node_a5513405ca56",
+      "relation_type": "parallel",
+      "description": "“新发感染病”与“感染后免疫”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_fa8e49df387c",
+      "target": "node_b789934af3f3",
+      "relation_type": "parallel",
+      "description": "“新发感染病”与“人工自动免疫”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_fa8e49df387c",
+      "target": "node_62dfb22fd708",
+      "relation_type": "parallel",
+      "description": "“新发感染病”与“医院感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_fa8e49df387c",
+      "target": "node_e74bc06e722e",
+      "relation_type": "parallel",
+      "description": "“新发感染病”与“同一种病原体感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a5513405ca56",
+      "target": "node_b789934af3f3",
+      "relation_type": "parallel",
+      "description": "“感染后免疫”与“人工自动免疫”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a5513405ca56",
+      "target": "node_62dfb22fd708",
+      "relation_type": "parallel",
+      "description": "“感染后免疫”与“医院感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a5513405ca56",
+      "target": "node_e74bc06e722e",
+      "relation_type": "parallel",
+      "description": "“感染后免疫”与“同一种病原体感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b789934af3f3",
+      "target": "node_62dfb22fd708",
+      "relation_type": "parallel",
+      "description": "“人工自动免疫”与“医院感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b789934af3f3",
+      "target": "node_e74bc06e722e",
+      "relation_type": "parallel",
+      "description": "“人工自动免疫”与“同一种病原体感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_62dfb22fd708",
+      "target": "node_e74bc06e722e",
+      "relation_type": "parallel",
+      "description": "“医院感染”与“同一种病原体感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7511c9fd01ae",
+      "target": "node_0ee07f842847",
+      "relation_type": "applies_to",
+      "description": "“隐性感染”可用于解释“特异性免疫”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_fa8e49df387c",
+      "target": "node_0ee07f842847",
+      "relation_type": "applies_to",
+      "description": "“新发感染病”可用于解释“特异性免疫”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_6b67633b52cc",
+      "target": "node_0ee07f842847",
+      "relation_type": "applies_to",
+      "description": "“干扰素等免疫调节剂”可用于解释“特异性免疫”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_99b31f86dc97",
+      "target": "node_7d124fc7f6d5",
+      "relation_type": "contains",
+      "description": "“第二章 新发感染病”中的核心主题“新发感染病”包含或统摄“多重耐药菌感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_99b31f86dc97",
+      "target": "node_3673fcf7f827",
+      "relation_type": "contains",
+      "description": "“第二章 新发感染病”中的核心主题“新发感染病”包含或统摄“感染病仍然”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_99b31f86dc97",
+      "target": "node_f4856629da9c",
+      "relation_type": "contains",
+      "description": "“第二章 新发感染病”中的核心主题“新发感染病”包含或统摄“新型冠状病毒感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_99b31f86dc97",
+      "target": "node_a45dcdbd079a",
+      "relation_type": "contains",
+      "description": "“第二章 新发感染病”中的核心主题“新发感染病”包含或统摄“人类免疫缺陷病毒”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_99b31f86dc97",
+      "target": "node_9052742cb20e",
+      "relation_type": "contains",
+      "description": "“第二章 新发感染病”中的核心主题“新发感染病”包含或统摄“遗传和变异”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_99b31f86dc97",
+      "target": "node_25bf579c5a7d",
+      "relation_type": "contains",
+      "description": "“第二章 新发感染病”中的核心主题“新发感染病”包含或统摄“综合征”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_99b31f86dc97",
+      "target": "node_c9f8aedf5e6d",
+      "relation_type": "contains",
+      "description": "“第二章 新发感染病”中的核心主题“新发感染病”包含或统摄“猿猴免疫缺陷病毒”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_7d124fc7f6d5",
+      "target": "node_3673fcf7f827",
+      "relation_type": "parallel",
+      "description": "“多重耐药菌感染”与“感染病仍然”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7d124fc7f6d5",
+      "target": "node_f4856629da9c",
+      "relation_type": "parallel",
+      "description": "“多重耐药菌感染”与“新型冠状病毒感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7d124fc7f6d5",
+      "target": "node_a45dcdbd079a",
+      "relation_type": "parallel",
+      "description": "“多重耐药菌感染”与“人类免疫缺陷病毒”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7d124fc7f6d5",
+      "target": "node_9052742cb20e",
+      "relation_type": "parallel",
+      "description": "“多重耐药菌感染”与“遗传和变异”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7d124fc7f6d5",
+      "target": "node_25bf579c5a7d",
+      "relation_type": "parallel",
+      "description": "“多重耐药菌感染”与“综合征”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_3673fcf7f827",
+      "target": "node_f4856629da9c",
+      "relation_type": "parallel",
+      "description": "“感染病仍然”与“新型冠状病毒感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_3673fcf7f827",
+      "target": "node_a45dcdbd079a",
+      "relation_type": "parallel",
+      "description": "“感染病仍然”与“人类免疫缺陷病毒”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_3673fcf7f827",
+      "target": "node_9052742cb20e",
+      "relation_type": "parallel",
+      "description": "“感染病仍然”与“遗传和变异”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_3673fcf7f827",
+      "target": "node_25bf579c5a7d",
+      "relation_type": "parallel",
+      "description": "“感染病仍然”与“综合征”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f4856629da9c",
+      "target": "node_a45dcdbd079a",
+      "relation_type": "parallel",
+      "description": "“新型冠状病毒感染”与“人类免疫缺陷病毒”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f4856629da9c",
+      "target": "node_9052742cb20e",
+      "relation_type": "parallel",
+      "description": "“新型冠状病毒感染”与“遗传和变异”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f4856629da9c",
+      "target": "node_25bf579c5a7d",
+      "relation_type": "parallel",
+      "description": "“新型冠状病毒感染”与“综合征”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a45dcdbd079a",
+      "target": "node_9052742cb20e",
+      "relation_type": "parallel",
+      "description": "“人类免疫缺陷病毒”与“遗传和变异”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a45dcdbd079a",
+      "target": "node_25bf579c5a7d",
+      "relation_type": "parallel",
+      "description": "“人类免疫缺陷病毒”与“综合征”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_9052742cb20e",
+      "target": "node_25bf579c5a7d",
+      "relation_type": "parallel",
+      "description": "“遗传和变异”与“综合征”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f4856629da9c",
+      "target": "node_99b31f86dc97",
+      "relation_type": "applies_to",
+      "description": "“新型冠状病毒感染”可用于解释“新发感染病”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_a45dcdbd079a",
+      "target": "node_99b31f86dc97",
+      "relation_type": "applies_to",
+      "description": "“人类免疫缺陷病毒”可用于解释“新发感染病”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_25bf579c5a7d",
+      "target": "node_99b31f86dc97",
+      "relation_type": "applies_to",
+      "description": "“综合征”可用于解释“新发感染病”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_9494eed06d13",
+      "target": "node_99b31f86dc97",
+      "relation_type": "applies_to",
+      "description": "“禽流感病毒从感染禽类到感染人”可用于解释“新发感染病”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_2fcb1bfa0b83",
+      "target": "node_99b31f86dc97",
+      "relation_type": "applies_to",
+      "description": "“传播疾病等老感染病再度肆虐”可用于解释“新发感染病”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_67b0b4b70910",
+      "target": "node_99b31f86dc97",
+      "relation_type": "applies_to",
+      "description": "“淋巴性脉络丛脑膜”可用于解释“新发感染病”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_3ae788d5f635",
+      "target": "node_b2a8e5c6e9f2",
+      "relation_type": "contains",
+      "description": "“第三章 病毒性疾病”中的核心主题“淋巴细胞”包含或统摄“抗体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_3ae788d5f635",
+      "target": "node_766265141ba1",
+      "relation_type": "contains",
+      "description": "“第三章 病毒性疾病”中的核心主题“淋巴细胞”包含或统摄“电解质”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_3ae788d5f635",
+      "target": "node_5e00bc39a406",
+      "relation_type": "contains",
+      "description": "“第三章 病毒性疾病”中的核心主题“淋巴细胞”包含或统摄“休克”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_3ae788d5f635",
+      "target": "node_2df4815c869e",
+      "relation_type": "contains",
+      "description": "“第三章 病毒性疾病”中的核心主题“淋巴细胞”包含或统摄“坏死”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_3ae788d5f635",
+      "target": "node_b3976f4824f0",
+      "relation_type": "contains",
+      "description": "“第三章 病毒性疾病”中的核心主题“淋巴细胞”包含或统摄“心肌炎”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_3ae788d5f635",
+      "target": "node_cbe11a4fd626",
+      "relation_type": "contains",
+      "description": "“第三章 病毒性疾病”中的核心主题“淋巴细胞”包含或统摄“抗原”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_3ae788d5f635",
+      "target": "node_e5d0d32e0e0b",
+      "relation_type": "contains",
+      "description": "“第三章 病毒性疾病”中的核心主题“淋巴细胞”包含或统摄“病毒”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_b2a8e5c6e9f2",
+      "target": "node_766265141ba1",
+      "relation_type": "parallel",
+      "description": "“抗体”与“电解质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b2a8e5c6e9f2",
+      "target": "node_5e00bc39a406",
+      "relation_type": "parallel",
+      "description": "“抗体”与“休克”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b2a8e5c6e9f2",
+      "target": "node_2df4815c869e",
+      "relation_type": "parallel",
+      "description": "“抗体”与“坏死”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b2a8e5c6e9f2",
+      "target": "node_b3976f4824f0",
+      "relation_type": "parallel",
+      "description": "“抗体”与“心肌炎”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b2a8e5c6e9f2",
+      "target": "node_cbe11a4fd626",
+      "relation_type": "parallel",
+      "description": "“抗体”与“抗原”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_766265141ba1",
+      "target": "node_5e00bc39a406",
+      "relation_type": "parallel",
+      "description": "“电解质”与“休克”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_766265141ba1",
+      "target": "node_2df4815c869e",
+      "relation_type": "parallel",
+      "description": "“电解质”与“坏死”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_766265141ba1",
+      "target": "node_b3976f4824f0",
+      "relation_type": "parallel",
+      "description": "“电解质”与“心肌炎”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_766265141ba1",
+      "target": "node_cbe11a4fd626",
+      "relation_type": "parallel",
+      "description": "“电解质”与“抗原”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_5e00bc39a406",
+      "target": "node_2df4815c869e",
+      "relation_type": "parallel",
+      "description": "“休克”与“坏死”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_5e00bc39a406",
+      "target": "node_b3976f4824f0",
+      "relation_type": "parallel",
+      "description": "“休克”与“心肌炎”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_5e00bc39a406",
+      "target": "node_cbe11a4fd626",
+      "relation_type": "parallel",
+      "description": "“休克”与“抗原”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2df4815c869e",
+      "target": "node_b3976f4824f0",
+      "relation_type": "parallel",
+      "description": "“坏死”与“心肌炎”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2df4815c869e",
+      "target": "node_cbe11a4fd626",
+      "relation_type": "parallel",
+      "description": "“坏死”与“抗原”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b3976f4824f0",
+      "target": "node_cbe11a4fd626",
+      "relation_type": "parallel",
+      "description": "“心肌炎”与“抗原”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e5d0d32e0e0b",
+      "target": "node_3ae788d5f635",
+      "relation_type": "applies_to",
+      "description": "“病毒”可用于解释“淋巴细胞”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_80d6654a7796",
+      "target": "node_3ae788d5f635",
+      "relation_type": "applies_to",
+      "description": "“肺水肿”可用于解释“淋巴细胞”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_a99e2116fc4b",
+      "target": "node_3ae788d5f635",
+      "relation_type": "applies_to",
+      "description": "“静脉滴注”可用于解释“淋巴细胞”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_5f52e454f287",
+      "target": "node_ea1fd8d5fd29",
+      "relation_type": "contains",
+      "description": "“第四章 立克次体病”中的核心主题“动物宿主持续感染”包含或统摄“弥散性血管内凝血”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f52e454f287",
+      "target": "node_f7c50243ef4a",
+      "relation_type": "contains",
+      "description": "“第四章 立克次体病”中的核心主题“动物宿主持续感染”包含或统摄“淋巴结肿大”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f52e454f287",
+      "target": "node_7a268ecd8d90",
+      "relation_type": "contains",
+      "description": "“第四章 立克次体病”中的核心主题“动物宿主持续感染”包含或统摄“抗原”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f52e454f287",
+      "target": "node_6b265f556020",
+      "relation_type": "contains",
+      "description": "“第四章 立克次体病”中的核心主题“动物宿主持续感染”包含或统摄“间接免疫荧光抗体法”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f52e454f287",
+      "target": "node_a3a8949447c0",
+      "relation_type": "contains",
+      "description": "“第四章 立克次体病”中的核心主题“动物宿主持续感染”包含或统摄“斑疹伤寒现症感染抗体检测阳性”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f52e454f287",
+      "target": "node_0280b6876c23",
+      "relation_type": "contains",
+      "description": "“第四章 立克次体病”中的核心主题“动物宿主持续感染”包含或统摄“低血压休克期”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f52e454f287",
+      "target": "node_7d77ed94faa8",
+      "relation_type": "contains",
+      "description": "“第四章 立克次体病”中的核心主题“动物宿主持续感染”包含或统摄“中枢神经系统”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_ea1fd8d5fd29",
+      "target": "node_7a268ecd8d90",
+      "relation_type": "parallel",
+      "description": "“弥散性血管内凝血”与“抗原”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ea1fd8d5fd29",
+      "target": "node_a3a8949447c0",
+      "relation_type": "parallel",
+      "description": "“弥散性血管内凝血”与“斑疹伤寒现症感染抗体检测阳性”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ea1fd8d5fd29",
+      "target": "node_0280b6876c23",
+      "relation_type": "parallel",
+      "description": "“弥散性血管内凝血”与“低血压休克期”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7a268ecd8d90",
+      "target": "node_a3a8949447c0",
+      "relation_type": "parallel",
+      "description": "“抗原”与“斑疹伤寒现症感染抗体检测阳性”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7a268ecd8d90",
+      "target": "node_0280b6876c23",
+      "relation_type": "parallel",
+      "description": "“抗原”与“低血压休克期”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a3a8949447c0",
+      "target": "node_0280b6876c23",
+      "relation_type": "parallel",
+      "description": "“斑疹伤寒现症感染抗体检测阳性”与“低血压休克期”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f7c50243ef4a",
+      "target": "node_5f52e454f287",
+      "relation_type": "applies_to",
+      "description": "“淋巴结肿大”可用于解释“动物宿主持续感染”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_6b265f556020",
+      "target": "node_5f52e454f287",
+      "relation_type": "applies_to",
+      "description": "“间接免疫荧光抗体法”可用于解释“动物宿主持续感染”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_7d77ed94faa8",
+      "target": "node_5f52e454f287",
+      "relation_type": "applies_to",
+      "description": "“中枢神经系统”可用于解释“动物宿主持续感染”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_7cee226571f8",
+      "target": "node_07bec4dcbf0d",
+      "relation_type": "contains",
+      "description": "“第五章 细菌性疾病”中的核心主题“静脉滴注”包含或统摄“抗原”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_7cee226571f8",
+      "target": "node_35c8c6b4d88d",
+      "relation_type": "contains",
+      "description": "“第五章 细菌性疾病”中的核心主题“静脉滴注”包含或统摄“休克”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_7cee226571f8",
+      "target": "node_18c084e4c74d",
+      "relation_type": "contains",
+      "description": "“第五章 细菌性疾病”中的核心主题“静脉滴注”包含或统摄“坏死”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_7cee226571f8",
+      "target": "node_3e28f9541481",
+      "relation_type": "contains",
+      "description": "“第五章 细菌性疾病”中的核心主题“静脉滴注”包含或统摄“心肌炎”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_7cee226571f8",
+      "target": "node_ace2c0cea227",
+      "relation_type": "contains",
+      "description": "“第五章 细菌性疾病”中的核心主题“静脉滴注”包含或统摄“水肿”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_7cee226571f8",
+      "target": "node_5ce90990baf0",
+      "relation_type": "contains",
+      "description": "“第五章 细菌性疾病”中的核心主题“静脉滴注”包含或统摄“电解质”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_7cee226571f8",
+      "target": "node_20ec5494d632",
+      "relation_type": "contains",
+      "description": "“第五章 细菌性疾病”中的核心主题“静脉滴注”包含或统摄“循环衰竭”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_07bec4dcbf0d",
+      "target": "node_35c8c6b4d88d",
+      "relation_type": "parallel",
+      "description": "“抗原”与“休克”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_07bec4dcbf0d",
+      "target": "node_18c084e4c74d",
+      "relation_type": "parallel",
+      "description": "“抗原”与“坏死”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_07bec4dcbf0d",
+      "target": "node_ace2c0cea227",
+      "relation_type": "parallel",
+      "description": "“抗原”与“水肿”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_07bec4dcbf0d",
+      "target": "node_5ce90990baf0",
+      "relation_type": "parallel",
+      "description": "“抗原”与“电解质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35c8c6b4d88d",
+      "target": "node_18c084e4c74d",
+      "relation_type": "parallel",
+      "description": "“休克”与“坏死”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35c8c6b4d88d",
+      "target": "node_ace2c0cea227",
+      "relation_type": "parallel",
+      "description": "“休克”与“水肿”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35c8c6b4d88d",
+      "target": "node_5ce90990baf0",
+      "relation_type": "parallel",
+      "description": "“休克”与“电解质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_18c084e4c74d",
+      "target": "node_ace2c0cea227",
+      "relation_type": "parallel",
+      "description": "“坏死”与“水肿”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_18c084e4c74d",
+      "target": "node_5ce90990baf0",
+      "relation_type": "parallel",
+      "description": "“坏死”与“电解质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ace2c0cea227",
+      "target": "node_5ce90990baf0",
+      "relation_type": "parallel",
+      "description": "“水肿”与“电解质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_3e28f9541481",
+      "target": "node_7cee226571f8",
+      "relation_type": "applies_to",
+      "description": "“心肌炎”可用于解释“静脉滴注”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_20ec5494d632",
+      "target": "node_7cee226571f8",
+      "relation_type": "applies_to",
+      "description": "“循环衰竭”可用于解释“静脉滴注”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_c90439d6c92d",
+      "target": "node_7cee226571f8",
+      "relation_type": "applies_to",
+      "description": "“细菌”可用于解释“静脉滴注”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_5c1b214a9f58",
+      "target": "node_8a7fb05fbc2f",
+      "relation_type": "contains",
+      "description": "“第六章 深部真菌病”中的核心主题“抗原”包含或统摄“侵袭性感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5c1b214a9f58",
+      "target": "node_ce0c32a975af",
+      "relation_type": "contains",
+      "description": "“第六章 深部真菌病”中的核心主题“抗原”包含或统摄“静脉注射”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5c1b214a9f58",
+      "target": "node_bb58a304b752",
+      "relation_type": "contains",
+      "description": "“第六章 深部真菌病”中的核心主题“抗原”包含或统摄“关节新型隐球菌病”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5c1b214a9f58",
+      "target": "node_7f0dd22d2de1",
+      "relation_type": "contains",
+      "description": "“第六章 深部真菌病”中的核心主题“抗原”包含或统摄“肺门淋巴结肿大”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5c1b214a9f58",
+      "target": "node_63ec32619e2a",
+      "relation_type": "contains",
+      "description": "“第六章 深部真菌病”中的核心主题“抗原”包含或统摄“快速静脉滴注”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5c1b214a9f58",
+      "target": "node_847a8cc352b8",
+      "relation_type": "contains",
+      "description": "“第六章 深部真菌病”中的核心主题“抗原”包含或统摄“糖皮质激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5c1b214a9f58",
+      "target": "node_6a2b2b8574cd",
+      "relation_type": "contains",
+      "description": "“第六章 深部真菌病”中的核心主题“抗原”包含或统摄“坏死”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8a7fb05fbc2f",
+      "target": "node_ce0c32a975af",
+      "relation_type": "parallel",
+      "description": "“侵袭性感染”与“静脉注射”均属于应用场景层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bb58a304b752",
+      "target": "node_7f0dd22d2de1",
+      "relation_type": "parallel",
+      "description": "“关节新型隐球菌病”与“肺门淋巴结肿大”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bb58a304b752",
+      "target": "node_63ec32619e2a",
+      "relation_type": "parallel",
+      "description": "“关节新型隐球菌病”与“快速静脉滴注”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bb58a304b752",
+      "target": "node_847a8cc352b8",
+      "relation_type": "parallel",
+      "description": "“关节新型隐球菌病”与“糖皮质激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7f0dd22d2de1",
+      "target": "node_63ec32619e2a",
+      "relation_type": "parallel",
+      "description": "“肺门淋巴结肿大”与“快速静脉滴注”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7f0dd22d2de1",
+      "target": "node_847a8cc352b8",
+      "relation_type": "parallel",
+      "description": "“肺门淋巴结肿大”与“糖皮质激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_63ec32619e2a",
+      "target": "node_847a8cc352b8",
+      "relation_type": "parallel",
+      "description": "“快速静脉滴注”与“糖皮质激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_8a7fb05fbc2f",
+      "target": "node_5c1b214a9f58",
+      "relation_type": "applies_to",
+      "description": "“侵袭性感染”可用于解释“抗原”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_ce0c32a975af",
+      "target": "node_5c1b214a9f58",
+      "relation_type": "applies_to",
+      "description": "“静脉注射”可用于解释“抗原”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_847a8cc352b8",
+      "target": "node_5c1b214a9f58",
+      "relation_type": "applies_to",
+      "description": "“糖皮质激素”可用于解释“抗原”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_1b8287b53cf8",
+      "target": "node_5c1b214a9f58",
+      "relation_type": "applies_to",
+      "description": "“呼吸道传播”可用于解释“抗原”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_bf68ca789d3c",
+      "target": "node_5c1b214a9f58",
+      "relation_type": "applies_to",
+      "description": "“酵母菌”可用于解释“抗原”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_54c0a1a8e1fa",
+      "target": "node_228fdcc7411f",
+      "relation_type": "contains",
+      "description": "“第七章 螺旋体病”中的核心主题“神经梅毒”包含或统摄“抗体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_54c0a1a8e1fa",
+      "target": "node_e5a4b5b9af73",
+      "relation_type": "contains",
+      "description": "“第七章 螺旋体病”中的核心主题“神经梅毒”包含或统摄“神经系统病变”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_54c0a1a8e1fa",
+      "target": "node_d215b0a33cbe",
+      "relation_type": "contains",
+      "description": "“第七章 螺旋体病”中的核心主题“神经梅毒”包含或统摄“静脉滴注”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_54c0a1a8e1fa",
+      "target": "node_d0f403b3556a",
+      "relation_type": "contains",
+      "description": "“第七章 螺旋体病”中的核心主题“神经梅毒”包含或统摄“淋巴细胞”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_54c0a1a8e1fa",
+      "target": "node_8db3b28b5552",
+      "relation_type": "contains",
+      "description": "“第七章 螺旋体病”中的核心主题“神经梅毒”包含或统摄“免疫荧光分析”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_54c0a1a8e1fa",
+      "target": "node_2cdc582f0257",
+      "relation_type": "contains",
+      "description": "“第七章 螺旋体病”中的核心主题“神经梅毒”包含或统摄“面神经损害”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_54c0a1a8e1fa",
+      "target": "node_9c1be866272f",
+      "relation_type": "contains",
+      "description": "“第七章 螺旋体病”中的核心主题“神经梅毒”包含或统摄“肌肉关节痛”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_228fdcc7411f",
+      "target": "node_8db3b28b5552",
+      "relation_type": "parallel",
+      "description": "“抗体”与“免疫荧光分析”均属于方法/指标层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e5a4b5b9af73",
+      "target": "node_d215b0a33cbe",
+      "relation_type": "parallel",
+      "description": "“神经系统病变”与“静脉滴注”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e5a4b5b9af73",
+      "target": "node_d0f403b3556a",
+      "relation_type": "parallel",
+      "description": "“神经系统病变”与“淋巴细胞”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e5a4b5b9af73",
+      "target": "node_2cdc582f0257",
+      "relation_type": "parallel",
+      "description": "“神经系统病变”与“面神经损害”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d215b0a33cbe",
+      "target": "node_d0f403b3556a",
+      "relation_type": "parallel",
+      "description": "“静脉滴注”与“淋巴细胞”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d215b0a33cbe",
+      "target": "node_2cdc582f0257",
+      "relation_type": "parallel",
+      "description": "“静脉滴注”与“面神经损害”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d0f403b3556a",
+      "target": "node_2cdc582f0257",
+      "relation_type": "parallel",
+      "description": "“淋巴细胞”与“面神经损害”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6c6b9e5fda74",
+      "target": "node_54c0a1a8e1fa",
+      "relation_type": "applies_to",
+      "description": "“骨关节病变”可用于解释“神经梅毒”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_32b16abd4b3f",
+      "target": "node_db35f4ecdc11",
+      "relation_type": "contains",
+      "description": "“第八章 原虫病”中的核心主题“检测特异性抗体”包含或统摄“免疫学血清试验”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_32b16abd4b3f",
+      "target": "node_6b608d3a43ec",
+      "relation_type": "contains",
+      "description": "“第八章 原虫病”中的核心主题“检测特异性抗体”包含或统摄“继发细菌感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_32b16abd4b3f",
+      "target": "node_e30a876c2041",
+      "relation_type": "contains",
+      "description": "“第八章 原虫病”中的核心主题“检测特异性抗体”包含或统摄“弓形虫感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_32b16abd4b3f",
+      "target": "node_74119ce1d16a",
+      "relation_type": "contains",
+      "description": "“第八章 原虫病”中的核心主题“检测特异性抗体”包含或统摄“淋巴结肿大”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_32b16abd4b3f",
+      "target": "node_d2a7455feceb",
+      "relation_type": "contains",
+      "description": "“第八章 原虫病”中的核心主题“检测特异性抗体”包含或统摄“经口感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_32b16abd4b3f",
+      "target": "node_2793782103e7",
+      "relation_type": "contains",
+      "description": "“第八章 原虫病”中的核心主题“检测特异性抗体”包含或统摄“他不良反应”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_32b16abd4b3f",
+      "target": "node_b9a2a96a1f45",
+      "relation_type": "contains",
+      "description": "“第八章 原虫病”中的核心主题“检测特异性抗体”包含或统摄“定期检测血清抗体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_db35f4ecdc11",
+      "target": "node_6b608d3a43ec",
+      "relation_type": "parallel",
+      "description": "“免疫学血清试验”与“继发细菌感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_db35f4ecdc11",
+      "target": "node_e30a876c2041",
+      "relation_type": "parallel",
+      "description": "“免疫学血清试验”与“弓形虫感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_db35f4ecdc11",
+      "target": "node_74119ce1d16a",
+      "relation_type": "parallel",
+      "description": "“免疫学血清试验”与“淋巴结肿大”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_db35f4ecdc11",
+      "target": "node_d2a7455feceb",
+      "relation_type": "parallel",
+      "description": "“免疫学血清试验”与“经口感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_db35f4ecdc11",
+      "target": "node_2793782103e7",
+      "relation_type": "parallel",
+      "description": "“免疫学血清试验”与“他不良反应”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6b608d3a43ec",
+      "target": "node_e30a876c2041",
+      "relation_type": "parallel",
+      "description": "“继发细菌感染”与“弓形虫感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6b608d3a43ec",
+      "target": "node_74119ce1d16a",
+      "relation_type": "parallel",
+      "description": "“继发细菌感染”与“淋巴结肿大”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6b608d3a43ec",
+      "target": "node_d2a7455feceb",
+      "relation_type": "parallel",
+      "description": "“继发细菌感染”与“经口感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6b608d3a43ec",
+      "target": "node_2793782103e7",
+      "relation_type": "parallel",
+      "description": "“继发细菌感染”与“他不良反应”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e30a876c2041",
+      "target": "node_74119ce1d16a",
+      "relation_type": "parallel",
+      "description": "“弓形虫感染”与“淋巴结肿大”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e30a876c2041",
+      "target": "node_d2a7455feceb",
+      "relation_type": "parallel",
+      "description": "“弓形虫感染”与“经口感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e30a876c2041",
+      "target": "node_2793782103e7",
+      "relation_type": "parallel",
+      "description": "“弓形虫感染”与“他不良反应”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_74119ce1d16a",
+      "target": "node_d2a7455feceb",
+      "relation_type": "parallel",
+      "description": "“淋巴结肿大”与“经口感染”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_74119ce1d16a",
+      "target": "node_2793782103e7",
+      "relation_type": "parallel",
+      "description": "“淋巴结肿大”与“他不良反应”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d2a7455feceb",
+      "target": "node_2793782103e7",
+      "relation_type": "parallel",
+      "description": "“经口感染”与“他不良反应”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b9a2a96a1f45",
+      "target": "node_32b16abd4b3f",
+      "relation_type": "applies_to",
+      "description": "“定期检测血清抗体”可用于解释“检测特异性抗体”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_791ef88fc71f",
+      "target": "node_32b16abd4b3f",
+      "relation_type": "applies_to",
+      "description": "“检测循环抗原”可用于解释“检测特异性抗体”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_b64610673160",
+      "target": "node_32b16abd4b3f",
+      "relation_type": "applies_to",
+      "description": "“肿瘤”可用于解释“检测特异性抗体”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_8b44d8c43a73",
+      "target": "node_8f7eb70cd6f5",
+      "relation_type": "contains",
+      "description": "“第九章 蠕虫病”中的核心主题“免疫学检查”包含或统摄“感染方式”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8b44d8c43a73",
+      "target": "node_848ab232a532",
+      "relation_type": "contains",
+      "description": "“第九章 蠕虫病”中的核心主题“免疫学检查”包含或统摄“宿主体内发育过程”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8b44d8c43a73",
+      "target": "node_075f56e8d470",
+      "relation_type": "contains",
+      "description": "“第九章 蠕虫病”中的核心主题“免疫学检查”包含或统摄“羊循环株”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8b44d8c43a73",
+      "target": "node_61efced32724",
+      "relation_type": "contains",
+      "description": "“第九章 蠕虫病”中的核心主题“免疫学检查”包含或统摄“抗原”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8b44d8c43a73",
+      "target": "node_de56f4d46aa0",
+      "relation_type": "contains",
+      "description": "“第九章 蠕虫病”中的核心主题“免疫学检查”包含或统摄“水肿”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8b44d8c43a73",
+      "target": "node_4455aee48acf",
+      "relation_type": "contains",
+      "description": "“第九章 蠕虫病”中的核心主题“免疫学检查”包含或统摄“贫血”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8b44d8c43a73",
+      "target": "node_b3a45e3df69c",
+      "relation_type": "contains",
+      "description": "“第九章 蠕虫病”中的核心主题“免疫学检查”包含或统摄“门静脉高压”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8f7eb70cd6f5",
+      "target": "node_075f56e8d470",
+      "relation_type": "parallel",
+      "description": "“感染方式”与“羊循环株”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_8f7eb70cd6f5",
+      "target": "node_61efced32724",
+      "relation_type": "parallel",
+      "description": "“感染方式”与“抗原”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_848ab232a532",
+      "target": "node_de56f4d46aa0",
+      "relation_type": "parallel",
+      "description": "“宿主体内发育过程”与“水肿”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_075f56e8d470",
+      "target": "node_61efced32724",
+      "relation_type": "parallel",
+      "description": "“羊循环株”与“抗原”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_de56f4d46aa0",
+      "target": "node_8b44d8c43a73",
+      "relation_type": "applies_to",
+      "description": "“水肿”可用于解释“免疫学检查”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_4455aee48acf",
+      "target": "node_8b44d8c43a73",
+      "relation_type": "applies_to",
+      "description": "“贫血”可用于解释“免疫学检查”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_52113d0fb295",
+      "target": "node_8b44d8c43a73",
+      "relation_type": "applies_to",
+      "description": "“血吸虫病”可用于解释“免疫学检查”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_2690caebfb15",
+      "target": "node_4e5c4b4073b8",
+      "relation_type": "contains",
+      "description": "“第十章 其他感染相关问题”中的核心主题“感染性休克”包含或统摄“医院感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2690caebfb15",
+      "target": "node_b1c837c4fe85",
+      "relation_type": "contains",
+      "description": "“第十章 其他感染相关问题”中的核心主题“感染性休克”包含或统摄“微生态调节剂”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2690caebfb15",
+      "target": "node_86843015f3db",
+      "relation_type": "contains",
+      "description": "“第十章 其他感染相关问题”中的核心主题“感染性休克”包含或统摄“手术部位感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2690caebfb15",
+      "target": "node_f3d8715b2002",
+      "relation_type": "contains",
+      "description": "“第十章 其他感染相关问题”中的核心主题“感染性休克”包含或统摄“血流感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2690caebfb15",
+      "target": "node_520e499e6223",
+      "relation_type": "contains",
+      "description": "“第十章 其他感染相关问题”中的核心主题“感染性休克”包含或统摄“微生态平衡”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2690caebfb15",
+      "target": "node_828424ad1224",
+      "relation_type": "contains",
+      "description": "“第十章 其他感染相关问题”中的核心主题“感染性休克”包含或统摄“尿路感染”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2690caebfb15",
+      "target": "node_0423da630f13",
+      "relation_type": "contains",
+      "description": "“第十章 其他感染相关问题”中的核心主题“感染性休克”包含或统摄“微生态学”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_4e5c4b4073b8",
+      "target": "node_86843015f3db",
+      "relation_type": "parallel",
+      "description": "“医院感染”与“手术部位感染”均属于应用场景层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4e5c4b4073b8",
+      "target": "node_f3d8715b2002",
+      "relation_type": "parallel",
+      "description": "“医院感染”与“血流感染”均属于应用场景层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4e5c4b4073b8",
+      "target": "node_828424ad1224",
+      "relation_type": "parallel",
+      "description": "“医院感染”与“尿路感染”均属于应用场景层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b1c837c4fe85",
+      "target": "node_520e499e6223",
+      "relation_type": "parallel",
+      "description": "“微生态调节剂”与“微生态平衡”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_86843015f3db",
+      "target": "node_f3d8715b2002",
+      "relation_type": "parallel",
+      "description": "“手术部位感染”与“血流感染”均属于应用场景层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_86843015f3db",
+      "target": "node_828424ad1224",
+      "relation_type": "parallel",
+      "description": "“手术部位感染”与“尿路感染”均属于应用场景层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f3d8715b2002",
+      "target": "node_828424ad1224",
+      "relation_type": "parallel",
+      "description": "“血流感染”与“尿路感染”均属于应用场景层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4e5c4b4073b8",
+      "target": "node_2690caebfb15",
+      "relation_type": "applies_to",
+      "description": "“医院感染”可用于解释“感染性休克”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_86843015f3db",
+      "target": "node_2690caebfb15",
+      "relation_type": "applies_to",
+      "description": "“手术部位感染”可用于解释“感染性休克”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_f3d8715b2002",
+      "target": "node_2690caebfb15",
+      "relation_type": "applies_to",
+      "description": "“血流感染”可用于解释“感染性休克”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_520e499e6223",
+      "target": "node_2690caebfb15",
+      "relation_type": "applies_to",
+      "description": "“微生态平衡”可用于解释“感染性休克”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_828424ad1224",
+      "target": "node_2690caebfb15",
+      "relation_type": "applies_to",
+      "description": "“尿路感染”可用于解释“感染性休克”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_0423da630f13",
+      "target": "node_2690caebfb15",
+      "relation_type": "applies_to",
+      "description": "“微生态学”可用于解释“感染性休克”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_a16a9aee33a3",
+      "target": "node_2690caebfb15",
+      "relation_type": "applies_to",
+      "description": "“细菌性感染”可用于解释“感染性休克”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_0ee07f842847",
+      "target": "node_7511c9fd01ae",
+      "relation_type": "prerequisite",
+      "description": "学习“隐性感染”通常需要先理解“特异性免疫”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_7511c9fd01ae",
+      "target": "node_fa8e49df387c",
+      "relation_type": "prerequisite",
+      "description": "学习“新发感染病”通常需要先理解“隐性感染”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_fa8e49df387c",
+      "target": "node_a5513405ca56",
+      "relation_type": "prerequisite",
+      "description": "学习“感染后免疫”通常需要先理解“新发感染病”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_99b31f86dc97",
+      "target": "node_7d124fc7f6d5",
+      "relation_type": "prerequisite",
+      "description": "学习“多重耐药菌感染”通常需要先理解“新发感染病”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_7d124fc7f6d5",
+      "target": "node_3673fcf7f827",
+      "relation_type": "prerequisite",
+      "description": "学习“感染病仍然”通常需要先理解“多重耐药菌感染”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_3673fcf7f827",
+      "target": "node_f4856629da9c",
+      "relation_type": "prerequisite",
+      "description": "学习“新型冠状病毒感染”通常需要先理解“感染病仍然”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_3ae788d5f635",
+      "target": "node_b2a8e5c6e9f2",
+      "relation_type": "prerequisite",
+      "description": "学习“抗体”通常需要先理解“淋巴细胞”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_b2a8e5c6e9f2",
+      "target": "node_766265141ba1",
+      "relation_type": "prerequisite",
+      "description": "学习“电解质”通常需要先理解“抗体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_766265141ba1",
+      "target": "node_5e00bc39a406",
+      "relation_type": "prerequisite",
+      "description": "学习“休克”通常需要先理解“电解质”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_5f52e454f287",
+      "target": "node_ea1fd8d5fd29",
+      "relation_type": "prerequisite",
+      "description": "学习“弥散性血管内凝血”通常需要先理解“动物宿主持续感染”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_ea1fd8d5fd29",
+      "target": "node_f7c50243ef4a",
+      "relation_type": "prerequisite",
+      "description": "学习“淋巴结肿大”通常需要先理解“弥散性血管内凝血”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_f7c50243ef4a",
+      "target": "node_7a268ecd8d90",
+      "relation_type": "prerequisite",
+      "description": "学习“抗原”通常需要先理解“淋巴结肿大”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_7cee226571f8",
+      "target": "node_07bec4dcbf0d",
+      "relation_type": "prerequisite",
+      "description": "学习“抗原”通常需要先理解“静脉滴注”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_07bec4dcbf0d",
+      "target": "node_35c8c6b4d88d",
+      "relation_type": "prerequisite",
+      "description": "学习“休克”通常需要先理解“抗原”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_35c8c6b4d88d",
+      "target": "node_18c084e4c74d",
+      "relation_type": "prerequisite",
+      "description": "学习“坏死”通常需要先理解“休克”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_5c1b214a9f58",
+      "target": "node_8a7fb05fbc2f",
+      "relation_type": "prerequisite",
+      "description": "学习“侵袭性感染”通常需要先理解“抗原”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_8a7fb05fbc2f",
+      "target": "node_ce0c32a975af",
+      "relation_type": "prerequisite",
+      "description": "学习“静脉注射”通常需要先理解“侵袭性感染”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_ce0c32a975af",
+      "target": "node_bb58a304b752",
+      "relation_type": "prerequisite",
+      "description": "学习“关节新型隐球菌病”通常需要先理解“静脉注射”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_54c0a1a8e1fa",
+      "target": "node_228fdcc7411f",
+      "relation_type": "prerequisite",
+      "description": "学习“抗体”通常需要先理解“神经梅毒”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_228fdcc7411f",
+      "target": "node_e5a4b5b9af73",
+      "relation_type": "prerequisite",
+      "description": "学习“神经系统病变”通常需要先理解“抗体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_e5a4b5b9af73",
+      "target": "node_d215b0a33cbe",
+      "relation_type": "prerequisite",
+      "description": "学习“静脉滴注”通常需要先理解“神经系统病变”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_32b16abd4b3f",
+      "target": "node_db35f4ecdc11",
+      "relation_type": "prerequisite",
+      "description": "学习“免疫学血清试验”通常需要先理解“检测特异性抗体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_db35f4ecdc11",
+      "target": "node_6b608d3a43ec",
+      "relation_type": "prerequisite",
+      "description": "学习“继发细菌感染”通常需要先理解“免疫学血清试验”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_6b608d3a43ec",
+      "target": "node_e30a876c2041",
+      "relation_type": "prerequisite",
+      "description": "学习“弓形虫感染”通常需要先理解“继发细菌感染”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_8b44d8c43a73",
+      "target": "node_8f7eb70cd6f5",
+      "relation_type": "prerequisite",
+      "description": "学习“感染方式”通常需要先理解“免疫学检查”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_8f7eb70cd6f5",
+      "target": "node_848ab232a532",
+      "relation_type": "prerequisite",
+      "description": "学习“宿主体内发育过程”通常需要先理解“感染方式”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_848ab232a532",
+      "target": "node_075f56e8d470",
+      "relation_type": "prerequisite",
+      "description": "学习“羊循环株”通常需要先理解“宿主体内发育过程”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_2690caebfb15",
+      "target": "node_4e5c4b4073b8",
+      "relation_type": "prerequisite",
+      "description": "学习“医院感染”通常需要先理解“感染性休克”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_4e5c4b4073b8",
+      "target": "node_b1c837c4fe85",
+      "relation_type": "prerequisite",
+      "description": "学习“微生态调节剂”通常需要先理解“医院感染”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_b1c837c4fe85",
+      "target": "node_86843015f3db",
+      "relation_type": "prerequisite",
+      "description": "学习“手术部位感染”通常需要先理解“微生态调节剂”。",
+      "weight": 0.65
+    }
+  ],
+  "created_at": "2026-05-17T11:56:35.801809"
+}

@@ -1,17 +1,19 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import * as d3 from 'd3';
-import { IntegratedGraph, KnowledgeEdge, KnowledgeGraph, KnowledgeNode } from '../api/client';
+import { IntegratedGraph, KnowledgeEdge, KnowledgeGraph, KnowledgeNode, Textbook } from '../api/client';
 import { Filter, GitMerge, Layers3, Network, Search, Table2, TreePine } from 'lucide-react';
 
 type GraphLike = KnowledgeGraph | IntegratedGraph | null;
 type Props = {
   graph: GraphLike;
+  books: Textbook[];
   selectedNode?: KnowledgeNode | null;
   onNode: (node: KnowledgeNode | null) => void;
 };
 
 type ViewMode = 'force' | 'tree' | 'matrix';
 type Density = 'calm' | 'balanced' | 'rich';
+type LabelMode = 'smart' | 'all';
 type RenderNode = KnowledgeNode & { degree: number; score: number; x?: number; y?: number; fx?: number | null; fy?: number | null };
 type RenderEdge = KnowledgeEdge & { source: string | RenderNode; target: string | RenderNode };
 type D3Svg = d3.Selection<SVGSVGElement, unknown, null, undefined>;
@@ -69,11 +71,12 @@ const densityConfig = {
   },
 } satisfies Record<Density, Record<string, number>>;
 
-export default function GraphCanvas({ graph, selectedNode, onNode }: Props) {
+export default function GraphCanvas({ graph, books, selectedNode, onNode }: Props) {
   const svgRef = useRef<SVGSVGElement>(null);
   const [query, setQuery] = useState('');
   const [view, setView] = useState<ViewMode>('force');
   const [density, setDensity] = useState<Density>('balanced');
+  const [labelMode, setLabelMode] = useState<LabelMode>('smart');
   const [source, setSource] = useState('all');
   const [canvasSize, setCanvasSize] = useState({ width: 0, height: 0 });
 
@@ -122,11 +125,11 @@ export default function GraphCanvas({ graph, selectedNode, onNode }: Props) {
       return;
     }
     if (view === 'tree') {
-      drawTree(svg, w, h, visible.nodes, density, query, selectedNode, onNode);
+      drawTree(svg, w, h, visible.nodes, allNodes, books, source, density, query, selectedNode, onNode);
       return;
     }
-    drawForce(svg, w, h, visible.nodes, visible.edges, density, query, selectedNode, onNode);
-  }, [allNodes.length, visible, query, view, density, selectedNode, onNode, canvasSize]);
+    drawForce(svg, w, h, visible.nodes, visible.edges, density, query, selectedNode, onNode, labelMode);
+  }, [allNodes.length, visible, books, source, query, view, density, labelMode, selectedNode, onNode, canvasSize]);
 
   return (
     <div className="graph-shell">
@@ -158,10 +161,12 @@ export default function GraphCanvas({ graph, selectedNode, onNode }: Props) {
           <button className={density === 'balanced' ? 'on' : ''} onClick={() => setDensity('balanced')}>均衡</button>
           <button className={density === 'rich' ? 'on' : ''} onClick={() => setDensity('rich')}>丰富</button>
         </div>
+        <div className="label-switch" aria-label="节点标签">
+          <button className={labelMode === 'smart' ? 'on' : ''} onClick={() => setLabelMode('smart')}>重点标注</button>
+          <button className={labelMode === 'all' ? 'on' : ''} onClick={() => setLabelMode('all')}>全部标注</button>
+        </div>
         <span className="graph-note">
-          {visible.hiddenNodes > 0
-            ? `为避免堆叠，已优先显示高频/高关联节点，隐藏 ${visible.hiddenNodes} 个低权重节点`
-            : '已显示全部匹配节点'}
+          {graphNote(visible.hiddenNodes, labelMode)}
         </span>
       </div>
 
@@ -173,6 +178,15 @@ export default function GraphCanvas({ graph, selectedNode, onNode }: Props) {
       </div>
     </div>
   );
+}
+
+function graphNote(hiddenNodes: number, labelMode: LabelMode) {
+  const labelHint = labelMode === 'all'
+    ? '全部可见节点已常显名称，密集处可缩放或拖拽查看'
+    : '默认常显重点名称，悬停任意节点可看完整信息';
+  return hiddenNodes > 0
+    ? `为避免堆叠，优先显示高频/高关联节点，隐藏 ${hiddenNodes} 个低权重节点；${labelHint}`
+    : `已显示全部匹配节点；${labelHint}`;
 }
 
 function buildSourceOptions(nodes: KnowledgeNode[]) {
@@ -274,12 +288,13 @@ function compareChapter(a = '', b = '') {
 }
 
 function chapterNumber(text = '') {
-  if (/绪论|总论/.test(text)) return 0;
-  if (/未识别|自动分段|未命名/.test(text)) return 9999;
   const arabic = text.match(/第\s*(\d+)\s*[章节]/);
   if (arabic) return Number(arabic[1]);
   const cn = text.match(/第\s*([一二三四五六七八九十百千万零〇两]+)\s*[章节]/);
-  return cn ? chineseNumber(cn[1]) : 9998;
+  if (cn) return chineseNumber(cn[1]);
+  if (/^\s*(绪论|总论)\s*$/.test(text)) return 0;
+  if (/未识别|未命名/.test(text)) return 9999;
+  return 9998;
 }
 
 function chineseNumber(input: string) {
@@ -371,6 +386,7 @@ function drawForce(
   query: string,
   selectedNode: KnowledgeNode | null | undefined,
   onNode: (node: KnowledgeNode | null) => void,
+  labelMode: LabelMode,
 ) {
   const config = densityConfig[density];
   addDefs(svg);
@@ -428,6 +444,7 @@ function drawForce(
   node.append('title').text((d) => `${d.name}\n${d.textbook_title || ''} · ${d.chapter || ''}\n${d.definition || ''}`);
 
   const labelLayer = content.append('g').attr('class', 'label-layer').style('pointer-events', 'none');
+  const hoverLayer = content.append('g').attr('class', 'hover-layer').style('pointer-events', 'none');
 
   function pathFor(d: RenderEdge) {
     const s = d.source as RenderNode;
@@ -442,23 +459,58 @@ function drawForce(
   }
 
   function renderLabels() {
-    const labels = placeForceLabels(nodes, w, h, density, query, selectedNode);
+    const labels = placeForceLabels(nodes, w, h, density, query, selectedNode, labelMode);
     const groups = labelLayer.selectAll<SVGGElement, LabelPlacement>('g.force-label').data(labels, (d: any) => d.id);
     const enter = groups.enter().append('g').attr('class', 'force-label');
-    enter.append('rect').attr('rx', 6).attr('fill', 'rgba(255,255,255,0.86)').attr('stroke', 'rgba(226,232,240,0.9)');
+    enter.append('rect').attr('rx', 6).attr('stroke', 'rgba(226,232,240,0.9)');
     enter.append('text')
       .attr('fill', '#172033')
-      .attr('font-size', 11)
-      .attr('font-weight', 800)
       .attr('font-family', 'inherit')
       .attr('paint-order', 'stroke')
       .attr('stroke', 'rgba(255,255,255,0.92)')
       .attr('stroke-width', 2.5);
     const merged = enter.merge(groups as any);
     merged.attr('transform', (d) => `translate(${d.x},${d.y})`);
-    merged.select('rect').attr('x', -5).attr('y', -dLabelPadY).attr('width', (d) => d.width + 10).attr('height', (d) => d.height + 4);
-    merged.select('text').attr('y', 4).text((d) => d.text);
+    merged.select('rect')
+      .attr('x', -5)
+      .attr('y', -dLabelPadY)
+      .attr('width', (d) => d.width + 10)
+      .attr('height', (d) => d.height + 4)
+      .attr('fill', labelMode === 'all' ? 'rgba(255,255,255,0.72)' : 'rgba(255,255,255,0.88)');
+    merged.select('text')
+      .attr('y', 4)
+      .attr('font-size', labelMode === 'all' ? 9.6 : 11)
+      .attr('font-weight', labelMode === 'all' ? 700 : 800)
+      .text((d) => d.text);
     groups.exit().remove();
+  }
+
+  function renderHover(nodeItem: RenderNode) {
+    hoverLayer.selectAll('*').remove();
+    const lines = hoverLines(nodeItem);
+    const width = Math.min(320, Math.max(120, Math.max(...lines.map((line) => estimateTextWidth(line, 12))) + 22));
+    const height = 18 + lines.length * 17;
+    const r = radius(nodeItem);
+    const x = clamp((nodeItem.x || 0) + r + 14, 8, w - width - 8);
+    const y = clamp((nodeItem.y || 0) - height / 2, 8, h - height - 8);
+    const group = hoverLayer.append('g').attr('transform', `translate(${x},${y})`);
+    group.append('rect')
+      .attr('width', width)
+      .attr('height', height)
+      .attr('rx', 8)
+      .attr('fill', 'rgba(15,23,42,0.92)')
+      .attr('stroke', 'rgba(255,255,255,0.72)')
+      .attr('stroke-width', 1);
+    group.selectAll('text')
+      .data(lines)
+      .join('text')
+      .attr('x', 11)
+      .attr('y', (_, i) => 17 + i * 17)
+      .attr('fill', (_, i) => i === 0 ? '#ffffff' : '#cbd5e1')
+      .attr('font-size', (_, i) => i === 0 ? 12 : 10.5)
+      .attr('font-weight', (_, i) => i === 0 ? 800 : 600)
+      .attr('font-family', 'inherit')
+      .text((line) => line);
   }
 
   function update() {
@@ -477,6 +529,11 @@ function drawForce(
       update();
     })
     .on('end', function () { d3.select(this).style('cursor', 'grab'); }) as any);
+
+  node
+    .on('mouseenter', (_, d) => renderHover(d))
+    .on('mousemove', (_, d) => renderHover(d))
+    .on('mouseleave', () => hoverLayer.selectAll('*').remove());
 }
 
 const dLabelPadY = 8;
@@ -497,6 +554,7 @@ function placeForceLabels(
   density: Density,
   query: string,
   selectedNode?: KnowledgeNode | null,
+  labelMode: LabelMode = 'smart',
 ) {
   const config = densityConfig[density];
   const q = query.toLowerCase();
@@ -507,35 +565,67 @@ function placeForceLabels(
       priority: (selectedNode?.id === node.id ? 100000 : 0) + (q && nodeMatches(node, q) ? 50000 : 0) + node.score + node.degree * 10,
     }))
     .sort((a, b) => b.priority - a.priority)
-    .slice(0, config.labelBudget);
+    .slice(0, labelMode === 'all' ? nodes.length : config.labelBudget);
   const labels: LabelPlacement[] = [];
   const occupied: Rect[] = [];
   const nodeBoxes = nodes.map((node) => circleBox(node, radius(node) + 4));
 
   for (const item of sorted) {
     const node = item.node;
-    const label = shorten(node.name, density === 'rich' ? 9 : density === 'balanced' ? 11 : 14);
+    const label = shorten(node.name, labelMode === 'all' ? (density === 'rich' ? 10 : 12) : density === 'rich' ? 9 : density === 'balanced' ? 11 : 14);
     if (!label) continue;
-    const width = estimateTextWidth(label, 11);
-    const height = 16;
+    const fontSize = labelMode === 'all' ? 9.6 : 11;
+    const width = estimateTextWidth(label, fontSize);
+    const height = labelMode === 'all' ? 14 : 16;
     const r = radius(node);
-    const candidates: Rect[] = [
-      { x: (node.x || 0) + r + 12, y: (node.y || 0) - height / 2, width, height },
-      { x: (node.x || 0) - r - 12 - width, y: (node.y || 0) - height / 2, width, height },
-      { x: (node.x || 0) - width / 2, y: (node.y || 0) - r - 20, width, height },
-      { x: (node.x || 0) - width / 2, y: (node.y || 0) + r + 10, width, height },
-    ];
-    const placed = candidates.find((candidate) => {
+    const candidates = labelCandidates(node, width, height, r, labelMode);
+    let placed = candidates.find((candidate) => {
       if (candidate.x < 8 || candidate.y < 12 || candidate.x + candidate.width > w - 8 || candidate.y + candidate.height > h - 8) return false;
       const padded = padRect(candidate, 4);
       if (occupied.some((rect) => rectsOverlap(padded, rect))) return false;
       return !nodeBoxes.some((box) => rectsOverlap(padded, box));
     });
+    if (!placed && labelMode === 'all') {
+      placed = candidates.find((candidate) => {
+        if (candidate.x < 8 || candidate.y < 12 || candidate.x + candidate.width > w - 8 || candidate.y + candidate.height > h - 8) return false;
+        return !occupied.some((rect) => rectsOverlap(padRect(candidate, 2), rect));
+      });
+    }
+    if (!placed && labelMode === 'all') placed = clampRect(candidates[0], w, h);
     if (!placed) continue;
-    occupied.push(padRect(placed, 4));
+    occupied.push(padRect(placed, labelMode === 'all' ? 2 : 4));
     labels.push({ id: node.id, text: label, x: placed.x, y: placed.y + height / 2, width, height });
   }
   return labels;
+}
+
+function labelCandidates(node: RenderNode, width: number, height: number, r: number, labelMode: LabelMode): Rect[] {
+  const cx = node.x || 0;
+  const cy = node.y || 0;
+  const basic: Rect[] = [
+    { x: cx + r + 12, y: cy - height / 2, width, height },
+    { x: cx - r - 12 - width, y: cy - height / 2, width, height },
+    { x: cx - width / 2, y: cy - r - 20, width, height },
+    { x: cx - width / 2, y: cy + r + 10, width, height },
+  ];
+  if (labelMode === 'smart') return basic;
+
+  const candidates = [...basic];
+  const angles = [0, Math.PI, -Math.PI / 2, Math.PI / 2, -Math.PI / 4, Math.PI / 4, -3 * Math.PI / 4, 3 * Math.PI / 4];
+  const distances = [r + 18, r + 34, r + 52, r + 72];
+  for (const distance of distances) {
+    for (const angle of angles) {
+      const ax = Math.cos(angle);
+      const ay = Math.sin(angle);
+      candidates.push({
+        x: cx + ax * distance - (ax < -0.25 ? width : ax > 0.25 ? 0 : width / 2),
+        y: cy + ay * distance - height / 2,
+        width,
+        height,
+      });
+    }
+  }
+  return candidates;
 }
 
 type Rect = { x: number; y: number; width: number; height: number };
@@ -550,6 +640,38 @@ function padRect(rect: Rect, pad: number): Rect {
 
 function rectsOverlap(a: Rect, b: Rect) {
   return a.x < b.x + b.width && a.x + a.width > b.x && a.y < b.y + b.height && a.y + a.height > b.y;
+}
+
+function clamp(value: number, min: number, max: number) {
+  return Math.max(min, Math.min(max, value));
+}
+
+function clampRect(rect: Rect, w: number, h: number): Rect {
+  return {
+    ...rect,
+    x: clamp(rect.x, 8, Math.max(8, w - rect.width - 8)),
+    y: clamp(rect.y, 12, Math.max(12, h - rect.height - 8)),
+  };
+}
+
+function hoverLines(node: RenderNode) {
+  const lines = splitLongText(node.name, 26, 2);
+  const source = [node.textbook_title, node.chapter].filter(Boolean).join(' · ');
+  if (source) lines.push(shorten(source, 34));
+  lines.push('点击查看详情');
+  return lines;
+}
+
+function splitLongText(text: string, max = 26, maxLines = 2) {
+  const clean = (text || '').trim();
+  if (!clean) return ['未命名知识点'];
+  const lines: string[] = [];
+  for (let start = 0; start < clean.length && lines.length < maxLines; start += max) {
+    const next = clean.slice(start, start + max);
+    const hasMore = start + max < clean.length;
+    lines.push(hasMore && lines.length === maxLines - 1 ? `${next}...` : next);
+  }
+  return lines;
 }
 
 function estimateTextWidth(text: string, fontSize: number) {
@@ -599,6 +721,9 @@ function drawTree(
   w: number,
   h: number,
   nodes: RenderNode[],
+  graphNodes: KnowledgeNode[],
+  books: Textbook[],
+  source: string,
   density: Density,
   query: string,
   selectedNode: KnowledgeNode | null | undefined,
@@ -607,25 +732,30 @@ function drawTree(
   addDefs(svg);
   svg.append('rect').attr('width', w).attr('height', h).attr('fill', '#fbfdff').attr('rx', 16);
   const content = svg.append('g');
-  const root = buildTreeRoot(nodes);
+  const root = buildTreeRoot(nodes, graphNodes, books, source);
   const hierarchy = d3.hierarchy(root);
-  const levelGap = density === 'calm' ? 250 : density === 'balanced' ? 230 : 210;
+  const treeGap = density === 'calm' ? 58 : density === 'balanced' ? 52 : 46;
+  const levelGap = density === 'calm' ? 290 : density === 'balanced' ? 265 : 240;
   d3.tree<any>()
-    .nodeSize([densityConfig[density].treeGap, levelGap])
-    .separation((a, b) => (a.parent === b.parent ? 1.05 : 1.45))(hierarchy as any);
+    .nodeSize([treeGap, levelGap])
+    .separation((a, b) => {
+      if (a.depth === 2 && b.depth === 2 && a.parent === b.parent) return 1.18;
+      return a.parent === b.parent ? 1.08 : 1.55;
+    })(hierarchy as any);
 
   const descendants = hierarchy.descendants() as any[];
   const xExtent = d3.extent(descendants, (d) => d.x) as [number, number];
   const yExtent = d3.extent(descendants, (d) => d.y) as [number, number];
   const contentWidth = Math.max(w - 80, yExtent[1] - yExtent[0] + 360);
   const contentHeight = Math.max(h - 80, xExtent[1] - xExtent[0] + 80);
-  const initialX = 60 - yExtent[0];
-  const initialY = h / 2 - ((hierarchy as any).x || 0);
+  const fitScale = Math.max(0.62, Math.min(0.92, (h - 96) / Math.max(1, contentHeight)));
+  const initialX = 64 - yExtent[0] * fitScale;
+  const initialY = h / 2 - ((xExtent[0] + xExtent[1]) / 2) * fitScale;
   const treeZoom = d3.zoom<SVGSVGElement, unknown>()
       .scaleExtent([0.45, 2.4])
       .on('zoom', (event) => content.attr('transform', event.transform));
   svg.call(treeZoom as any);
-  svg.call((treeZoom as any).transform, d3.zoomIdentity.translate(initialX, initialY));
+  svg.call((treeZoom as any).transform, d3.zoomIdentity.translate(initialX, initialY).scale(fitScale));
 
   content.append('rect')
     .attr('x', yExtent[0] - 36)
@@ -661,10 +791,25 @@ function drawTree(
     }
     if (d.depth < 3) {
       const color = d.depth === 1 ? '#2563eb' : '#0f766e';
-      const label = shorten(d.data.name, d.depth === 1 ? 16 : 20);
-      const width = Math.max(74, Math.min(220, estimateTextWidth(label, 12) + 28));
-      el.append('rect').attr('x', -10).attr('y', -15).attr('width', width).attr('height', 30).attr('rx', 7).attr('fill', color).attr('opacity', 0.94);
-      el.append('text').text(label).attr('x', 4).attr('dy', 5).attr('fill', '#fff').attr('font-size', 11.5).attr('font-weight', 800);
+      const label = shorten(d.data.name, d.depth === 1 ? 16 : 22);
+      const fontSize = d.depth === 1 ? 11.5 : 10.8;
+      const height = d.depth === 1 ? 30 : 26;
+      const width = Math.max(74, Math.min(d.depth === 1 ? 220 : 255, estimateTextWidth(label, fontSize) + 28));
+      el.append('rect')
+        .attr('x', -10)
+        .attr('y', -height / 2)
+        .attr('width', width)
+        .attr('height', height)
+        .attr('rx', 7)
+        .attr('fill', color)
+        .attr('opacity', d.depth === 1 ? 0.94 : 0.88);
+      el.append('text')
+        .text(label)
+        .attr('x', 4)
+        .attr('dy', 4)
+        .attr('fill', '#fff')
+        .attr('font-size', fontSize)
+        .attr('font-weight', d.depth === 1 ? 800 : 760);
       return;
     }
     const r = node ? Math.max(5.5, Math.min(12, radius(node) * 0.5)) : 5.5;
@@ -686,10 +831,38 @@ function drawTree(
   });
 }
 
-function buildTreeRoot(nodes: RenderNode[]) {
+function buildTreeRoot(nodes: RenderNode[], graphNodes: KnowledgeNode[], books: Textbook[], source: string) {
   const root: any = { name: '知识体系', children: [] };
-  const byBook = d3.group(nodes, (d) => d.textbook_title || d.textbook_id || '未知教材');
-  for (const [book, bookNodes] of Array.from(byBook.entries()).sort(([a], [b]) => naturalCompare(a, b))) {
+  const nodesByBookId = d3.group(nodes, (d) => d.textbook_id || 'unknown');
+  const nodesByBookTitle = d3.group(nodes, (d) => d.textbook_title || d.textbook_id || '未知教材');
+  const graphBookIds = new Set(graphNodes.map((node) => node.textbook_id).filter(Boolean));
+  const bookList = books
+    .filter((book) => (source === 'all' ? graphBookIds.has(book.textbook_id) : book.textbook_id === source))
+    .sort((a, b) => naturalCompare(a.title, b.title));
+  const renderedBooks = new Set<string>();
+
+  for (const book of bookList) {
+    const bookNodes = nodesByBookId.get(book.textbook_id) || nodesByBookTitle.get(book.title) || [];
+    renderedBooks.add(book.textbook_id);
+    const byChapter = d3.group(bookNodes.sort(graphOrder), (d) => d.chapter || '未识别章节');
+    root.children.push({
+      name: book.title,
+      children: book.chapters
+        .slice()
+        .sort((a, b) => chapterNumber(a.title) - chapterNumber(b.title) || a.page_start - b.page_start || naturalCompare(a.title, b.title))
+        .map((chapter) => {
+          const chapterNodes = byChapter.get(chapter.title) || [];
+          return {
+            name: chapter.title,
+            children: chapterNodes.sort(graphOrder).map((node) => ({ name: node.name, node })),
+          };
+        }),
+    });
+  }
+
+  for (const [book, bookNodes] of Array.from(nodesByBookTitle.entries()).sort(([a], [b]) => naturalCompare(a, b))) {
+    const first = bookNodes[0];
+    if (!first || renderedBooks.has(first.textbook_id || '')) continue;
     const byChapter = d3.group(bookNodes.sort(graphOrder), (d) => d.chapter || '未识别章节');
     root.children.push({
       name: book,

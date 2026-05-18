@@ -80,7 +80,10 @@ class GraphIntegrator:
         original_chars = sum(b.total_chars for b in books)
         raw_integrated_chars = sum(len(n.definition) for n in merged_nodes) + sum(len(e.description) for e in remapped_edges)
         target_chars = int(original_chars * 0.30) if original_chars else raw_integrated_chars
-        integrated_chars = min(raw_integrated_chars, target_chars) if target_chars else raw_integrated_chars
+        # Report the actual essence size instead of clipping the statistic to
+        # the target. The graph essence is already compact in normal seven-book
+        # runs; if a future corpus exceeds the target, surface that honestly.
+        integrated_chars = raw_integrated_chars
         compression_ratio = round((integrated_chars / original_chars * 100), 2) if original_chars else 0
 
         stats = {
@@ -90,6 +93,8 @@ class GraphIntegrator:
             "raw_integrated_chars": raw_integrated_chars,
             "compression_ratio": compression_ratio,
             "target_ratio": 30,
+            "target_chars": target_chars,
+            "target_exceeded": bool(original_chars and integrated_chars > target_chars),
             "nodes_before": len(all_nodes),
             "nodes_after": len(merged_nodes),
             "edges_before": len(all_edges),
@@ -135,17 +140,19 @@ class GraphIntegrator:
         # O(n^2) pairs, which keeps 7-book runs responsive and prevents one weak
         # similarity bridge from collapsing unrelated concepts into a mega-cluster.
         if getattr(vectors, "size", 0):
-            from sklearn.neighbors import NearestNeighbors
-
             neighbor_count = min(10, n)
-            nbrs = NearestNeighbors(n_neighbors=neighbor_count, metric="cosine", algorithm="brute")
-            nbrs.fit(vectors)
-            distances, indices = nbrs.kneighbors(vectors)
-            for i, row in enumerate(indices):
-                for pos, j in enumerate(row):
+            similarities = self.embedding.cosine(vectors, vectors)
+            for i in range(n):
+                if neighbor_count <= 1:
+                    continue
+                row = similarities[i].copy()
+                row[i] = -1.0
+                candidates = np.argpartition(row, -neighbor_count)[-neighbor_count:]
+                candidates = candidates[np.argsort(row[candidates])[::-1]]
+                for j in candidates:
                     if j <= i:
                         continue
-                    semantic = 1 - float(distances[i][pos])
+                    semantic = float(row[j])
                     if self._should_merge_pair(nodes, names, i, int(j), semantic, threshold):
                         union(i, int(j))
 

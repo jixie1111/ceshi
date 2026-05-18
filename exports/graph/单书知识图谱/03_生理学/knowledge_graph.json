@@ -1,0 +1,4383 @@
+{
+  "textbook_id": "book_b96d5ebc2869",
+  "nodes": [
+    {
+      "id": "node_c832e92b7000",
+      "name": "体液调节",
+      "definition": "通常神经 反射包括非条件反射和条件反射 见第十章 二、 体液调节 体液调节 （humoral regulation） 是指体内产生的某些特殊的化学物质， 通过体液途径到达并作用于 靶细胞而影响其生理活动的一种调节方式。",
+      "category": "生理机制",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_40e2b989631a",
+      "name": "神经调节",
+      "definition": "一、 神经调节 神经调节 （nervous regulation） 是在神经系统的参与下通过神经反射活动而调节机体生理功能的 一种调节方式， 是人体生理功能调节中最重要的调节形式。",
+      "category": "生理机制",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_1ae3142266a1",
+      "name": "新陈代谢",
+      "definition": "图1-2 英国科学家威廉 哈维 （William Harvey， 1578—1657年 及其著作 《心 血运动论： 关于动物心脏与血液运动的解剖研究》 第三节 | 生命活动的基本特征 无论是单细胞还是高等动物， 各种生物体都具有一些共同的基本生命特征， 包括新陈代谢、 兴奋 性、 适应性和生殖等。",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_97b5741be5cf",
+      "name": "反射",
+      "definition": "一、 神经调节 神经调节 （nervous regulation） 是在神经系统的参与下通过神经反射活动而调节机体生理功能的 一种调节方式， 是人体生理功能调节中最重要的调节形式。",
+      "category": "生理机制",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_902d637ea1a0",
+      "name": "稳态的维持",
+      "definition": "稳态的维持是 机体自我调节的结果。",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_ed425793de83",
+      "name": "神经细胞",
+      "definition": "比如， 神经细胞 包括感 受器 对刺激表现出来的反应形式是产生和传导动作电位；",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_240733c9520c",
+      "name": "内环境的稳态",
+      "definition": "二、 内环境的稳态 内环境的稳态 （homeostasis） 是指内环境的理化性质， 如温度、 酸碱度、 渗透压和各种液体成分 的相对恒定状态。",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_836f86f7fb93",
+      "name": "体温调节中枢",
+      "definition": "例如， 体温的调定点设置在37℃， 当机 体运动时产热增多， 体温随之升高， 体温调节中枢的温度感受器将感受体温的变化， 发出反馈信息到 体温调节中枢， 并与中枢的调定点所设定的温度水平进行比较， 由此产生的偏差信息作用于体温调节 第一章 绪论 中枢， 中枢再通过加强机体的散热器官的活动， 促进散热使体温回降到37℃；",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_0090e03aca4c",
+      "name": "酸碱度",
+      "definition": "二、 内环境的稳态 内环境的稳态 （homeostasis） 是指内环境的理化性质， 如温度、 酸碱度、 渗透压和各种液体成分 的相对恒定状态。",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_263e24c352c2",
+      "name": "电解质",
+      "definition": "但 机体可通过多个系统和器官的活动以及负反馈控制系统， 使遭受干扰的内环境及时得到恢复， 并通过 与外环境的物质和能量的交换， 使机体内环境的各种理化因素包括渗透压、 温度、 酸碱度、 水、 电解质 第一章 绪论 及营养成分等都保持在一个适宜的相对恒定的水平， 从而维持其相对稳定。",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_2d74166c9070",
+      "name": "激素",
+      "definition": "这些化学物质可以是内分泌细胞或内分泌腺分泌的激素， 如甲状腺激素、 胰岛素、 糖皮质激素；",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_6d5f9f7d2a08",
+      "name": "血压的日周期变化",
+      "definition": "血压的日周期变化表现为双峰双谷；",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_fbff719986a5",
+      "name": "循环血量",
+      "definition": "正常机体内， 血糖浓度、 pH、 血压、 循环血量和渗透压等也是在负反馈控制系 统的作用下保持稳定的。",
+      "category": "核心概念",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_860c4ecacda0",
+      "name": "自身调节",
+      "definition": "此时， 缩宫素的分泌和产生的效应就相当于神经调节反射弧的传出部分， 这种调节称 为神经 - 体液调节 （neurohumoral regulation） 三、 自身调节 自身调节 （autoregulation） 是指某些细胞或组织器官凭借本身内在特性， 而不依赖神经和体液调节， 对内环境变化产生特定适应性反应的过程。",
+      "category": "生理机制",
+      "chapter": "第一章 绪论",
+      "page": 24,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第一章 绪论, 第 24 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_40c9f8a99e9a",
+      "name": "受体",
+      "definition": "这是一类兼有通道和受体功能的蛋白分子， 也称配体门控通道 （ligand- gated ion channel） 如骨骼肌终板膜上的N2 型乙酰胆碱能受体， 也称N2 型乙酰胆碱能受体阳离子 通道， 其膜外侧有两个乙酰胆碱结合位点， 结合位点与乙酰胆碱分子结合后可使通道的构象发生改 变， 引起闸门开放。",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_2a8fea98aa90",
+      "name": "电位",
+      "definition": "二 易化扩散 易化扩散 （facilitated diffusion） 是指非脂溶性的小分子物质或带电离子在跨膜蛋白帮助下， 顺浓 度梯度和 / 或电位梯度进行的跨膜转运。",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_c50d9a306852",
+      "name": "继发性主动转运",
+      "definition": "2. 继发性主动转运 某些物质的主动转运不直接来自ATP 的分解， 而是利用原发性主动转运 机制建立起的Na + 或H + 的浓度梯度， 在Na + 或H + 离子顺浓度梯度扩散的同时使其他物质逆浓度梯 度和 或电位梯度跨膜转运， 这种间接利用ATP 能量的主动转运过程称为继发性主动转运 （secondary active transport）",
+      "category": "生理机制",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_d25ea898e05d",
+      "name": "骨骼肌",
+      "definition": "这是一类兼有通道和受体功能的蛋白分子， 也称配体门控通道 （ligand- gated ion channel） 如骨骼肌终板膜上的N2 型乙酰胆碱能受体， 也称N2 型乙酰胆碱能受体阳离子 通道， 其膜外侧有两个乙酰胆碱结合位点， 结合位点与乙酰胆碱分子结合后可使通道的构象发生改 变， 引起闸门开放。",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_5fb7fa52e07f",
+      "name": "平滑肌",
+      "definition": "另外， 一氧化氮 （nitric oxide， NO） 激活的是一种游离于胞质中的可溶性GC， 通过GC- cGMP-PKG 通路产生生物效应， 如引起血管平滑肌的舒张反应等。",
+      "category": "生理机制",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_9c7229e01308",
+      "name": "调节性出胞",
+      "definition": "（2） 调节性出胞： 调节性出胞是指细胞受到某些化学信号 如激素 或电信号 如动作电位 诱导 第二章 细胞的基本功能 时， 储存于细胞内的大量分泌囊泡与细胞膜融合， 并将囊泡内容物排出细胞的过程， 如动作电位到达 神经末梢时引起的神经递质释放。",
+      "category": "生理机制",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_155169f36b67",
+      "name": "神经递质",
+      "definition": "（2） 调节性出胞： 调节性出胞是指细胞受到某些化学信号 如激素 或电信号 如动作电位 诱导 第二章 细胞的基本功能 时， 储存于细胞内的大量分泌囊泡与细胞膜融合， 并将囊泡内容物排出细胞的过程， 如动作电位到达 神经末梢时引起的神经递质释放。",
+      "category": "生理机制",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_fe4d54efb538",
+      "name": "心肌",
+      "definition": "体内也有少量电压门控通道是在膜发生超极化时才打开的， 如存在于心肌细胞膜中 的If 通道 见第四章",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_14a0a91ccdfc",
+      "name": "神经细胞",
+      "definition": "当膜两侧电位差发生改变， 通常是在膜发生去极化时， 通道蛋白分子内的一些带电化学基团 也称电位感受区 发生移动， 进而引起分子构象变化和闸门 开放， 如神经细胞轴突膜中的电压门控钠通道。",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_680973be4a68",
+      "name": "肌肉收缩",
+      "definition": "相邻两Z 线之 间的区段称为肌节 （sarcomere） 是肌肉收缩和舒张的基本单位 图2-27） 2. 肌管系统 横纹肌细胞中有横管 （transverse tubule） 和纵管 （longitudinal tubule） 两种肌管系 统 图2-27）",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_cf247f7a4a1f",
+      "name": "激素",
+      "definition": "如图2-2 所示， 经单纯扩散转运的物质都是 脂溶性 非极性 物质或少数不带电荷的极性小 图2-2 单纯扩散示意图 第二章 细胞的基本功能 分子物质， 如O2、 CO2、 N2、 类固醇激素、 乙醇、 尿素、 甘油、 水等。",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_cad3d296096c",
+      "name": "膜蛋白",
+      "definition": "二 细胞膜的蛋白 细胞膜的功能主要是通过膜蛋白 （membrane protein） 实现的。",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_ae094b63e073",
+      "name": "明原发性主动转运",
+      "definition": "汪 萌 芽） 思考题： 思考题： 1. 请举例说明原发性主动转运和继发性主动转运的区别。",
+      "category": "核心概念",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_d1c78c2f80a9",
+      "name": "麻木等肌肉神经改变的主",
+      "definition": "（2） 该患者出现乏力、 麻木等肌肉神经改变的主要机制是什么？",
+      "category": "生理机制",
+      "chapter": "第二章 细胞的基本功能",
+      "page": 36,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第二章 细胞的基本功能, 第 36 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_8e30ccf94771",
+      "name": "抗原",
+      "definition": "二 获得性免疫 获得性免疫 （acquired immunity） 是个体出生后与抗原物质接触后产生或接受免疫效应因子后获 得的免疫， 又称特异性免疫 （specific immunity）",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_4ef652745c56",
+      "name": "抗体",
+      "definition": "免疫 系统由免疫组织与器官、 免疫细胞和免疫分子组成， 血液中的各种血细胞、 抗体和补体均是机体免疫 系统的重要组成部分。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_ee60d01e9f80",
+      "name": "凝血酶",
+      "definition": "与内皮细胞上的凝血 酶调节蛋白结合而激活蛋白质 C 和凝血酶激活的纤溶抑制物 （TAFI） 组织因子 （TF） 内皮细胞和 其他细胞 作为FⅦa 的辅因子， 是生理性 凝血反应过程的启动物 钙离子 （Ca 2+） 辅因子 前加速素 易变因子 内皮细胞和 血小板 凝血酶和FⅩa， 以凝血酶为主 活化的蛋白质C 作为辅因子加速FⅩa对凝血 酶原的激活 前转变素 稳定因子 肝细胞 需 维生素K） FⅩa， FⅨa， FⅦa TFPI， 抗凝血",
+      "category": "生理机制",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_b97dbfa851bb",
+      "name": "免疫",
+      "definition": "免疫系统是机体抵御病原体感染的关键系统。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_f3fb9ad8ac27",
+      "name": "淋巴细胞",
+      "definition": "获得性免疫通过免疫系统产生针对某种抗原的特异 性抗体或活化的淋巴细胞而攻击、 破坏相应的入侵病原生物或毒素， 前者称为体液免疫， 后者称为细 胞免疫。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_556d930fd67b",
+      "name": "循环血液只",
+      "definition": "循环血液只是将白细胞从骨髓和淋巴组织运 送到机体所需部位的通路， 白细胞在血液中停留的时间较短。",
+      "category": "生理机制",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_3ffd10f1fe19",
+      "name": "组织缺氧",
+      "definition": "组织缺氧是促进EPO 分泌的生理性刺激因素。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_f503efb07179",
+      "name": "EPO",
+      "definition": "经过多年的 研究， 现已将其分离纯化， 称为促红细胞生成素 （EPO） EPO是一种糖蛋白， 由165个氨基酸残基组成， 分子量约34 000Da。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_6a8faa56f590",
+      "name": "凝血过程",
+      "definition": "二 凝血过程 血液凝固是凝血因子按一定顺序相继激活而生成 凝血酶 （thrombin） 最终使纤维蛋白原 （fibrinogen） 变为 纤维蛋白 （fibrin） 的过程。",
+      "category": "生理机制",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_4c5ed950aeef",
+      "name": "纤维蛋白",
+      "definition": "这是因为正常红细胞表面的N- 乙酰神经氨酸 （N-acetylneuraminic acid） 带有负电荷而互相排斥不发生叠连， 带正电荷的纤维蛋白原和球蛋白可中 和红细胞表面的负电荷而促进红细胞叠连， 使红细胞沉降率加快， 而带负电荷的白蛋白可抑制红细胞 叠连， 降低红细胞沉降率。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_4fe346f0186b",
+      "name": "雄激素",
+      "definition": "雄激素和雌激素对红细胞生成的不同效应， 可能是成年男性 红细胞数和血红蛋白量高于女性的原因之一。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_01ab535c08b6",
+      "name": "炎症",
+      "definition": "中性粒细胞作 为体内游走速度最快的细胞， 是首先到达炎症部位的效应细胞。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_7d3e58b61747",
+      "name": "血液黏滞度",
+      "definition": "血液黏滞度是形成血流阻力的重要因素之一。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_e04f38883cf7",
+      "name": "生理性止血",
+      "definition": "血小板的生理特性是血小板发挥生理性止血功能的基础。",
+      "category": "核心概念",
+      "chapter": "第三章 血液",
+      "page": 76,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第三章 血液, 第 76 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_dc516e24a09f",
+      "name": "血液循环",
+      "definition": "第四章 血液循环 本章数字资源 循环系统 （circulation system） 是个相对封闭的管道系统， 包括起主要作用的心血管系统 （cardi- ovascular system） 和起辅助作用的淋巴系统 （lymphatic system）",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_55f70df8cd36",
+      "name": "受体",
+      "definition": "（1） 心交感神经： 心交感神经节前神经元的胞体位于第1～5 胸段脊髓中间外侧柱， 其节前纤维 释放ACh， 可激活星状神经节和颈交感神经节的节后神经元N1 型胆碱能受体 （N1 受体或NN 受体 节后纤维支配心脏的各个部分， 包括窦房结、 房室交界、 房室束、 心房肌和心室肌。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_c8b3657934e0",
+      "name": "动脉血压",
+      "definition": "因此， 大动脉血压是心室收缩时所 第四章 血液循环 遇到的后负荷。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_ee41404f5a77",
+      "name": "心肌细胞动作电位",
+      "definition": "心室肌细 胞平台期占100～150 毫秒， 是心室肌细胞动作电位时程显著长于神经元、 骨骼肌细胞动作电位的主 要原因， 为心肌细胞动作电位所特有。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_cc69dd421416",
+      "name": "静息电位",
+      "definition": "从电生理学特点出发， 根据静息电位是否具有稳定性， 也可将心肌细胞分为工作细胞 和自律细胞；",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_ba045d4fb281",
+      "name": "血压升高",
+      "definition": "由于心脏射血是间断 109 第四章 血液循环 的， 因此在心动周期中， 动脉血压将发生周期性变化， 心室收缩时动脉血压升高， 舒张时血压则降低。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_582ca9c0e2b9",
+      "name": "微动脉",
+      "definition": "微动脉是最小的动脉分支， 其直径仅为几十微米。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_c7d51e27d3f3",
+      "name": "神经",
+      "definition": "这是因为除通过上述异长自身调节机制增加心肌初长度外， 机体还可通过神经和体液机制以 等长调节的方式改变心肌收缩的能力， 使搏出量能适应后负荷的改变。",
+      "category": "生理机制",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_2bc72037e987",
+      "name": "脑屏障",
+      "definition": "三 血 - 脑脊液屏障和血 - 脑屏障 脑脊液是充满脑室和蛛网膜下隙的无色透明液体， 含极少量细胞， 主要由脑室脉络丛上皮细胞和 室管膜细胞分泌生成， 少量由软脑膜血管和脑毛细血管滤过产生。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_c51138f5e74e",
+      "name": "主动脉",
+      "definition": "从房 室瓣关闭到主动脉瓣开启前的这段时期， 心 室的收缩不能改变心室的容积， 故称为等容 收缩期 （isovolumic contraction period）",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_660b39357cc0",
+      "name": "长期调节",
+      "definition": "长期调节是对血压在 较长时间内 数小时， 数天， 数月或更长 发生的变化进行调节， 主要通过肾 - 体液控制系统 （renal-body fluid control system） 调节细胞外液量实现。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_3705cfef5b5c",
+      "name": "体液调节",
+      "definition": "朱 依 纯） 第四节 | 心血管活动的调节 心血管活动的调节包括神经调节、 体液调节和自身调节， 通过调节心输出量、 血管口径和循环血 量， 保持正常心血管功能活动的相对稳定， 并能在机体内、 外环境变化时， 调整心血管功能以适应代谢 需要。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_cb4919f14c68",
+      "name": "高血压",
+      "definition": "3. 高血压与高血压前期 高血压 （hypertension） 是以体循环动脉压增高为主要表现的临床综合 征， 为最常见的心血管疾病， 可分为原发性高血压和继发性高血压 又称高血压病",
+      "category": "应用场景",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_af11d30c9990",
+      "name": "肺循环",
+      "definition": "从血流动力学的角度看， 体循环和肺循环是两个串联的系统， 生理条件下它们 的流量是相等的， 但压力和容量的差别较大。",
+      "category": "核心概念",
+      "chapter": "第四章 血液循环",
+      "page": 102,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第四章 血液循环, 第 102 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_44ad10e20d22",
+      "name": "肺通气量增加",
+      "definition": "二是刺激外周化学感受 器， 冲动经窦神经和迷走神经传入延髓， 反射性地使呼吸加深加快， 肺通气量增加。",
+      "category": "生理机制",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_4c488ff30385",
+      "name": "动脉血",
+      "definition": "V 表现为缺O2 的原因是： ①动、 静脉血液之间PO2 差远大于PCO2 差， 所以当发生动静脉短路时， 动脉血 PO2 下降的程度大于PCO2 升高的程度。",
+      "category": "核心概念",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_938ed3852f63",
+      "name": "肺通气阻力增大",
+      "definition": "机体在缺O2、 CO2 增多或肺通气阻力增大较严重的情况下， 可出现 呼吸困难 （dyspnea） 表现为呼吸明显加深， 鼻翼扇动， 同时主观上有胸部困压感。",
+      "category": "核心概念",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_c2f7c498c101",
+      "name": "反射效应",
+      "definition": "2. 喷嚏反射 （sneezing reflex） 类似于咳嗽反射， 不同的是刺激作用于鼻黏膜的感受器， 传入神 经是三叉神经， 反射效应是腭垂下降， 舌压向软腭， 而不是声门关闭， 呼出气主要从鼻腔喷出， 以清除 鼻腔中的刺激物。",
+      "category": "生理机制",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_79efc3b3f6b7",
+      "name": "肺换气",
+      "definition": "在人和高等动物， 呼吸的全过程包括 3 个环节： ①外呼吸 （external respiration） 是指肺毛细血管血液与外界环境之间的气体交换， 包括肺通 气和肺换气两个过程， 前者指肺泡与外界环境之间的气体交换， 后者为肺泡与肺毛细血管血液之间的 气体交换；",
+      "category": "生理机制",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_4546b9e1d922",
+      "name": "呼吸神经元",
+      "definition": "吸， 脊髓的呼吸神经元是联系高位呼吸中枢和呼吸肌的中继站， 以及整合某些呼吸反射的初级 中枢。",
+      "category": "生理机制",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_a1515e61b0c1",
+      "name": "肺牵张反射",
+      "definition": "二 肺牵张反射 由肺扩张或缩小所引起的反射性呼吸变化， 称为肺牵张反射 （pulmonary stretch reflex） 又称黑 伯反 161 第五章 呼吸 射 （Hering-Breuer reflex）",
+      "category": "生理机制",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_07d634803ad9",
+      "name": "咳嗽反射",
+      "definition": "实现肺通气的器官包 括呼吸道、 肺泡、 胸膜腔、 膈肌和胸廓等， 其主要功能包括： ①呼吸道是气体流通之道， 具有对吸入气体 进行加温、 加湿、 过滤和清洁的作用， 以及引起防御性呼吸反射 咳嗽反射和喷嚏反射 等保护功能；",
+      "category": "生理机制",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_44564593469e",
+      "name": "脑屏障",
+      "definition": "中枢化学感受器对H 的敏感性约为外周化学感受器的25 倍， 但 由于H + 不易通过血 脑屏障， 因此， 血液中H + 对呼吸运动的调节主要是通过刺激外周化学感受器起 作用， 而脑脊液中H + 是中枢化学感受器最有效的刺激物。",
+      "category": "核心概念",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_38c027d37e76",
+      "name": "肺水肿",
+      "definition": "随后数十分钟， 因低氧的持续而通气反应下降， 称为 持续性低氧下的通气衰竭， 严重时可引起急性高原疾病、 高原性脑水肿、 高原性肺水肿等。",
+      "category": "核心概念",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_92e1b88d2f7f",
+      "name": "受体",
+      "definition": "迷走神经末梢通过释放ACh 作用于气道平滑肌的M 受体， 使气道平滑肌收缩， 气道阻力增加；",
+      "category": "核心概念",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_94ee04759707",
+      "name": "呼吸的反射性调节",
+      "definition": "二、 呼吸的反射性调节 虽然呼吸节律起源于脑， 但呼吸运动的频率、 深度、 吸气时间和呼吸类型等都受到来自呼吸器官 自身以及血液循环等其他器官感受器传入冲动的反射性调节， 如化学感受性呼吸反射、 肺牵张反射、 呼吸肌本体感受性反射和防御性呼吸反射。",
+      "category": "生理机制",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_f9a9b49503ab",
+      "name": "肌本体感受性反射",
+      "definition": "四 呼吸肌本体感受性反射 肌梭和腱器官是骨骼肌的本体感受器。",
+      "category": "生理机制",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_5a029ea2f487",
+      "name": "肺泡通气量",
+      "definition": "二 肺通气量和肺泡通气量 1. 肺通气量 （pulmonary ventilation volume） 是指每分钟吸入或呼出的气体总量， 等于潮气量乘 以呼吸频率。",
+      "category": "核心概念",
+      "chapter": "第五章 呼吸",
+      "page": 158,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第五章 呼吸, 第 158 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_2db6d8cd047f",
+      "name": "消化和吸收",
+      "definition": "第六章 消化和吸收 本章数字资源 消化系统的基本功能是消化食物和吸收营养物质， 还能排泄某些代谢产物。",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_4bd45d1f83f6",
+      "name": "迷走神经",
+      "definition": "胃肠激素的生理作用极为广泛， 但主要在于调节消化器官的功能， 总体上有以下三个方面 表 6-2） 167 第六章 消化和吸收 细胞名称 分泌物质 细胞所在部位 α 细胞 胰高血糖素 胰岛 β 细胞 胰岛素 胰岛 δ 细胞 生长抑素 胰岛、 胃、 小肠、 大肠 G 细胞 促胃液素 胃窦、 十二指肠 I 细胞 缩胆囊素 小肠上部 K 细胞 抑胃肽 小肠上部 Mo 细胞 胃动素 小肠 N 细胞 神经降压素 回肠 PP 细胞 胰多肽 胰岛、",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_263f2d14113e",
+      "name": "受体",
+      "definition": "上述ACh 对靶细胞的作用均可被阿托品所阻断， 说明 这些作用是通过激活靶细胞的M （M3） 受体而产生的；",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_6b1a31c1424e",
+      "name": "反射的传出途径",
+      "definition": "反射的传出途径是迷走神经。",
+      "category": "生理机制",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_c6c179e3c9fc",
+      "name": "吸收过程",
+      "definition": "铁主要在小肠上部被吸收， 吸收过程包括黏膜细胞从肠腔摄取铁和向血浆转运铁两个过程， 都是 需要消耗能量的主动转运过程， 需要多种转运蛋白的参与。",
+      "category": "生理机制",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_3cd27e9938a5",
+      "name": "质吸收",
+      "definition": "第七节 | 吸 收 食物中的糖、 脂肪和蛋白质是人体能量的主要来源， 但是这些大分子营养物质必须先被分解为小 分子物质才能被吸收， 所以大分子营养物质吸收是在消化的基础上进行的。",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_cfb8ce70b57b",
+      "name": "糖的吸收",
+      "definition": "大部分单糖的吸收是个主动过程， 它是逆浓度差进行的。",
+      "category": "生理机制",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_f3793307bc18",
+      "name": "神经元",
+      "definition": "它们是由 大量神经元和神经纤维组成的复杂的神经网络， 根据其所在位置又分为黏膜下神经丛 （submucosal plexus） 和肌间神经丛 （myenteric plexus）",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_9f0ac5e5eaa1",
+      "name": "动作电位",
+      "definition": "二 消化道平滑肌的电生理特性 消化道平滑肌的细胞电活动较骨骼肌复杂， 其电位变化主要有静息电位、 慢波电位和动作电位等 三种形式。",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_d8b648489865",
+      "name": "神经调节",
+      "definition": "进食时唾液分泌明显增多， 主要依靠神经调节， 包括条件反射和非条件反射。",
+      "category": "生理机制",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_a314f808ae64",
+      "name": "交感神经",
+      "definition": "内脏大神经 属交感神经 对胰液分泌的影响不是很明显。",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_219cdd53926e",
+      "name": "激素",
+      "definition": "四、 消化系统的内分泌功能 一 APUD 细胞和胃肠激素 消化道黏膜层内存在40 多种内分泌细胞， 总数远超过体内其他内分泌细胞的总和， 因此消化 道被认为是体内最大也是最复杂的内分泌器官。",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_e59822c4040a",
+      "name": "头期胃液分泌",
+      "definition": "1. 头期胃液分泌 进食时， 食物的颜色、 形状、 气味、 声音以及咀嚼、 吞咽动作， 可刺激眼、 耳、 鼻、 口腔、 咽等处的感受器， 通过传入冲动反射性地引起胃液分泌， 称为头期胃液分泌。",
+      "category": "生理机制",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_9fafdd166584",
+      "name": "碳酸氢盐屏障",
+      "definition": "进入胃内的HCO3 - 并非直接 进入胃液中， 而是与胃黏膜表面的黏液联合形成一个抗胃黏膜损伤的屏障， 称为黏液 - 碳酸氢盐屏障 （mucus-bicarbonate barrier） 图6-6） 它能有效地保护胃黏膜免受胃内盐酸和胃蛋白酶的损伤。",
+      "category": "核心概念",
+      "chapter": "第六章 消化和吸收",
+      "page": 188,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第六章 消化和吸收, 第 188 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_bd10131cdd76",
+      "name": "能量代谢",
+      "definition": "第一节 | 能量代谢 机体的物质代谢包括合成代谢和分解代谢两个方面。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_72ec1a1758ae",
+      "name": "行为性体温调节",
+      "definition": "行为性体温调节 （behavioral thermoregulation） 是指有意识地进行有利于建立体热平衡的行为活动， 如改变姿势、 增减衣物、 人工改 善气候条件等。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_b3fbcfcd5d4a",
+      "name": "甲状腺激素",
+      "definition": "这是由机体出现的无意识的肌紧张， 以及交感神经兴奋， 甲状腺激素、 肾上腺素等刺激代谢的激素释放增多， 使机体代谢活动增强所致。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_2589f98e7353",
+      "name": "基础体温",
+      "definition": "所谓基础体温是指在基础状态下的体温， 一般在早晨起床前测定。",
+      "category": "方法/指标",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_7fc8fe4ed82a",
+      "name": "合成代谢",
+      "definition": "第一节 | 能量代谢 机体的物质代谢包括合成代谢和分解代谢两个方面。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_0001021a3d61",
+      "name": "分解代谢",
+      "definition": "第一节 | 能量代谢 机体的物质代谢包括合成代谢和分解代谢两个方面。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_0b3ba29d9573",
+      "name": "人的体温",
+      "definition": "正常情况下， 人的体温是相对稳定的， 当某种原因使体温 升高或降低时， 对机体可有一定的保护作用， 但若超过一定界限， 将危及生命。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_3211f701d0bd",
+      "name": "排卵后黄体期体温升高",
+      "definition": "目前认为排卵后黄体期体温升高是黄体分泌的孕 激素作用于下丘脑所致。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_d1b67b92c4da",
+      "name": "物质代谢",
+      "definition": "第一节 | 能量代谢 机体的物质代谢包括合成代谢和分解代谢两个方面。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_7ca5b89c7fae",
+      "name": "自主性体温调节",
+      "definition": "自主性体温调节 （autonomic thermoregulation） 是指在体温调节中枢的控制下， 通过增减皮肤的血流量、 出汗、 战栗和调控代谢水平等生理性调节 反应， 维持产热和散热的动态平衡， 使体温保持在相对稳定的水平。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_c8081cf60722",
+      "name": "体温调节中枢",
+      "definition": "二、 机体的产热反应与散热反应 恒温动物之所以能维持体温相对稳定， 是因为产热 （heat production） 和散热 （heat loss） 两个生理 反应过程在体温调节中枢控制下取得动态平衡。",
+      "category": "生理机制",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_0f9bfae22394",
+      "name": "ATP",
+      "definition": "组织细胞在进行各种功能活动时 能利用的能量是由高能化合物腺苷三磷酸 （adenosine triphosphate， ATP） 直接提供的。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_d1236bca5ba9",
+      "name": "诱发体温调节反应",
+      "definition": "此外， PO/AH 的温度敏感神经元还接受致 热原 （pyrogen） 羟色胺、 去甲肾上腺素和一些肽类物质等的刺激， 诱发体温调节反应。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_b95c2e3523f4",
+      "name": "受体促进汗腺分泌",
+      "definition": "（2） 影响蒸发散热的因素： 汗腺受交感胆碱能纤维支配， 当交感神经兴奋时， 其末梢释放ACh 作 用于M 受体促进汗腺分泌。",
+      "category": "核心概念",
+      "chapter": "第七章 能量代谢与体温",
+      "page": 219,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第七章 能量代谢与体温, 第 219 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_1408cecc653d",
+      "name": "重吸收",
+      "definition": "肾交感神经节后纤维末梢释放的递质是去甲肾上腺素， 可调节肾血流量、 肾小球滤过率、 肾小管的重吸收和肾素的释放。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_bdf70df70882",
+      "name": "抗利尿激素",
+      "definition": "二、 体液调节 一 抗利尿激素 血管升压素 （vasopressin， VP） 也称抗利尿激素 （antidiuretic hormone， ADH） 是一种九肽激素。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_f0ee7d369d42",
+      "name": "肾小球滤过",
+      "definition": "肾小球滤过屏障上有一种蛋白质， 称为裂孔素 （nephrin） 是足细 胞裂隙膜的主要蛋白质成分， 其作用是阻止蛋白质的漏出。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_2971d65ce882",
+      "name": "有效滤过压",
+      "definition": "与体循环毛细血管床生成组织液的情况类似， 肾小球有效滤过压是指促进超滤的动力与对 抗超滤的阻力之间的差值。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_af82e065aac7",
+      "name": "循环血量",
+      "definition": "所以， 肾血流量的神经和体液调节主要是为了使肾血流 量与全身循环血量相配合。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_23aa9fac24fc",
+      "name": "神经",
+      "definition": "在某些病理情况下， 肾脏基底膜上 负电荷减少或消失， 此时带负电荷的 血浆白蛋白可以被滤过， 出现蛋白尿 （proteinuria） 或白蛋白尿 （albuminuria） 五 肾间质 肾间质包括肾内的间质细胞、 基质、 组织间液、 淋巴管、 神经等。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_2ae9a4814377",
+      "name": "受体",
+      "definition": "③与α1 肾上腺素能受体结合， 刺激近端小管和髓袢 主要是近端小管 对Na Cl - 和水 230 第八章 尿的生成和排出 的重吸收。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_ed732b8cd76b",
+      "name": "小管液中的正电位",
+      "definition": "上皮细胞与小管液间的电位差也会影响K + 分泌， 小管液中的正电位 是K + 扩散的阻力， 而小管液负电位值增大可增加K + 扩散的驱动力， 使K + 的分泌增加。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_7e632030e269",
+      "name": "原发性主动转运",
+      "definition": "（2） 主动转运： 原发性主动转运包括质子泵、 钠泵和钙泵转运等。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_2837545e4f3c",
+      "name": "血压的变化",
+      "definition": "肾小球毛细血管 血压的变化是生理状态下调节GFR 的主要方式。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_af8d606cbea8",
+      "name": "调节动脉血压",
+      "definition": "第八章 尿的生成和排出 本章数字资源 肾脏是机体最重要的排泄器官， 通过尿的生成和排出， 肾脏能够排出机体代谢终产物、 进入机体 过剩的物质和异物， 调节水、 电解质和酸碱平衡， 调节动脉血压等， 从而维持机体内环境的稳态。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_f2282537b8cc",
+      "name": "共转运体",
+      "definition": "已如前述， 小管液中的葡萄糖是通过近端小管上皮细胞顶端膜中的Na +- 葡萄糖耦联转运体 ［sodium-glucose linked cotransporter， SGLT， 又称钠依赖的葡萄糖共转运体 （sodium-dependent glucose cotransporter） 以继发性主动转运的方式被转入细胞的。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_3e359560cc49",
+      "name": "晶体渗透压",
+      "definition": "抗利尿激素的释放受多重因素的调节和影响， 其中最重要的是血浆晶体渗透压和循环血量。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_eb2f5e29f0bd",
+      "name": "闰细胞",
+      "definition": "其中A 型闰细胞可主动分泌 H 细胞的顶端膜中存在两种质子泵， 一种是氢泵 （H +-ATP 酶 另一种是氢钾泵 （H K +-ATP 酶 两者均可将细胞内的H + 泵入小管液中。",
+      "category": "核心概念",
+      "chapter": "第八章 尿的生成和排出",
+      "page": 236,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第八章 尿的生成和排出, 第 236 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_010f43078c5a",
+      "name": "神经元",
+      "definition": "所以， 当刺激发生在一个特定感觉的神经通 路时， 不管该通路的活动是如何引起的， 或者是由该通路的哪一部分产生的， 所引起的感觉总是该通 路的感受器在生理情况下兴奋所引起的感觉， 遵循穆勒 （Müller， 1835 年 所提出的特异神经能量定律 （law of specific nerve energy） 二 感觉通路中的感受野 感觉通路中也有感受野， 它是指由所有能影响某中枢感觉神经元活动的感受器所组成的空间范 围。",
+      "category": "生理机制",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_38ae4c610b05",
+      "name": "蛋白耦联受体",
+      "definition": "感受器电位的产生机制各不相同， 但 介导这一过程的信号转导分子主要是细胞膜上的通道蛋白或G 蛋白耦联受体。",
+      "category": "生理机制",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_32e0ba7e71ce",
+      "name": "感受器电位",
+      "definition": "在感受器的换能过程中， 首先要在感受器细胞或传入神经末梢产生一种过渡性 的局部膜电位变化， 这种电位变化称为感受器电位 （receptor potential）",
+      "category": "生理机制",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_8d29bbd73a55",
+      "name": "听神经动作电位",
+      "definition": "三、 听神经动作电位 听神经动作电位是耳蜗对声波刺激所产生的一系列反应中最后出现的电变化， 是耳蜗对声波刺 激进行换能和编码的总结果。",
+      "category": "核心概念",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_2bbee6a0310f",
+      "name": "瞳孔对光反射",
+      "definition": "255 第九章 感觉器官的功能 2. 瞳孔对光反射 瞳孔对光反射 （pupillary light reflex） 是指瞳孔在强光照射时缩小而在光线变 弱时散大的反射。",
+      "category": "生理机制",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_f826da396d81",
+      "name": "耳蜗微音器电位",
+      "definition": "2. 耳蜗微音器电位 当耳蜗受到声音刺激时， 在 耳蜗及其附近结构可记录到一种与声波的频率和幅度 完全一致的电位变化， 称为耳蜗微音器电位 （cochlear microphonic potential， CMP）",
+      "category": "核心概念",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_48046fe2744b",
+      "name": "神经节细胞",
+      "definition": "在中央 259 第九章 感觉器官的功能 凹处一个视锥细胞常常仅与一个双极细胞联系， 而该双极细胞也只同一个神经节细胞联系， 呈现一对 一的单线联系方式， 这是视网膜中央凹视敏度较高的结构基础。",
+      "category": "核心概念",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_836f10ffc18a",
+      "name": "味细胞的膜电位",
+      "definition": "静息时， 味细胞的膜电位 是-60～-40mV， 当给予味觉物质刺激时， 可使不同离子的膜电导发生变化， 从而产生去极化感受器 电位。",
+      "category": "核心概念",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_f067edd43b1e",
+      "name": "反射的过程",
+      "definition": "该反射的过程是： 强 或弱 光照射视网膜时产生的冲动沿视神经传到中脑的顶盖前区更换神经元， 然后到达双侧的动 眼神经副核， 再沿动眼神经中的副交感纤维传至睫状神经节， 再次更换神经元后抵达瞳孔括约肌， 使 瞳孔缩小 或散大",
+      "category": "生理机制",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_a347fb43a820",
+      "name": "电位变化",
+      "definition": "在感受器的换能过程中， 首先要在感受器细胞或传入神经末梢产生一种过渡性 的局部膜电位变化， 这种电位变化称为感受器电位 （receptor potential）",
+      "category": "生理机制",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_bdae3336bfb3",
+      "name": "神经纤维动作电位",
+      "definition": "由此可见， 内毛细胞的作用是将不同频率的声波振动转变为听神经纤维动作电位， 而外毛细胞则起耳蜗放大器作用， 可感知并迅速加强基底膜的振动， 从而有助于盖膜下内淋巴的流 动， 提高了内毛细胞对相应振动频率的敏感性。",
+      "category": "核心概念",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_31c3b4a3c3ca",
+      "name": "感光细胞",
+      "definition": "例如， 一定波长的电磁波是视网膜感光细胞的适宜刺激， 一定频率的机械振动是 耳蜗毛细胞的适宜刺激等。",
+      "category": "核心概念",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_7c1565808f73",
+      "name": "嗅细胞",
+      "definition": "嗅细胞是双极神经元， 其树突伸向鼻腔， 末端有4～25 条纤毛， 称为嗅毛， 埋于Bowman 腺 所分泌的黏液中；",
+      "category": "核心概念",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_6f23888c4295",
+      "name": "双极细胞",
+      "definition": "在中央 259 第九章 感觉器官的功能 凹处一个视锥细胞常常仅与一个双极细胞联系， 而该双极细胞也只同一个神经节细胞联系， 呈现一对 一的单线联系方式， 这是视网膜中央凹视敏度较高的结构基础。",
+      "category": "核心概念",
+      "chapter": "第九章 感觉器官的功能",
+      "page": 265,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第九章 感觉器官的功能, 第 265 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_e01620d173a9",
+      "name": "受体",
+      "definition": "神经递质释入突触间隙后， 经扩散抵达突触后膜并 作用于后膜上的特异性受体或递质门控通道， 其所引起 的电位变化称为突触后电位 （postsynaptic potential） 2. 非定向突触传递 这种传递模式不具有经典 突触的结构， 其突触前末梢释放的递质可扩散至距离 较远和范围较广的突触后成分， 所以也称为非突触性 化学传递 （non-synaptic chemical transmission）",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_5c70f7a3991d",
+      "name": "神经元",
+      "definition": "第一节 | 神经系统功能活动的基本原理 一、 神经元和神经胶质细胞 神经系统的组织特异性细胞主要是神经细胞 （nerve cell） 和神经胶质细胞 （neuroglial cell；",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_845123e68cc9",
+      "name": "基底神经节",
+      "definition": "313 第十章 神经系统的功能 四、 基底神经节对躯体运动的调控 基底神经节 （basal ganglia） 是大脑皮层下的一组神经核团， 包括尾状核 （caudate nucleus） 壳核 （putamen） 和苍白球 （globus pallidus）",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_093fae6c7d6f",
+      "name": "神经递质",
+      "definition": "4. 神经对效应组织的营养性作用 神经通过末梢释放神经递质引起所支配的组织迅速发生功 能变化， 如肌肉收缩、 腺体分泌等， 称为神经的功能性作用 （functional action）",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_984c78a79ab1",
+      "name": "反射",
+      "definition": "典型的例子是无脊椎动物海兔的缩鳃反射， 即用水流或毛笔轻触其喷水管 可引起喷水管和呼吸鳃回缩。",
+      "category": "生理机制",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_23891879a1cf",
+      "name": "神经纤维",
+      "definition": "3. 神经纤维及其功能 神经纤维 （nerve fiber） 是神经元的细长突起部分， 一般指轴突， 也包括在 其周围包绕的神经胶质细胞。",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_e3ccb638021c",
+      "name": "神经系统",
+      "definition": "第十章 神经系统的功能 本章数字资源 神经系统 （nervous system） 是人体最重要的调节系统， 由中枢神经系统 （central nervous system） 和周围 神经系统 （peripheral nervous system） 构成。",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_a6346ff9834f",
+      "name": "突触后电位",
+      "definition": "二、 突触传递 突触是神经元与神经元之间或神经元与其效应细胞之间的跨细胞连接 （junction） 结构， 其中神经 元与效应细胞之间的连接习惯称接头， 所引起的突触后电位称接头电位 （junction potential）",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_eabb4102a7a2",
+      "name": "单胺类递质",
+      "definition": "2. 单胺类递质及其受体 单胺类递质包括NE、 肾上腺素、 多巴胺、 羟色胺和组胺等。",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_f15cd4b535ce",
+      "name": "锋电位",
+      "definition": "它们不仅能引起脑电发生去同步化快波， 还能激发脑桥网状结构、 外侧膝状 体和枕叶皮层出现一种棘波， 被称为脑桥 - 外侧膝状体 - 枕叶锋电位 （ponto-geniculo-occipital spike） 简 称PGO 锋电位 （PGO spike）",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_60c06ea49ba9",
+      "name": "感觉神经周围突总",
+      "definition": "但在体情况下， 感觉神经周围突总是单向将神经冲动传向胞体。",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_84cc7b2ee420",
+      "name": "体感诱发电位",
+      "definition": "体感诱发电位是指刺激肢体末端感觉 神经后， 在躯体感觉上行通路不同部位记录的电位， 可用于各种感觉通路受损的诊断和客观评价， 还 可用于脑死亡的判断和脊髓手术的监护等。",
+      "category": "生理机制",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_73b25b290844",
+      "name": "电位变化",
+      "definition": "神经递质释入突触间隙后， 经扩散抵达突触后膜并 作用于后膜上的特异性受体或递质门控通道， 其所引起 的电位变化称为突触后电位 （postsynaptic potential） 2. 非定向突触传递 这种传递模式不具有经典 突触的结构， 其突触前末梢释放的递质可扩散至距离 较远和范围较广的突触后成分， 所以也称为非突触性 化学传递 （non-synaptic chemical transmission）",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_5baa49e32613",
+      "name": "递质尽管",
+      "definition": "在外周， 多数交感节后纤维 除支配汗腺和骨 骼肌血管的交感胆碱能纤维外 释放的递质尽管是NE， 但一般称其为肾上腺素能纤维；",
+      "category": "核心概念",
+      "chapter": "第十章 神经系统的功能",
+      "page": 303,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十章 神经系统的功能, 第 303 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_5f117aabe2df",
+      "name": "内分泌",
+      "definition": "第十一章 内分泌 本章数字资源 内分泌系统是人体重要的调节系统， 它通过内分泌器官及散在分布在外周组织中的内分泌细胞 分泌的各种激素全面调控与个体生存密切相关的基础功能活动， 如维护组织和细胞的新陈代谢， 调节 机体的生长、 发育、 生殖及衰老过程等。",
+      "category": "生理机制",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_21bdb928ae57",
+      "name": "激素",
+      "definition": "第十一章 内分泌 本章数字资源 内分泌系统是人体重要的调节系统， 它通过内分泌器官及散在分布在外周组织中的内分泌细胞 分泌的各种激素全面调控与个体生存密切相关的基础功能活动， 如维护组织和细胞的新陈代谢， 调节 机体的生长、 发育、 生殖及衰老过程等。",
+      "category": "生理机制",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_38378245be45",
+      "name": "受体",
+      "definition": "一 激素受体 激素受体位于靶细胞膜或细胞内 包括胞质和胞核内 其性质一般为大分子蛋白质 见第二章 激素对靶细胞作用的实质就是通过与相应受体结合， 从而启动靶细胞内一系列信号转导程序， 最终引 341 第十一章 内分泌 起该细胞固有的生物效应。",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_c36aec9c1ac3",
+      "name": "胰高血糖素",
+      "definition": "引起应激反应的 刺激统称为应激原 （stressor） 应激反应机制十分复杂， 除ACTH、 GC 分泌迅速增多外， 儿茶酚胺、 催乳素、 生长激素、 血管升压 素、 内啡肽、 胰高血糖素和醛固酮等激素的分泌也明显增加。",
+      "category": "生理机制",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_3b4d953b98d8",
+      "name": "分泌调节",
+      "definition": "终止激素生物效应是许多环节综合作用的结果： ①完善的激素分泌调节系统能使内分泌细胞适 时终止分泌激素， 如下丘脑 - 腺垂体 - 靶腺轴系；",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_97d5229f6c3d",
+      "name": "神经调节",
+      "definition": "例如， 卵泡在成熟发育的进程中分泌的雌激素在血液中达到一定水平后， 可 正反馈地引起LH 分泌出现高峰， 最终促发排卵 图11-7C） 2. 神经调节 下丘脑是神经系统与内分泌系统活动相互联络的重要枢纽。",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_557d470fb4ab",
+      "name": "血糖水平",
+      "definition": "血中游离脂肪酸增加可抑制骨骼肌与脂肪组织摄取葡萄 糖， 减少葡萄糖消耗， 使血糖水平升高， 表现为 “抗胰岛素” 效应。",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_f8a652de860d",
+      "name": "反馈调节",
+      "definition": "3. 甲状腺激素的反馈调节 TH 的反馈调节包括TH 对腺垂体TSH 的反馈调节以及对下丘脑 TRH 的反馈调节。",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_bb5e0ffc240e",
+      "name": "骨骼肌",
+      "definition": "血中游离脂肪酸增加可抑制骨骼肌与脂肪组织摄取葡萄 糖， 减少葡萄糖消耗， 使血糖水平升高， 表现为 “抗胰岛素” 效应。",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_e155a99327f3",
+      "name": "神经元",
+      "definition": "下丘脑的内侧基底部， 包括正中隆起、 弓状核、 腹内侧核、 视交叉上核、 室周核和室旁核内侧等， 分布有胞体较小的神经内分泌细胞， 称为小细胞神经元 （parvocellular neuron） 或神经内分泌小细胞 （parvocellular neuroendocrine cell， PvC） 它们发出的轴突 多终止于下丘脑基底部正中隆起， 与垂体门脉初级毛细血管丛形成密切接触， 轴突末端将分泌物直接 释放到组织间液中， 立即被下丘脑",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_f8e85ad6d284",
+      "name": "肌肉",
+      "definition": "促进生长： GH 对几乎所有组织和器官的生长都有促进作用， 尤其是对骨骼、 肌肉和内脏器官 的作用最为显著。",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_ee940b690041",
+      "name": "胰岛素",
+      "definition": "依据激素的作用机制， 可将激素分成Ⅰ组与Ⅱ组两大组群 表11-2） 作用机制归类 激素实例 Ⅰ组激素—与胞内受体结合的激素 皮质醇、 醛固酮、 孕激素、 雄激素、 雌激素、 钙三醇、 甲状腺素、 三碘 甲腺原氨酸 Ⅱ组激素—与膜受体结合的激素 A.G 蛋白耦联受体介导作用的激素 a. 以cAMP 为第二信使的激素 促肾上腺皮质激素释放激素、 生长激素释放抑制激素、 促甲状腺激 素、 促肾上腺皮质激素、 卵泡刺激素、 黄体生成素、 血管升",
+      "category": "生理机制",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_3cfa11347574",
+      "name": "基础分泌",
+      "definition": "2. 分泌调节 GC 的分泌可表现为基础分泌和应激分泌两种情况。",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_b97e6692b74f",
+      "name": "神经系统",
+      "definition": "例如， 卵泡在成熟发育的进程中分泌的雌激素在血液中达到一定水平后， 可 正反馈地引起LH 分泌出现高峰， 最终促发排卵 图11-7C） 2. 神经调节 下丘脑是神经系统与内分泌系统活动相互联络的重要枢纽。",
+      "category": "核心概念",
+      "chapter": "第十一章 内分泌",
+      "page": 360,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十一章 内分泌, 第 360 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_97aa3751a0f9",
+      "name": "孕激素",
+      "definition": "黄体的主要 功能是分泌孕激素， 同时也分泌雌激素， 促使子宫内膜适应早期胚胎发育及着床的需要。",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_4f416d9fab0f",
+      "name": "雌激素",
+      "definition": "④表达的芳香化酶和5α- 还原酶可将间质细胞产 生的睾酮分别转化为雌激素和双氢睾酮， 一定量的雌激素有利于生精， 双氢睾酮是较睾酮活性更强的 雄激素；",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_de6d39a93221",
+      "name": "受体",
+      "definition": "1. 雄激素的合成、 代谢和利用 雄激素合成以胆固醇 为原料， 主要是间质细胞通过受体介导的内吞作用从血液 中摄取胆固醇， 也可通过滑面内质网中的乙酰辅酶A 将醋 酸盐从头合成胆固醇。",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_7dcd122ea521",
+      "name": "雄激素",
+      "definition": "曲细精管是精子生成的部位， 间质中的睾丸间质细胞 莱迪希细胞， Leydig cell） 合成和分泌雄激素。",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_20e75a57d963",
+      "name": "神经元受神经递质",
+      "definition": "GnRH 神经元受神经递质kisspeptin 的调 控， 分泌kisspeptin 的神经元位于弓状核 （arcuate nucleus， ARC）和前腹侧脑室周围核 （anteroventral periventricular nucleus， AVPV）",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_58e1921018f8",
+      "name": "绒毛膜促性腺激素",
+      "definition": "间质细胞发育不良或对胎盘绒毛膜促性腺激素反应低下所导致的睾酮分泌 不足是男性假两性畸形的原因之一。",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_d241d380d9d8",
+      "name": "神经元分泌",
+      "definition": "而高剂量雌激素刺 激AVPV 中的kisspeptin 神经元分泌kisspeptin 增多， 通过 正反馈效应增加GnRH 的分泌。",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_7ca356fb7a82",
+      "name": "传出神经",
+      "definition": "阴茎勃起的本质是反射活动， 其传出神经主要是副交感舒血管神经纤维， 通过释放乙酰胆 碱、 血管活性肠肽以及一氧化氮， 使阴茎血管舒张。",
+      "category": "生理机制",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_f45b615853cd",
+      "name": "神经调节",
+      "definition": "1. 神经调节 性行为的调节主要是在中枢神经系统的控制下， 通过条件反射和非条件反射来实现的。",
+      "category": "生理机制",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_f811233addc9",
+      "name": "激素调节",
+      "definition": "398 第十二章 生殖 2. 激素调节 调节性反应的激素主要包括雄激素、 雌激素和孕激素。",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_b5e47a53c1f1",
+      "name": "激素分泌",
+      "definition": "临床上对于雄激素分泌减少致性功能障碍但又有生育要求的男性， 并不是 直接补充雄激素， 而是使用具有与LH 结构和作用相似的人绒毛膜促性腺激素 （human chorionic gonadotropin， hCG） 或抑制雄激素向雌激素转化的芳香化酶抑制剂等药物。",
+      "category": "应用场景",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_1b10b62cfae1",
+      "name": "激素之一",
+      "definition": "人绒毛 膜促性腺激素 （human chorionic gonadotropin， hCG） 是胚泡最早分泌的激素之一， 它能抑制植物血凝素 对淋巴细胞的刺激作用， 还能吸附于滋养层细胞表面， 以免胚胎滋养层被母体淋巴细胞攻击， 从而在 胚泡植入过程中起重要作用。",
+      "category": "生理机制",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_f0062c820a02",
+      "name": "睾屏障",
+      "definition": "（2） 参与形成血 - 睾屏障： 支持细胞间的紧密连接是构成血 - 睾屏障 （blood-testis barrier） 的主要 结构基础， 物质选择性通过， 可为生精细胞营造适宜的微环境， 防止生精细胞的抗原物质进入血液循 环引起自身免疫反应。",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_934a7033ecc1",
+      "name": "子宫节律性收缩",
+      "definition": "子宫节律性收缩是临产的重要标志， 宫缩时子宫肌壁血管受压、 血流量减少， 但间 歇期子宫血流量又恢复， 这种阵发性收缩对胎儿的血流灌注有利。",
+      "category": "核心概念",
+      "chapter": "第十二章 生殖",
+      "page": 406,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十二章 生殖, 第 406 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_b8b335950773",
+      "name": "生长发育",
+      "definition": "第十三章 生长发育和衰老 本章数字资源 生长发育是指随着年龄的增长， 人体各组织器官在大小、 形状和成熟度上发生的连续性变化。",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_7cc12004b3f7",
+      "name": "衰老",
+      "definition": "第十三章 生长发育和衰老 本章数字资源 生长发育是指随着年龄的增长， 人体各组织器官在大小、 形状和成熟度上发生的连续性变化。",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_873d3db03c43",
+      "name": "雌激素",
+      "definition": "3. 性激素 在青春期之前， 雄激素和雌激素对正常生长的影响不大， 但在青春期时， 体内性激素 水平增高是青春期身高快速增长的重要原因。",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_f561eba0e0ca",
+      "name": "性激素",
+      "definition": "3. 性激素 在青春期之前， 雄激素和雌激素对正常生长的影响不大， 但在青春期时， 体内性激素 水平增高是青春期身高快速增长的重要原因。",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_f301904fb480",
+      "name": "受体",
+      "definition": "人胰岛素受体基因突变会导致严重的胰岛素抵抗综 合征， 患儿表现为宫内及出生后生长迟缓、 黑棘皮病和葡萄糖代谢异常， 大多数在婴儿期死亡。",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_c0c97528729d",
+      "name": "甲状腺激素",
+      "definition": "2. 甲状腺激素 （TH） TH 是胎儿、 新生儿脑发育的关键激素， 尤其在妊娠中晚期及婴儿出生后 第一年期间最为重要。",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_f2a70605fbe7",
+      "name": "平衡电位",
+      "definition": "思考题解题思路 本章目标测试 本章思维导图 409 推荐阅读 ［1］ 王庭槐 . 生理学 ［M］ .9 版 . 北京： 人民卫生出版社， 2018. ［2］ 姚泰， 赵志奇， 朱大年， 等 . 人体生理学 上 、下 册） ［M］ . 4 版 . 北京： 人民卫生出版社， 2015. ［3］ 管又飞， 朱进霞， 罗自强 . 医学生理学 ［M］ . 4 版 . 北京： 北京大学医学出版社， 2018. ［4］ 王庭槐， 吴一龙， 黄梓才",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_9f05b29cdbb5",
+      "name": "循环",
+      "definition": "研究表明， 有氧锻炼 可引起机体呼吸、 循环和神经内分泌等系统的功能改变。",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_a232bb2ac1ce",
+      "name": "胰岛素",
+      "definition": "1. 生长激素 （GH） 胰岛素样生长因子 -1 （IGF-1） 轴 GH 几乎对所有组织和器官的生长都具 有促进作用， 尤其是对骨骼、 肌肉和内脏器官的作用最为显著。",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_732e8c915a5f",
+      "name": "心肌异长自身调节",
+      "definition": "signaling 限制性通气不足 restrictive hypoventilation 143 pathway 22 腺苷 adenosine 298 信使分子 messenger molecule 22 腺苷酸环化酶 adenylyl cyclase， AC 24 星形胶质细胞 astrocyte 284 相对不应期 relative refractory period， RRP 39, 95 行波 travelling wave",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_edd92816e194",
+      "name": "葡萄糖耦联转运体",
+      "definition": "white blood cell， WBC 54 Mas 相关G 蛋白耦联受体 Mas-related G-protein-coupled 半规管 semicircular canal 274 receptor， Mrgpr 251 胞膜受体 membrane receptor 22 胞内分泌 intracrine 23, 337 N2 型ACh 受体阳离子通道 N2-ACh receptor cation channel 43 饱中枢",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_e0f6d39d2b40",
+      "name": "凝血酶调节蛋白",
+      "definition": "red blood cell， RBC 54 肌动蛋白 actin 45 红细胞沉降率 erythrocyte sedimentation rate， ESR 58 肌钙蛋白 troponin 45 红细胞叠连 erythrocyte rouleaux formation 58 肌钙蛋白C troponin C， TnC 45 红细胞渗透脆性 osmotic fragility of erythrocyte 58 肌钙蛋白I tropo",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_3aa459844b79",
+      "name": "行为性体温调节",
+      "definition": "signaling 限制性通气不足 restrictive hypoventilation 143 pathway 22 腺苷 adenosine 298 信使分子 messenger molecule 22 腺苷酸环化酶 adenylyl cyclase， AC 24 星形胶质细胞 astrocyte 284 相对不应期 relative refractory period， RRP 39, 95 行波 travelling wave",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_51db6a6899ac",
+      "name": "自主性体温调节",
+      "definition": "thrombocyte 54 液相入胞 fluid-phase endocytosis 21 血小板分泌 platelet secretion 64 腋下温度 axillary temperature 205 血小板聚集 platelet aggregation 64 一碘酪氨酸 monoiodotyrosine， MIT 357 血小板黏附 platelet adhesion 64 一期止血 first hemostasis 67 血",
+      "category": "核心概念",
+      "chapter": "第十三章 生长发育和衰老",
+      "page": 423,
+      "textbook_id": "book_b96d5ebc2869",
+      "textbook_title": "03_生理学",
+      "source": "03_生理学, 第十三章 生长发育和衰老, 第 423 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    }
+  ],
+  "edges": [
+    {
+      "source": "node_c832e92b7000",
+      "target": "node_40e2b989631a",
+      "relation_type": "contains",
+      "description": "“第一章 绪论”中的核心主题“体液调节”包含或统摄“神经调节”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_c832e92b7000",
+      "target": "node_1ae3142266a1",
+      "relation_type": "contains",
+      "description": "“第一章 绪论”中的核心主题“体液调节”包含或统摄“新陈代谢”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_c832e92b7000",
+      "target": "node_97b5741be5cf",
+      "relation_type": "contains",
+      "description": "“第一章 绪论”中的核心主题“体液调节”包含或统摄“反射”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_c832e92b7000",
+      "target": "node_902d637ea1a0",
+      "relation_type": "contains",
+      "description": "“第一章 绪论”中的核心主题“体液调节”包含或统摄“稳态的维持”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_c832e92b7000",
+      "target": "node_ed425793de83",
+      "relation_type": "contains",
+      "description": "“第一章 绪论”中的核心主题“体液调节”包含或统摄“神经细胞”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_c832e92b7000",
+      "target": "node_240733c9520c",
+      "relation_type": "contains",
+      "description": "“第一章 绪论”中的核心主题“体液调节”包含或统摄“内环境的稳态”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_c832e92b7000",
+      "target": "node_836f86f7fb93",
+      "relation_type": "contains",
+      "description": "“第一章 绪论”中的核心主题“体液调节”包含或统摄“体温调节中枢”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_40e2b989631a",
+      "target": "node_97b5741be5cf",
+      "relation_type": "parallel",
+      "description": "“神经调节”与“反射”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_1ae3142266a1",
+      "target": "node_902d637ea1a0",
+      "relation_type": "parallel",
+      "description": "“新陈代谢”与“稳态的维持”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_1ae3142266a1",
+      "target": "node_ed425793de83",
+      "relation_type": "parallel",
+      "description": "“新陈代谢”与“神经细胞”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_1ae3142266a1",
+      "target": "node_240733c9520c",
+      "relation_type": "parallel",
+      "description": "“新陈代谢”与“内环境的稳态”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_902d637ea1a0",
+      "target": "node_ed425793de83",
+      "relation_type": "parallel",
+      "description": "“稳态的维持”与“神经细胞”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_902d637ea1a0",
+      "target": "node_240733c9520c",
+      "relation_type": "parallel",
+      "description": "“稳态的维持”与“内环境的稳态”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ed425793de83",
+      "target": "node_240733c9520c",
+      "relation_type": "parallel",
+      "description": "“神经细胞”与“内环境的稳态”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_40c9f8a99e9a",
+      "target": "node_2a8fea98aa90",
+      "relation_type": "contains",
+      "description": "“第二章 细胞的基本功能”中的核心主题“受体”包含或统摄“电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_40c9f8a99e9a",
+      "target": "node_c50d9a306852",
+      "relation_type": "contains",
+      "description": "“第二章 细胞的基本功能”中的核心主题“受体”包含或统摄“继发性主动转运”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_40c9f8a99e9a",
+      "target": "node_d25ea898e05d",
+      "relation_type": "contains",
+      "description": "“第二章 细胞的基本功能”中的核心主题“受体”包含或统摄“骨骼肌”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_40c9f8a99e9a",
+      "target": "node_5fb7fa52e07f",
+      "relation_type": "contains",
+      "description": "“第二章 细胞的基本功能”中的核心主题“受体”包含或统摄“平滑肌”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_40c9f8a99e9a",
+      "target": "node_9c7229e01308",
+      "relation_type": "contains",
+      "description": "“第二章 细胞的基本功能”中的核心主题“受体”包含或统摄“调节性出胞”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_40c9f8a99e9a",
+      "target": "node_155169f36b67",
+      "relation_type": "contains",
+      "description": "“第二章 细胞的基本功能”中的核心主题“受体”包含或统摄“神经递质”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_40c9f8a99e9a",
+      "target": "node_fe4d54efb538",
+      "relation_type": "contains",
+      "description": "“第二章 细胞的基本功能”中的核心主题“受体”包含或统摄“心肌”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2a8fea98aa90",
+      "target": "node_d25ea898e05d",
+      "relation_type": "parallel",
+      "description": "“电位”与“骨骼肌”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c50d9a306852",
+      "target": "node_5fb7fa52e07f",
+      "relation_type": "parallel",
+      "description": "“继发性主动转运”与“平滑肌”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c50d9a306852",
+      "target": "node_9c7229e01308",
+      "relation_type": "parallel",
+      "description": "“继发性主动转运”与“调节性出胞”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c50d9a306852",
+      "target": "node_155169f36b67",
+      "relation_type": "parallel",
+      "description": "“继发性主动转运”与“神经递质”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_5fb7fa52e07f",
+      "target": "node_9c7229e01308",
+      "relation_type": "parallel",
+      "description": "“平滑肌”与“调节性出胞”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_5fb7fa52e07f",
+      "target": "node_155169f36b67",
+      "relation_type": "parallel",
+      "description": "“平滑肌”与“神经递质”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_9c7229e01308",
+      "target": "node_155169f36b67",
+      "relation_type": "parallel",
+      "description": "“调节性出胞”与“神经递质”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_8e30ccf94771",
+      "target": "node_4ef652745c56",
+      "relation_type": "contains",
+      "description": "“第三章 血液”中的核心主题“抗原”包含或统摄“抗体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8e30ccf94771",
+      "target": "node_ee60d01e9f80",
+      "relation_type": "contains",
+      "description": "“第三章 血液”中的核心主题“抗原”包含或统摄“凝血酶”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8e30ccf94771",
+      "target": "node_b97dbfa851bb",
+      "relation_type": "contains",
+      "description": "“第三章 血液”中的核心主题“抗原”包含或统摄“免疫”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8e30ccf94771",
+      "target": "node_f3fb9ad8ac27",
+      "relation_type": "contains",
+      "description": "“第三章 血液”中的核心主题“抗原”包含或统摄“淋巴细胞”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8e30ccf94771",
+      "target": "node_556d930fd67b",
+      "relation_type": "contains",
+      "description": "“第三章 血液”中的核心主题“抗原”包含或统摄“循环血液只”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8e30ccf94771",
+      "target": "node_3ffd10f1fe19",
+      "relation_type": "contains",
+      "description": "“第三章 血液”中的核心主题“抗原”包含或统摄“组织缺氧”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8e30ccf94771",
+      "target": "node_f503efb07179",
+      "relation_type": "contains",
+      "description": "“第三章 血液”中的核心主题“抗原”包含或统摄“EPO”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_4ef652745c56",
+      "target": "node_b97dbfa851bb",
+      "relation_type": "parallel",
+      "description": "“抗体”与“免疫”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4ef652745c56",
+      "target": "node_f3fb9ad8ac27",
+      "relation_type": "parallel",
+      "description": "“抗体”与“淋巴细胞”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4ef652745c56",
+      "target": "node_3ffd10f1fe19",
+      "relation_type": "parallel",
+      "description": "“抗体”与“组织缺氧”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ee60d01e9f80",
+      "target": "node_556d930fd67b",
+      "relation_type": "parallel",
+      "description": "“凝血酶”与“循环血液只”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b97dbfa851bb",
+      "target": "node_f3fb9ad8ac27",
+      "relation_type": "parallel",
+      "description": "“免疫”与“淋巴细胞”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b97dbfa851bb",
+      "target": "node_3ffd10f1fe19",
+      "relation_type": "parallel",
+      "description": "“免疫”与“组织缺氧”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f3fb9ad8ac27",
+      "target": "node_3ffd10f1fe19",
+      "relation_type": "parallel",
+      "description": "“淋巴细胞”与“组织缺氧”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_dc516e24a09f",
+      "target": "node_55f70df8cd36",
+      "relation_type": "contains",
+      "description": "“第四章 血液循环”中的核心主题“血液循环”包含或统摄“受体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_dc516e24a09f",
+      "target": "node_c8b3657934e0",
+      "relation_type": "contains",
+      "description": "“第四章 血液循环”中的核心主题“血液循环”包含或统摄“动脉血压”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_dc516e24a09f",
+      "target": "node_ee41404f5a77",
+      "relation_type": "contains",
+      "description": "“第四章 血液循环”中的核心主题“血液循环”包含或统摄“心肌细胞动作电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_dc516e24a09f",
+      "target": "node_cc69dd421416",
+      "relation_type": "contains",
+      "description": "“第四章 血液循环”中的核心主题“血液循环”包含或统摄“静息电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_dc516e24a09f",
+      "target": "node_ba045d4fb281",
+      "relation_type": "contains",
+      "description": "“第四章 血液循环”中的核心主题“血液循环”包含或统摄“血压升高”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_dc516e24a09f",
+      "target": "node_582ca9c0e2b9",
+      "relation_type": "contains",
+      "description": "“第四章 血液循环”中的核心主题“血液循环”包含或统摄“微动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_dc516e24a09f",
+      "target": "node_c7d51e27d3f3",
+      "relation_type": "contains",
+      "description": "“第四章 血液循环”中的核心主题“血液循环”包含或统摄“神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_55f70df8cd36",
+      "target": "node_c8b3657934e0",
+      "relation_type": "parallel",
+      "description": "“受体”与“动脉血压”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_55f70df8cd36",
+      "target": "node_ee41404f5a77",
+      "relation_type": "parallel",
+      "description": "“受体”与“心肌细胞动作电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_55f70df8cd36",
+      "target": "node_cc69dd421416",
+      "relation_type": "parallel",
+      "description": "“受体”与“静息电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_55f70df8cd36",
+      "target": "node_ba045d4fb281",
+      "relation_type": "parallel",
+      "description": "“受体”与“血压升高”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_55f70df8cd36",
+      "target": "node_582ca9c0e2b9",
+      "relation_type": "parallel",
+      "description": "“受体”与“微动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c8b3657934e0",
+      "target": "node_ee41404f5a77",
+      "relation_type": "parallel",
+      "description": "“动脉血压”与“心肌细胞动作电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c8b3657934e0",
+      "target": "node_cc69dd421416",
+      "relation_type": "parallel",
+      "description": "“动脉血压”与“静息电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c8b3657934e0",
+      "target": "node_ba045d4fb281",
+      "relation_type": "parallel",
+      "description": "“动脉血压”与“血压升高”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c8b3657934e0",
+      "target": "node_582ca9c0e2b9",
+      "relation_type": "parallel",
+      "description": "“动脉血压”与“微动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ee41404f5a77",
+      "target": "node_cc69dd421416",
+      "relation_type": "parallel",
+      "description": "“心肌细胞动作电位”与“静息电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ee41404f5a77",
+      "target": "node_ba045d4fb281",
+      "relation_type": "parallel",
+      "description": "“心肌细胞动作电位”与“血压升高”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ee41404f5a77",
+      "target": "node_582ca9c0e2b9",
+      "relation_type": "parallel",
+      "description": "“心肌细胞动作电位”与“微动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cc69dd421416",
+      "target": "node_ba045d4fb281",
+      "relation_type": "parallel",
+      "description": "“静息电位”与“血压升高”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cc69dd421416",
+      "target": "node_582ca9c0e2b9",
+      "relation_type": "parallel",
+      "description": "“静息电位”与“微动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_ba045d4fb281",
+      "target": "node_582ca9c0e2b9",
+      "relation_type": "parallel",
+      "description": "“血压升高”与“微动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cb4919f14c68",
+      "target": "node_dc516e24a09f",
+      "relation_type": "applies_to",
+      "description": "“高血压”可用于解释“血液循环”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_44ad10e20d22",
+      "target": "node_4c488ff30385",
+      "relation_type": "contains",
+      "description": "“第五章 呼吸”中的核心主题“肺通气量增加”包含或统摄“动脉血”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_44ad10e20d22",
+      "target": "node_938ed3852f63",
+      "relation_type": "contains",
+      "description": "“第五章 呼吸”中的核心主题“肺通气量增加”包含或统摄“肺通气阻力增大”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_44ad10e20d22",
+      "target": "node_c2f7c498c101",
+      "relation_type": "contains",
+      "description": "“第五章 呼吸”中的核心主题“肺通气量增加”包含或统摄“反射效应”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_44ad10e20d22",
+      "target": "node_79efc3b3f6b7",
+      "relation_type": "contains",
+      "description": "“第五章 呼吸”中的核心主题“肺通气量增加”包含或统摄“肺换气”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_44ad10e20d22",
+      "target": "node_4546b9e1d922",
+      "relation_type": "contains",
+      "description": "“第五章 呼吸”中的核心主题“肺通气量增加”包含或统摄“呼吸神经元”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_44ad10e20d22",
+      "target": "node_a1515e61b0c1",
+      "relation_type": "contains",
+      "description": "“第五章 呼吸”中的核心主题“肺通气量增加”包含或统摄“肺牵张反射”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_44ad10e20d22",
+      "target": "node_07d634803ad9",
+      "relation_type": "contains",
+      "description": "“第五章 呼吸”中的核心主题“肺通气量增加”包含或统摄“咳嗽反射”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_4c488ff30385",
+      "target": "node_938ed3852f63",
+      "relation_type": "parallel",
+      "description": "“动脉血”与“肺通气阻力增大”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c2f7c498c101",
+      "target": "node_79efc3b3f6b7",
+      "relation_type": "parallel",
+      "description": "“反射效应”与“肺换气”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c2f7c498c101",
+      "target": "node_4546b9e1d922",
+      "relation_type": "parallel",
+      "description": "“反射效应”与“呼吸神经元”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c2f7c498c101",
+      "target": "node_a1515e61b0c1",
+      "relation_type": "parallel",
+      "description": "“反射效应”与“肺牵张反射”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_79efc3b3f6b7",
+      "target": "node_4546b9e1d922",
+      "relation_type": "parallel",
+      "description": "“肺换气”与“呼吸神经元”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_79efc3b3f6b7",
+      "target": "node_a1515e61b0c1",
+      "relation_type": "parallel",
+      "description": "“肺换气”与“肺牵张反射”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4546b9e1d922",
+      "target": "node_a1515e61b0c1",
+      "relation_type": "parallel",
+      "description": "“呼吸神经元”与“肺牵张反射”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_38c027d37e76",
+      "target": "node_44ad10e20d22",
+      "relation_type": "applies_to",
+      "description": "“肺水肿”可用于解释“肺通气量增加”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_2db6d8cd047f",
+      "target": "node_4bd45d1f83f6",
+      "relation_type": "contains",
+      "description": "“第六章 消化和吸收”中的核心主题“消化和吸收”包含或统摄“迷走神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2db6d8cd047f",
+      "target": "node_263f2d14113e",
+      "relation_type": "contains",
+      "description": "“第六章 消化和吸收”中的核心主题“消化和吸收”包含或统摄“受体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2db6d8cd047f",
+      "target": "node_6b1a31c1424e",
+      "relation_type": "contains",
+      "description": "“第六章 消化和吸收”中的核心主题“消化和吸收”包含或统摄“反射的传出途径”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2db6d8cd047f",
+      "target": "node_c6c179e3c9fc",
+      "relation_type": "contains",
+      "description": "“第六章 消化和吸收”中的核心主题“消化和吸收”包含或统摄“吸收过程”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2db6d8cd047f",
+      "target": "node_3cd27e9938a5",
+      "relation_type": "contains",
+      "description": "“第六章 消化和吸收”中的核心主题“消化和吸收”包含或统摄“质吸收”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2db6d8cd047f",
+      "target": "node_cfb8ce70b57b",
+      "relation_type": "contains",
+      "description": "“第六章 消化和吸收”中的核心主题“消化和吸收”包含或统摄“糖的吸收”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_2db6d8cd047f",
+      "target": "node_f3793307bc18",
+      "relation_type": "contains",
+      "description": "“第六章 消化和吸收”中的核心主题“消化和吸收”包含或统摄“神经元”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_4bd45d1f83f6",
+      "target": "node_263f2d14113e",
+      "relation_type": "parallel",
+      "description": "“迷走神经”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4bd45d1f83f6",
+      "target": "node_3cd27e9938a5",
+      "relation_type": "parallel",
+      "description": "“迷走神经”与“质吸收”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_263f2d14113e",
+      "target": "node_3cd27e9938a5",
+      "relation_type": "parallel",
+      "description": "“受体”与“质吸收”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6b1a31c1424e",
+      "target": "node_c6c179e3c9fc",
+      "relation_type": "parallel",
+      "description": "“反射的传出途径”与“吸收过程”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6b1a31c1424e",
+      "target": "node_cfb8ce70b57b",
+      "relation_type": "parallel",
+      "description": "“反射的传出途径”与“糖的吸收”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c6c179e3c9fc",
+      "target": "node_cfb8ce70b57b",
+      "relation_type": "parallel",
+      "description": "“吸收过程”与“糖的吸收”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bd10131cdd76",
+      "target": "node_72ec1a1758ae",
+      "relation_type": "contains",
+      "description": "“第七章 能量代谢与体温”中的核心主题“能量代谢”包含或统摄“行为性体温调节”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd10131cdd76",
+      "target": "node_b3fbcfcd5d4a",
+      "relation_type": "contains",
+      "description": "“第七章 能量代谢与体温”中的核心主题“能量代谢”包含或统摄“甲状腺激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd10131cdd76",
+      "target": "node_2589f98e7353",
+      "relation_type": "contains",
+      "description": "“第七章 能量代谢与体温”中的核心主题“能量代谢”包含或统摄“基础体温”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd10131cdd76",
+      "target": "node_7fc8fe4ed82a",
+      "relation_type": "contains",
+      "description": "“第七章 能量代谢与体温”中的核心主题“能量代谢”包含或统摄“合成代谢”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd10131cdd76",
+      "target": "node_0001021a3d61",
+      "relation_type": "contains",
+      "description": "“第七章 能量代谢与体温”中的核心主题“能量代谢”包含或统摄“分解代谢”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd10131cdd76",
+      "target": "node_0b3ba29d9573",
+      "relation_type": "contains",
+      "description": "“第七章 能量代谢与体温”中的核心主题“能量代谢”包含或统摄“人的体温”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd10131cdd76",
+      "target": "node_3211f701d0bd",
+      "relation_type": "contains",
+      "description": "“第七章 能量代谢与体温”中的核心主题“能量代谢”包含或统摄“排卵后黄体期体温升高”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_72ec1a1758ae",
+      "target": "node_b3fbcfcd5d4a",
+      "relation_type": "parallel",
+      "description": "“行为性体温调节”与“甲状腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_72ec1a1758ae",
+      "target": "node_7fc8fe4ed82a",
+      "relation_type": "parallel",
+      "description": "“行为性体温调节”与“合成代谢”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_72ec1a1758ae",
+      "target": "node_0001021a3d61",
+      "relation_type": "parallel",
+      "description": "“行为性体温调节”与“分解代谢”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_72ec1a1758ae",
+      "target": "node_0b3ba29d9573",
+      "relation_type": "parallel",
+      "description": "“行为性体温调节”与“人的体温”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b3fbcfcd5d4a",
+      "target": "node_7fc8fe4ed82a",
+      "relation_type": "parallel",
+      "description": "“甲状腺激素”与“合成代谢”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b3fbcfcd5d4a",
+      "target": "node_0001021a3d61",
+      "relation_type": "parallel",
+      "description": "“甲状腺激素”与“分解代谢”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b3fbcfcd5d4a",
+      "target": "node_0b3ba29d9573",
+      "relation_type": "parallel",
+      "description": "“甲状腺激素”与“人的体温”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7fc8fe4ed82a",
+      "target": "node_0001021a3d61",
+      "relation_type": "parallel",
+      "description": "“合成代谢”与“分解代谢”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7fc8fe4ed82a",
+      "target": "node_0b3ba29d9573",
+      "relation_type": "parallel",
+      "description": "“合成代谢”与“人的体温”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_0001021a3d61",
+      "target": "node_0b3ba29d9573",
+      "relation_type": "parallel",
+      "description": "“分解代谢”与“人的体温”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_1408cecc653d",
+      "target": "node_bdf70df70882",
+      "relation_type": "contains",
+      "description": "“第八章 尿的生成和排出”中的核心主题“重吸收”包含或统摄“抗利尿激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_1408cecc653d",
+      "target": "node_f0ee7d369d42",
+      "relation_type": "contains",
+      "description": "“第八章 尿的生成和排出”中的核心主题“重吸收”包含或统摄“肾小球滤过”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_1408cecc653d",
+      "target": "node_2971d65ce882",
+      "relation_type": "contains",
+      "description": "“第八章 尿的生成和排出”中的核心主题“重吸收”包含或统摄“有效滤过压”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_1408cecc653d",
+      "target": "node_af82e065aac7",
+      "relation_type": "contains",
+      "description": "“第八章 尿的生成和排出”中的核心主题“重吸收”包含或统摄“循环血量”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_1408cecc653d",
+      "target": "node_23aa9fac24fc",
+      "relation_type": "contains",
+      "description": "“第八章 尿的生成和排出”中的核心主题“重吸收”包含或统摄“神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_1408cecc653d",
+      "target": "node_2ae9a4814377",
+      "relation_type": "contains",
+      "description": "“第八章 尿的生成和排出”中的核心主题“重吸收”包含或统摄“受体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_1408cecc653d",
+      "target": "node_ed732b8cd76b",
+      "relation_type": "contains",
+      "description": "“第八章 尿的生成和排出”中的核心主题“重吸收”包含或统摄“小管液中的正电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bdf70df70882",
+      "target": "node_f0ee7d369d42",
+      "relation_type": "parallel",
+      "description": "“抗利尿激素”与“肾小球滤过”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bdf70df70882",
+      "target": "node_2971d65ce882",
+      "relation_type": "parallel",
+      "description": "“抗利尿激素”与“有效滤过压”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bdf70df70882",
+      "target": "node_af82e065aac7",
+      "relation_type": "parallel",
+      "description": "“抗利尿激素”与“循环血量”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bdf70df70882",
+      "target": "node_23aa9fac24fc",
+      "relation_type": "parallel",
+      "description": "“抗利尿激素”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bdf70df70882",
+      "target": "node_2ae9a4814377",
+      "relation_type": "parallel",
+      "description": "“抗利尿激素”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f0ee7d369d42",
+      "target": "node_2971d65ce882",
+      "relation_type": "parallel",
+      "description": "“肾小球滤过”与“有效滤过压”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f0ee7d369d42",
+      "target": "node_af82e065aac7",
+      "relation_type": "parallel",
+      "description": "“肾小球滤过”与“循环血量”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f0ee7d369d42",
+      "target": "node_23aa9fac24fc",
+      "relation_type": "parallel",
+      "description": "“肾小球滤过”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f0ee7d369d42",
+      "target": "node_2ae9a4814377",
+      "relation_type": "parallel",
+      "description": "“肾小球滤过”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2971d65ce882",
+      "target": "node_af82e065aac7",
+      "relation_type": "parallel",
+      "description": "“有效滤过压”与“循环血量”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2971d65ce882",
+      "target": "node_23aa9fac24fc",
+      "relation_type": "parallel",
+      "description": "“有效滤过压”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2971d65ce882",
+      "target": "node_2ae9a4814377",
+      "relation_type": "parallel",
+      "description": "“有效滤过压”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_af82e065aac7",
+      "target": "node_23aa9fac24fc",
+      "relation_type": "parallel",
+      "description": "“循环血量”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_af82e065aac7",
+      "target": "node_2ae9a4814377",
+      "relation_type": "parallel",
+      "description": "“循环血量”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_23aa9fac24fc",
+      "target": "node_2ae9a4814377",
+      "relation_type": "parallel",
+      "description": "“神经”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_010f43078c5a",
+      "target": "node_38ae4c610b05",
+      "relation_type": "contains",
+      "description": "“第九章 感觉器官的功能”中的核心主题“神经元”包含或统摄“蛋白耦联受体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_010f43078c5a",
+      "target": "node_32e0ba7e71ce",
+      "relation_type": "contains",
+      "description": "“第九章 感觉器官的功能”中的核心主题“神经元”包含或统摄“感受器电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_010f43078c5a",
+      "target": "node_8d29bbd73a55",
+      "relation_type": "contains",
+      "description": "“第九章 感觉器官的功能”中的核心主题“神经元”包含或统摄“听神经动作电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_010f43078c5a",
+      "target": "node_2bbee6a0310f",
+      "relation_type": "contains",
+      "description": "“第九章 感觉器官的功能”中的核心主题“神经元”包含或统摄“瞳孔对光反射”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_010f43078c5a",
+      "target": "node_f826da396d81",
+      "relation_type": "contains",
+      "description": "“第九章 感觉器官的功能”中的核心主题“神经元”包含或统摄“耳蜗微音器电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_010f43078c5a",
+      "target": "node_48046fe2744b",
+      "relation_type": "contains",
+      "description": "“第九章 感觉器官的功能”中的核心主题“神经元”包含或统摄“神经节细胞”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_010f43078c5a",
+      "target": "node_836f10ffc18a",
+      "relation_type": "contains",
+      "description": "“第九章 感觉器官的功能”中的核心主题“神经元”包含或统摄“味细胞的膜电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_38ae4c610b05",
+      "target": "node_32e0ba7e71ce",
+      "relation_type": "parallel",
+      "description": "“蛋白耦联受体”与“感受器电位”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_38ae4c610b05",
+      "target": "node_2bbee6a0310f",
+      "relation_type": "parallel",
+      "description": "“蛋白耦联受体”与“瞳孔对光反射”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_32e0ba7e71ce",
+      "target": "node_2bbee6a0310f",
+      "relation_type": "parallel",
+      "description": "“感受器电位”与“瞳孔对光反射”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_8d29bbd73a55",
+      "target": "node_f826da396d81",
+      "relation_type": "parallel",
+      "description": "“听神经动作电位”与“耳蜗微音器电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_8d29bbd73a55",
+      "target": "node_48046fe2744b",
+      "relation_type": "parallel",
+      "description": "“听神经动作电位”与“神经节细胞”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f826da396d81",
+      "target": "node_48046fe2744b",
+      "relation_type": "parallel",
+      "description": "“耳蜗微音器电位”与“神经节细胞”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e01620d173a9",
+      "target": "node_5c70f7a3991d",
+      "relation_type": "contains",
+      "description": "“第十章 神经系统的功能”中的核心主题“受体”包含或统摄“神经元”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_e01620d173a9",
+      "target": "node_845123e68cc9",
+      "relation_type": "contains",
+      "description": "“第十章 神经系统的功能”中的核心主题“受体”包含或统摄“基底神经节”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_e01620d173a9",
+      "target": "node_093fae6c7d6f",
+      "relation_type": "contains",
+      "description": "“第十章 神经系统的功能”中的核心主题“受体”包含或统摄“神经递质”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_e01620d173a9",
+      "target": "node_984c78a79ab1",
+      "relation_type": "contains",
+      "description": "“第十章 神经系统的功能”中的核心主题“受体”包含或统摄“反射”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_e01620d173a9",
+      "target": "node_23891879a1cf",
+      "relation_type": "contains",
+      "description": "“第十章 神经系统的功能”中的核心主题“受体”包含或统摄“神经纤维”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_e01620d173a9",
+      "target": "node_e3ccb638021c",
+      "relation_type": "contains",
+      "description": "“第十章 神经系统的功能”中的核心主题“受体”包含或统摄“神经系统”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_e01620d173a9",
+      "target": "node_a6346ff9834f",
+      "relation_type": "contains",
+      "description": "“第十章 神经系统的功能”中的核心主题“受体”包含或统摄“突触后电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5c70f7a3991d",
+      "target": "node_845123e68cc9",
+      "relation_type": "parallel",
+      "description": "“神经元”与“基底神经节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_5c70f7a3991d",
+      "target": "node_093fae6c7d6f",
+      "relation_type": "parallel",
+      "description": "“神经元”与“神经递质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_5c70f7a3991d",
+      "target": "node_23891879a1cf",
+      "relation_type": "parallel",
+      "description": "“神经元”与“神经纤维”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_5c70f7a3991d",
+      "target": "node_e3ccb638021c",
+      "relation_type": "parallel",
+      "description": "“神经元”与“神经系统”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_845123e68cc9",
+      "target": "node_093fae6c7d6f",
+      "relation_type": "parallel",
+      "description": "“基底神经节”与“神经递质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_845123e68cc9",
+      "target": "node_23891879a1cf",
+      "relation_type": "parallel",
+      "description": "“基底神经节”与“神经纤维”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_845123e68cc9",
+      "target": "node_e3ccb638021c",
+      "relation_type": "parallel",
+      "description": "“基底神经节”与“神经系统”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_093fae6c7d6f",
+      "target": "node_23891879a1cf",
+      "relation_type": "parallel",
+      "description": "“神经递质”与“神经纤维”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_093fae6c7d6f",
+      "target": "node_e3ccb638021c",
+      "relation_type": "parallel",
+      "description": "“神经递质”与“神经系统”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_23891879a1cf",
+      "target": "node_e3ccb638021c",
+      "relation_type": "parallel",
+      "description": "“神经纤维”与“神经系统”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_84cc7b2ee420",
+      "target": "node_e01620d173a9",
+      "relation_type": "applies_to",
+      "description": "“体感诱发电位”可用于解释“受体”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_5f117aabe2df",
+      "target": "node_21bdb928ae57",
+      "relation_type": "contains",
+      "description": "“第十一章 内分泌”中的核心主题“内分泌”包含或统摄“激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f117aabe2df",
+      "target": "node_38378245be45",
+      "relation_type": "contains",
+      "description": "“第十一章 内分泌”中的核心主题“内分泌”包含或统摄“受体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f117aabe2df",
+      "target": "node_c36aec9c1ac3",
+      "relation_type": "contains",
+      "description": "“第十一章 内分泌”中的核心主题“内分泌”包含或统摄“胰高血糖素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f117aabe2df",
+      "target": "node_3b4d953b98d8",
+      "relation_type": "contains",
+      "description": "“第十一章 内分泌”中的核心主题“内分泌”包含或统摄“分泌调节”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f117aabe2df",
+      "target": "node_97d5229f6c3d",
+      "relation_type": "contains",
+      "description": "“第十一章 内分泌”中的核心主题“内分泌”包含或统摄“神经调节”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f117aabe2df",
+      "target": "node_557d470fb4ab",
+      "relation_type": "contains",
+      "description": "“第十一章 内分泌”中的核心主题“内分泌”包含或统摄“血糖水平”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_5f117aabe2df",
+      "target": "node_f8a652de860d",
+      "relation_type": "contains",
+      "description": "“第十一章 内分泌”中的核心主题“内分泌”包含或统摄“反馈调节”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_21bdb928ae57",
+      "target": "node_c36aec9c1ac3",
+      "relation_type": "parallel",
+      "description": "“激素”与“胰高血糖素”均属于生理机制层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_38378245be45",
+      "target": "node_3b4d953b98d8",
+      "relation_type": "parallel",
+      "description": "“受体”与“分泌调节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_38378245be45",
+      "target": "node_97d5229f6c3d",
+      "relation_type": "parallel",
+      "description": "“受体”与“神经调节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_38378245be45",
+      "target": "node_557d470fb4ab",
+      "relation_type": "parallel",
+      "description": "“受体”与“血糖水平”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_3b4d953b98d8",
+      "target": "node_97d5229f6c3d",
+      "relation_type": "parallel",
+      "description": "“分泌调节”与“神经调节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_3b4d953b98d8",
+      "target": "node_557d470fb4ab",
+      "relation_type": "parallel",
+      "description": "“分泌调节”与“血糖水平”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_97d5229f6c3d",
+      "target": "node_557d470fb4ab",
+      "relation_type": "parallel",
+      "description": "“神经调节”与“血糖水平”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_97aa3751a0f9",
+      "target": "node_4f416d9fab0f",
+      "relation_type": "contains",
+      "description": "“第十二章 生殖”中的核心主题“孕激素”包含或统摄“雌激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_97aa3751a0f9",
+      "target": "node_de6d39a93221",
+      "relation_type": "contains",
+      "description": "“第十二章 生殖”中的核心主题“孕激素”包含或统摄“受体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_97aa3751a0f9",
+      "target": "node_7dcd122ea521",
+      "relation_type": "contains",
+      "description": "“第十二章 生殖”中的核心主题“孕激素”包含或统摄“雄激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_97aa3751a0f9",
+      "target": "node_20e75a57d963",
+      "relation_type": "contains",
+      "description": "“第十二章 生殖”中的核心主题“孕激素”包含或统摄“神经元受神经递质”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_97aa3751a0f9",
+      "target": "node_58e1921018f8",
+      "relation_type": "contains",
+      "description": "“第十二章 生殖”中的核心主题“孕激素”包含或统摄“绒毛膜促性腺激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_97aa3751a0f9",
+      "target": "node_d241d380d9d8",
+      "relation_type": "contains",
+      "description": "“第十二章 生殖”中的核心主题“孕激素”包含或统摄“神经元分泌”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_97aa3751a0f9",
+      "target": "node_7ca356fb7a82",
+      "relation_type": "contains",
+      "description": "“第十二章 生殖”中的核心主题“孕激素”包含或统摄“传出神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_4f416d9fab0f",
+      "target": "node_de6d39a93221",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4f416d9fab0f",
+      "target": "node_7dcd122ea521",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“雄激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4f416d9fab0f",
+      "target": "node_20e75a57d963",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“神经元受神经递质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4f416d9fab0f",
+      "target": "node_58e1921018f8",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“绒毛膜促性腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4f416d9fab0f",
+      "target": "node_d241d380d9d8",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“神经元分泌”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_de6d39a93221",
+      "target": "node_7dcd122ea521",
+      "relation_type": "parallel",
+      "description": "“受体”与“雄激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_de6d39a93221",
+      "target": "node_20e75a57d963",
+      "relation_type": "parallel",
+      "description": "“受体”与“神经元受神经递质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_de6d39a93221",
+      "target": "node_58e1921018f8",
+      "relation_type": "parallel",
+      "description": "“受体”与“绒毛膜促性腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_de6d39a93221",
+      "target": "node_d241d380d9d8",
+      "relation_type": "parallel",
+      "description": "“受体”与“神经元分泌”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7dcd122ea521",
+      "target": "node_20e75a57d963",
+      "relation_type": "parallel",
+      "description": "“雄激素”与“神经元受神经递质”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7dcd122ea521",
+      "target": "node_58e1921018f8",
+      "relation_type": "parallel",
+      "description": "“雄激素”与“绒毛膜促性腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7dcd122ea521",
+      "target": "node_d241d380d9d8",
+      "relation_type": "parallel",
+      "description": "“雄激素”与“神经元分泌”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_20e75a57d963",
+      "target": "node_58e1921018f8",
+      "relation_type": "parallel",
+      "description": "“神经元受神经递质”与“绒毛膜促性腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_20e75a57d963",
+      "target": "node_d241d380d9d8",
+      "relation_type": "parallel",
+      "description": "“神经元受神经递质”与“神经元分泌”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_58e1921018f8",
+      "target": "node_d241d380d9d8",
+      "relation_type": "parallel",
+      "description": "“绒毛膜促性腺激素”与“神经元分泌”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b5e47a53c1f1",
+      "target": "node_97aa3751a0f9",
+      "relation_type": "applies_to",
+      "description": "“激素分泌”可用于解释“孕激素”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_b8b335950773",
+      "target": "node_7cc12004b3f7",
+      "relation_type": "contains",
+      "description": "“第十三章 生长发育和衰老”中的核心主题“生长发育”包含或统摄“衰老”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_b8b335950773",
+      "target": "node_873d3db03c43",
+      "relation_type": "contains",
+      "description": "“第十三章 生长发育和衰老”中的核心主题“生长发育”包含或统摄“雌激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_b8b335950773",
+      "target": "node_f561eba0e0ca",
+      "relation_type": "contains",
+      "description": "“第十三章 生长发育和衰老”中的核心主题“生长发育”包含或统摄“性激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_b8b335950773",
+      "target": "node_f301904fb480",
+      "relation_type": "contains",
+      "description": "“第十三章 生长发育和衰老”中的核心主题“生长发育”包含或统摄“受体”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_b8b335950773",
+      "target": "node_c0c97528729d",
+      "relation_type": "contains",
+      "description": "“第十三章 生长发育和衰老”中的核心主题“生长发育”包含或统摄“甲状腺激素”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_b8b335950773",
+      "target": "node_f2a70605fbe7",
+      "relation_type": "contains",
+      "description": "“第十三章 生长发育和衰老”中的核心主题“生长发育”包含或统摄“平衡电位”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_b8b335950773",
+      "target": "node_9f05b29cdbb5",
+      "relation_type": "contains",
+      "description": "“第十三章 生长发育和衰老”中的核心主题“生长发育”包含或统摄“循环”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_7cc12004b3f7",
+      "target": "node_873d3db03c43",
+      "relation_type": "parallel",
+      "description": "“衰老”与“雌激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7cc12004b3f7",
+      "target": "node_f561eba0e0ca",
+      "relation_type": "parallel",
+      "description": "“衰老”与“性激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7cc12004b3f7",
+      "target": "node_f301904fb480",
+      "relation_type": "parallel",
+      "description": "“衰老”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7cc12004b3f7",
+      "target": "node_c0c97528729d",
+      "relation_type": "parallel",
+      "description": "“衰老”与“甲状腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7cc12004b3f7",
+      "target": "node_f2a70605fbe7",
+      "relation_type": "parallel",
+      "description": "“衰老”与“平衡电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_873d3db03c43",
+      "target": "node_f561eba0e0ca",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“性激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_873d3db03c43",
+      "target": "node_f301904fb480",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_873d3db03c43",
+      "target": "node_c0c97528729d",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“甲状腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_873d3db03c43",
+      "target": "node_f2a70605fbe7",
+      "relation_type": "parallel",
+      "description": "“雌激素”与“平衡电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f561eba0e0ca",
+      "target": "node_f301904fb480",
+      "relation_type": "parallel",
+      "description": "“性激素”与“受体”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f561eba0e0ca",
+      "target": "node_c0c97528729d",
+      "relation_type": "parallel",
+      "description": "“性激素”与“甲状腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f561eba0e0ca",
+      "target": "node_f2a70605fbe7",
+      "relation_type": "parallel",
+      "description": "“性激素”与“平衡电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f301904fb480",
+      "target": "node_c0c97528729d",
+      "relation_type": "parallel",
+      "description": "“受体”与“甲状腺激素”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f301904fb480",
+      "target": "node_f2a70605fbe7",
+      "relation_type": "parallel",
+      "description": "“受体”与“平衡电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c0c97528729d",
+      "target": "node_f2a70605fbe7",
+      "relation_type": "parallel",
+      "description": "“甲状腺激素”与“平衡电位”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c832e92b7000",
+      "target": "node_40e2b989631a",
+      "relation_type": "prerequisite",
+      "description": "学习“神经调节”通常需要先理解“体液调节”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_40e2b989631a",
+      "target": "node_1ae3142266a1",
+      "relation_type": "prerequisite",
+      "description": "学习“新陈代谢”通常需要先理解“神经调节”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_1ae3142266a1",
+      "target": "node_97b5741be5cf",
+      "relation_type": "prerequisite",
+      "description": "学习“反射”通常需要先理解“新陈代谢”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_40c9f8a99e9a",
+      "target": "node_2a8fea98aa90",
+      "relation_type": "prerequisite",
+      "description": "学习“电位”通常需要先理解“受体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_2a8fea98aa90",
+      "target": "node_c50d9a306852",
+      "relation_type": "prerequisite",
+      "description": "学习“继发性主动转运”通常需要先理解“电位”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_c50d9a306852",
+      "target": "node_d25ea898e05d",
+      "relation_type": "prerequisite",
+      "description": "学习“骨骼肌”通常需要先理解“继发性主动转运”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_8e30ccf94771",
+      "target": "node_4ef652745c56",
+      "relation_type": "prerequisite",
+      "description": "学习“抗体”通常需要先理解“抗原”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_4ef652745c56",
+      "target": "node_ee60d01e9f80",
+      "relation_type": "prerequisite",
+      "description": "学习“凝血酶”通常需要先理解“抗体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_ee60d01e9f80",
+      "target": "node_b97dbfa851bb",
+      "relation_type": "prerequisite",
+      "description": "学习“免疫”通常需要先理解“凝血酶”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_dc516e24a09f",
+      "target": "node_55f70df8cd36",
+      "relation_type": "prerequisite",
+      "description": "学习“受体”通常需要先理解“血液循环”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_55f70df8cd36",
+      "target": "node_c8b3657934e0",
+      "relation_type": "prerequisite",
+      "description": "学习“动脉血压”通常需要先理解“受体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_c8b3657934e0",
+      "target": "node_ee41404f5a77",
+      "relation_type": "prerequisite",
+      "description": "学习“心肌细胞动作电位”通常需要先理解“动脉血压”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_44ad10e20d22",
+      "target": "node_4c488ff30385",
+      "relation_type": "prerequisite",
+      "description": "学习“动脉血”通常需要先理解“肺通气量增加”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_4c488ff30385",
+      "target": "node_938ed3852f63",
+      "relation_type": "prerequisite",
+      "description": "学习“肺通气阻力增大”通常需要先理解“动脉血”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_938ed3852f63",
+      "target": "node_c2f7c498c101",
+      "relation_type": "prerequisite",
+      "description": "学习“反射效应”通常需要先理解“肺通气阻力增大”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_2db6d8cd047f",
+      "target": "node_4bd45d1f83f6",
+      "relation_type": "prerequisite",
+      "description": "学习“迷走神经”通常需要先理解“消化和吸收”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_4bd45d1f83f6",
+      "target": "node_263f2d14113e",
+      "relation_type": "prerequisite",
+      "description": "学习“受体”通常需要先理解“迷走神经”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_263f2d14113e",
+      "target": "node_6b1a31c1424e",
+      "relation_type": "prerequisite",
+      "description": "学习“反射的传出途径”通常需要先理解“受体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_bd10131cdd76",
+      "target": "node_72ec1a1758ae",
+      "relation_type": "prerequisite",
+      "description": "学习“行为性体温调节”通常需要先理解“能量代谢”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_72ec1a1758ae",
+      "target": "node_b3fbcfcd5d4a",
+      "relation_type": "prerequisite",
+      "description": "学习“甲状腺激素”通常需要先理解“行为性体温调节”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_b3fbcfcd5d4a",
+      "target": "node_2589f98e7353",
+      "relation_type": "prerequisite",
+      "description": "学习“基础体温”通常需要先理解“甲状腺激素”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_1408cecc653d",
+      "target": "node_bdf70df70882",
+      "relation_type": "prerequisite",
+      "description": "学习“抗利尿激素”通常需要先理解“重吸收”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_bdf70df70882",
+      "target": "node_f0ee7d369d42",
+      "relation_type": "prerequisite",
+      "description": "学习“肾小球滤过”通常需要先理解“抗利尿激素”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_f0ee7d369d42",
+      "target": "node_2971d65ce882",
+      "relation_type": "prerequisite",
+      "description": "学习“有效滤过压”通常需要先理解“肾小球滤过”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_010f43078c5a",
+      "target": "node_38ae4c610b05",
+      "relation_type": "prerequisite",
+      "description": "学习“蛋白耦联受体”通常需要先理解“神经元”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_38ae4c610b05",
+      "target": "node_32e0ba7e71ce",
+      "relation_type": "prerequisite",
+      "description": "学习“感受器电位”通常需要先理解“蛋白耦联受体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_32e0ba7e71ce",
+      "target": "node_8d29bbd73a55",
+      "relation_type": "prerequisite",
+      "description": "学习“听神经动作电位”通常需要先理解“感受器电位”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_e01620d173a9",
+      "target": "node_5c70f7a3991d",
+      "relation_type": "prerequisite",
+      "description": "学习“神经元”通常需要先理解“受体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_5c70f7a3991d",
+      "target": "node_845123e68cc9",
+      "relation_type": "prerequisite",
+      "description": "学习“基底神经节”通常需要先理解“神经元”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_845123e68cc9",
+      "target": "node_093fae6c7d6f",
+      "relation_type": "prerequisite",
+      "description": "学习“神经递质”通常需要先理解“基底神经节”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_5f117aabe2df",
+      "target": "node_21bdb928ae57",
+      "relation_type": "prerequisite",
+      "description": "学习“激素”通常需要先理解“内分泌”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_21bdb928ae57",
+      "target": "node_38378245be45",
+      "relation_type": "prerequisite",
+      "description": "学习“受体”通常需要先理解“激素”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_38378245be45",
+      "target": "node_c36aec9c1ac3",
+      "relation_type": "prerequisite",
+      "description": "学习“胰高血糖素”通常需要先理解“受体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_97aa3751a0f9",
+      "target": "node_4f416d9fab0f",
+      "relation_type": "prerequisite",
+      "description": "学习“雌激素”通常需要先理解“孕激素”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_4f416d9fab0f",
+      "target": "node_de6d39a93221",
+      "relation_type": "prerequisite",
+      "description": "学习“受体”通常需要先理解“雌激素”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_de6d39a93221",
+      "target": "node_7dcd122ea521",
+      "relation_type": "prerequisite",
+      "description": "学习“雄激素”通常需要先理解“受体”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_b8b335950773",
+      "target": "node_7cc12004b3f7",
+      "relation_type": "prerequisite",
+      "description": "学习“衰老”通常需要先理解“生长发育”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_7cc12004b3f7",
+      "target": "node_873d3db03c43",
+      "relation_type": "prerequisite",
+      "description": "学习“雌激素”通常需要先理解“衰老”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_873d3db03c43",
+      "target": "node_f561eba0e0ca",
+      "relation_type": "prerequisite",
+      "description": "学习“性激素”通常需要先理解“雌激素”。",
+      "weight": 0.65
+    }
+  ],
+  "created_at": "2026-05-17T11:51:50.775139"
+}

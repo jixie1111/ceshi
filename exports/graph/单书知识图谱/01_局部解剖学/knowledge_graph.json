@@ -1,0 +1,3333 @@
+{
+  "textbook_id": "book_aafee265ba12",
+  "nodes": [
+    {
+      "id": "node_8da8270fe585",
+      "name": "神经",
+      "definition": "深筋膜还可包绕血管神经束形 成血管神经鞘， 或包被某些器官形成筋膜鞘 囊 或有骨参与包裹骨骼肌和血管、 神经称为骨筋膜鞘。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_a9fda349d9a0",
+      "name": "深筋膜",
+      "definition": "绪图 1 小腿横断面显示结构配布规律 三 深筋膜 深筋膜deep fascia 又称固有筋膜， 是位于浅筋膜深面并包裹着肌的纤维组织膜。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_35fd960ccb40",
+      "name": "血管",
+      "definition": "深筋膜还可包绕血管神经束形 成血管神经鞘， 或包被某些器官形成筋膜鞘 囊 或有骨参与包裹骨骼肌和血管、 神经称为骨筋膜鞘。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_934d4921d489",
+      "name": "淋巴管",
+      "definition": "实质性器官的血管、 神经、 淋巴管及该器官的导管一般集中进出脏器， 进出处常有一凹陷， 称为 该脏器的 “门” 三、 解剖器械的准备和使用 一 解剖器械的准备 “工欲善其事， 必先利其器”",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_cacd3d0a02e7",
+      "name": "浅静脉",
+      "definition": "二 浅筋膜解剖法 解剖浅筋膜的目的， 主要是寻找观察 浅筋膜中的皮神经、 浅静脉、 浅动脉和浅 淋巴结。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_9699c159be1e",
+      "name": "淋巴结",
+      "definition": "二 浅筋膜解剖法 解剖浅筋膜的目的， 主要是寻找观察 浅筋膜中的皮神经、 浅静脉、 浅动脉和浅 淋巴结。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_e33e336b996d",
+      "name": "浅筋膜",
+      "definition": "绪图 1 小腿横断面显示结构配布规律 三 深筋膜 深筋膜deep fascia 又称固有筋膜， 是位于浅筋膜深面并包裹着肌的纤维组织膜。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_5fffbeb9324a",
+      "name": "动脉",
+      "definition": "五 血管 包括动脉artery 和静脉vein， 二者常与神经nerve 伴行。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_5c53fed7c1ea",
+      "name": "深静脉常",
+      "definition": "深静脉常与动脉伴行， 与中、 小型动脉伴行的静脉常为两条， 位于动脉的两侧。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_55743a23254d",
+      "name": "关节囊",
+      "definition": "在解剖操作过程中， 应注意各处深筋膜的厚薄、 纤维走向及与肌的关 系， 还要注意其形成的结构， 如肌间隔、 支持带、 血管神经鞘等 绪图 四 肌 肌muscle 指骨骼肌 绝大多数起止于骨骼， 部分肌可附着于筋膜、 关节囊、 韧带等处， 少数肌附 着于皮肤、 黏膜或构成脏器壁 脏器横纹肌",
+      "category": "生理机制",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_07f40f464afe",
+      "name": "女性乳房",
+      "definition": "女性乳房是胸前区浅筋膜中的重要结构， 既可原位解剖， 也可整体取下， 离体解剖。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_cd526dfc1ad6",
+      "name": "深静脉相交通",
+      "definition": "一般不与动脉伴行， 行程中多相互吻合， 并常 与深静脉相交通；",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_969cae86599d",
+      "name": "背阔肌的筋膜",
+      "definition": "最易剥离的深筋膜为肱二头 肌筋膜， 最难剥离的是背阔肌的筋膜。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_4f8cb11a148e",
+      "name": "积液或肿瘤",
+      "definition": "绪图 8 血管、 神经解剖法 六 浆膜腔探查法 人体内有胸膜腔、 心包腔和腹膜腔等多个浆膜腔， 形态各异、 大小不同， 易发生感染、 积液或肿瘤 细胞转移扩散。",
+      "category": "核心概念",
+      "chapter": "绪论",
+      "page": 20,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 绪论, 第 20 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_f21889a35341",
+      "name": "神经",
+      "definition": "3. 神经 面部的感觉神经为三叉神经， 面肌的运动神经是面神经的分支。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_9c6570a7da95",
+      "name": "静脉",
+      "definition": "面静脉与颅内的海绵窦借多条途径相交通， 因此面部感染有向颅内扩散的可能， 尤其是口裂以 上， 两侧口角至鼻根的三角形区域， 因该处面静脉缺乏静脉瓣， 感染向颅内扩散的可能性更大， 被称为 “危险三角区”",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_25d8a34101cc",
+      "name": "枕动脉",
+      "definition": "枕动脉是颈外动脉的分支， 从颈部向后走行， 经颞骨乳 突的枕动脉沟， 斜穿枕部一些肌肉而达枕部皮下。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_2b95a929cca2",
+      "name": "基底动脉环",
+      "definition": "（5） 基底动脉环： 又称Willis 环， 是颅底最大的动脉吻合环， 连合颈内动脉系和椎 基底动脉系 图 1 22） 位于蝶鞍上方脚间池深部的蛛网膜下隙内， 环绕视交叉、 漏斗以及脚间窝的其他结构。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_fa2f67a65dd8",
+      "name": "颈外动脉",
+      "definition": "这些肌肉与血管、 神经 包括颈内动、 静脉， 舌咽、 迷走、 副及舌下神经 共同形成 “腮腺床” 紧贴 腮腺的深面， 并借茎突与位于其浅面的颈外动脉分开 图 1 图 1 （2） 腮腺咬肌筋膜： 为颈深筋膜浅层向上的延续， 在腮腺后缘分为深、 浅两层， 包绕腮腺形成腮腺 鞘， 两层在腮腺前缘处融合， 覆盖于咬肌表面， 称为咬肌筋膜。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_c5f5e5e717b1",
+      "name": "上颌动脉",
+      "definition": "上颌动脉行经下颌颈内侧 入颞下窝；",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_a5e3f79a9335",
+      "name": "颈内动脉",
+      "definition": "位于颅前窝脑的动脉主要来自大脑前动脉， 它是颈内动脉的两个终末支之一， 在视神经前上方走 行， 到达大脑纵裂， 在此通过较短的横行的前交通动脉 长4 8mm） 与对侧大脑前动脉吻合， 并分出皮 质支和中央支， 供应额叶及其附近区域。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_a0b9059c0115",
+      "name": "浅筋膜",
+      "definition": "浅筋膜内的血管和神经可分为前、 后、 外3 组 图 1 17） 前组： 又包括内、 外侧两组。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_78b8a09e094b",
+      "name": "基底动脉系",
+      "definition": "（5） 基底动脉环： 又称Willis 环， 是颅底最大的动脉吻合环， 连合颈内动脉系和椎 基底动脉系 图 1 22） 位于蝶鞍上方脚间池深部的蛛网膜下隙内， 环绕视交叉、 漏斗以及脚间窝的其他结构。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_a07c1b0601e2",
+      "name": "腮腺淋巴结",
+      "definition": "（4） 腮腺淋巴结parotid lymph node： 位于腮腺表面和腺实质内。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_0fc819763a30",
+      "name": "外侧韧带",
+      "definition": "（5） 修洁颞下颌关节的关节囊： 观察颞下颌韧带 即外侧韧带 保留颞浅血管和耳颞神经， 然后 用解剖刀除去颞下颌韧带， 观察颞下颌关节囊， 下部由连于下颌髁突与关节盘的紧张纤维包绕， 上部 由连于关节盘与颞骨的松弛纤维包绕。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_2b997c65aa64",
+      "name": "淋巴引流",
+      "definition": "三 血管、 淋巴引流和神经 1. 血管 分布于面部浅层的主要动脉为面动脉， 有同名静脉伴行 图 1 （1） 面动脉facial artery： 于颈动脉三角内起自颈外动脉， 穿经下颌下三角， 在咬肌止点前缘处出 现于面部。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_171c481a2f9b",
+      "name": "右椎动脉",
+      "definition": "窝底的中央有枕骨大孔， 为颅腔与椎管相接处， 孔的长径约为3.6cm， 宽约3cm， 延髓经此孔与脊髓相连， 并有左、 右椎动脉和副神经的脊髓根通过。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_31535ea64629",
+      "name": "垂体肿瘤",
+      "definition": "垂体肿瘤可突入第三 脑室， 发生脑脊液循环障碍， 引起颅内压增高。",
+      "category": "核心概念",
+      "chapter": "第一章 头部",
+      "page": 28,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第一章 头部, 第 28 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_594f0521c4b5",
+      "name": "动脉",
+      "definition": "沿舌骨体向两 侧可扪及舌骨大角， 是寻找舌动脉的体表标志。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_dfdbd6a55f03",
+      "name": "神经",
+      "definition": "在迷走神经上端的下神经节处发出喉上神经， 在颈动脉三角还发出颈心支， 沿颈总动脉表面下降， 入 胸腔参与组成心丛 图 2 10） （4） 二腹肌后腹posterior belly of digastric： 是颈动脉三角与下颌下三角的分 界标志， 也是颈部及颌面部手术的主要标 志。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_574fbd79925a",
+      "name": "静脉",
+      "definition": "下界是与胸部 及上肢的分界， 为胸骨颈静脉切迹、 胸锁关节、 锁骨上缘和肩峰至第7 颈椎棘突的连线。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_e0141cdc68e7",
+      "name": "筋膜",
+      "definition": "在颈前外侧部浅筋膜内， 有菲薄的皮肌， 称为颈阔肌 platysma。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_10ad1e0b8191",
+      "name": "淋巴结",
+      "definition": "（5） 颈前深淋巴结deep anterior cervical lymph node： 分布于喉、 甲状腺和气管颈部的前方及两侧， 包括喉前淋巴结、 甲状腺淋巴结、 气管前淋巴结和气管旁淋巴结， 收集甲状腺、 喉、 气管颈部、 食管颈部 等处淋巴， 其输出管注入颈外侧上、 下深淋巴结 见图 2 第四节 | 胸锁乳突肌区和颈根部 一、 胸锁乳突肌区 一 境界 胸锁乳突肌区sternocleidomastoid region 是指该肌",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_7c3a978bba4e",
+      "name": "喉部严重水肿",
+      "definition": "主诉： 喉部严重水肿、 呼吸困难2 小时。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_e76e487df4db",
+      "name": "韧带",
+      "definition": "向上附于头颈交界线， 向下附于颈、 胸和上肢交界线， 向前 在颈前正中线处左、 右相延续， 向两侧包绕斜方肌和胸锁乳突肌并形成两肌的鞘， 向后附于项韧带和 第7 颈椎棘突， 形成完整的封套结构。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_14bfd3a72945",
+      "name": "甲状软骨上缘",
+      "definition": "甲状软骨上缘 是颈外动脉和颈总动脉的分界线。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_512fc10fd492",
+      "name": "肿瘤切除术",
+      "definition": "现病史： 患者1 个月前行右侧颈部恶性 肿瘤切除术， 同时行右侧颈部枕三角内淋巴结清扫术。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_d32faf556b4e",
+      "name": "右淋巴导管",
+      "definition": "3. 胸导管与右淋巴导管 胸导管thoracic duct 沿食管左侧出胸腔上口至颈部， 平第7 颈椎高度， 形成胸导管弓arch of thoracic duct。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_305aa0e4a4d0",
+      "name": "咽淋巴环",
+      "definition": "咽后上方的咽扁桃体， 两侧的咽鼓管扁桃体、 腭扁桃体和前下 方的舌扁桃体， 共同构成咽淋巴环， 对消化道和呼吸道具有防御和保护作用。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_b6b030f6d632",
+      "name": "胸锁关节",
+      "definition": "下界是与胸部 及上肢的分界， 为胸骨颈静脉切迹、 胸锁关节、 锁骨上缘和肩峰至第7 颈椎棘突的连线。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_4a4a55e0e98b",
+      "name": "颈阔肌",
+      "definition": "在颈前外侧部浅筋膜内， 有菲薄的皮肌， 称为颈阔肌 platysma。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_6c162ab33cbd",
+      "name": "患侧面部潮红",
+      "definition": "如向后外方压迫颈交感干时， 可出 现Horner 综合征， 即患侧面部潮红、 无汗、 瞳孔缩小、 眼裂变窄、 上睑下垂及眼球内陷等。",
+      "category": "核心概念",
+      "chapter": "第二章 颈部",
+      "page": 57,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第二章 颈部, 第 57 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_8ff2a4f81d97",
+      "name": "淋巴引流",
+      "definition": "三、 血管、 淋巴引流和神经 肺的血管包括肺血管和支气管血管两个系统： 前者为功能性血管， 即肺循环的肺动脉、 肺静脉， 参 与气体交换；",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_cf5916bd81f5",
+      "name": "静脉",
+      "definition": "肺段之间含有少量结缔组织 肺胸 膜的延续 和段间静脉， 是肺段切除的标志 图 3 13）",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_4c52620a06e9",
+      "name": "动脉韧带",
+      "definition": "动脉韧带是胚胎时期动脉导管的遗迹， 若在出生后1 年内尚未闭锁， 则为先天性动脉导管未闭。",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_6651667c4f36",
+      "name": "神经",
+      "definition": "二 食管裂孔 食管裂孔esophageal hiatus 平第10 胸椎， 在正中线左侧2 3cm 处， 有食管、 迷走神经前干、 迷走 神经后干、 胃左血管的食管支和来自肝后部的淋巴管通过， 也是膈疝的好发部位之一。",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_edd3aebe9f07",
+      "name": "淋巴结",
+      "definition": "引流方向主要有： 乳房外侧部和中央部的淋巴管注入胸肌淋巴结， 这是乳房淋巴回流的 主要途径；",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_dee3728a87e2",
+      "name": "胸主动脉",
+      "definition": "三 支气管动脉 支气管动脉bronchial artery 又称为 支气管支， 有1 3 支， 起自胸主动脉或右肋间后动脉， 与支气管的分支伴行入肺， 分布于各级支气管、 肺动脉、 肺静脉、 肺淋巴结、 肺实质和脏胸膜等。",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_92771a541c26",
+      "name": "肺动脉",
+      "definition": "三、 血管、 淋巴引流和神经 肺的血管包括肺血管和支气管血管两个系统： 前者为功能性血管， 即肺循环的肺动脉、 肺静脉， 参 与气体交换；",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_d13ac3af9332",
+      "name": "左颈总动脉",
+      "definition": "肺根上方有主动脉弓及其发出的左颈总动脉和左 锁骨下动脉。",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_c92479e1394c",
+      "name": "深筋膜",
+      "definition": "第二节 | 胸 壁 胸壁由皮肤、 浅筋膜、 深筋膜、 胸廓外肌层、 胸廓和肋间肌以及胸内筋膜等构成。",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_5fc01dd71031",
+      "name": "支气管动脉",
+      "definition": "三 支气管动脉 支气管动脉bronchial artery 又称为 支气管支， 有1 3 支， 起自胸主动脉或右肋间后动脉， 与支气管的分支伴行入肺， 分布于各级支气管、 肺动脉、 肺静脉、 肺淋巴结、 肺实质和脏胸膜等。",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_60534dd81401",
+      "name": "输出淋巴管",
+      "definition": "胸骨旁淋巴结parasternal lymph node 沿胸廓内血管排列， 引流腹前壁和乳房内侧 部的淋巴， 并收纳膈上淋巴结的输出淋巴管， 其输出淋巴管参与合成支气管纵隔干 图 3 五 胸内筋膜和胸横肌 胸内筋膜endothoracic fascia 衬托于胸廓 包括胸横肌 内面， 向上覆盖于胸膜顶上面， 称胸膜上 膜， 对胸膜顶有固定和保护作用；",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_6e5f7435d177",
+      "name": "主动脉弓",
+      "definition": "经胸骨角的横 断面与主动脉弓和升主动脉、 降主动脉的分界处、 气管杈、 左主支气管和食管交叉处以及第4 胸椎体 下缘的横断面一致。",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_89f4c8ebc651",
+      "name": "血管",
+      "definition": "胸骨旁淋巴结parasternal lymph node 沿胸廓内血管排列， 引流腹前壁和乳房内侧 部的淋巴， 并收纳膈上淋巴结的输出淋巴管， 其输出淋巴管参与合成支气管纵隔干 图 3 五 胸内筋膜和胸横肌 胸内筋膜endothoracic fascia 衬托于胸廓 包括胸横肌 内面， 向上覆盖于胸膜顶上面， 称胸膜上 膜， 对胸膜顶有固定和保护作用；",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_0a541d5fc118",
+      "name": "左锁骨下动脉",
+      "definition": "左锁骨下动脉、 脊柱和主动脉弓围成食管上三角， 内有胸导管和食管胸部上段；",
+      "category": "核心概念",
+      "chapter": "第三章 胸部",
+      "page": 82,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第三章 胸部, 第 82 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_640568c59d44",
+      "name": "静脉",
+      "definition": "2. 小网膜lesser omentum 是连于膈、 肝静脉韧带裂和肝门与胃小弯和十二指肠上部之间的双层 腹膜 图 4 15， 图 4 16）",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_35fd8083b1b0",
+      "name": "动脉",
+      "definition": "脐正中襞外侧为一对脐内侧 襞， 内有脐动脉索通过， 后者是胚胎期脐动脉闭锁后的遗迹， 又称脐动脉襞；",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_03e30e6f38d9",
+      "name": "神经",
+      "definition": "腹股沟内侧 窝和外侧窝是腹前壁的薄弱区， 腹腔内容物由此凸出可分别形成腹股沟直疝和斜疝 图 4 七 腹前外侧壁深层的血管和神经 1. 血管 腹前外侧壁深层的动脉有三组， 即下5 对肋间后动脉、 肋下动脉及腹直肌深面的腹壁 上动脉、 腹壁下动脉和旋髂深动脉 见图 4 （1） 肋间后动脉posterior intercostal artery、 肋下动脉subcostal artery： 起自胸主动脉的下5 对肋间 后动脉、 肋下动脉，",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_f8f439770cf4",
+      "name": "淋巴管",
+      "definition": "三 肾门、 肾窦和肾蒂 1. 肾门renal hilum 肾内侧缘中部凹陷处称为肾门， 有肾血管、 肾盂以及神经和淋巴管等出入。",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_60ec8d067ce0",
+      "name": "淋巴结",
+      "definition": "1. 胃脾韧带 如前述 见第三节中 “胃” 2. 脾肾韧带splenorenal ligament 是从脾门至左肾前面的双层腹膜结构， 内含有胰尾及脾血管、 淋巴结和神经丛等 图 4 51）",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_33968a0e333f",
+      "name": "子宫圆韧带",
+      "definition": "正常人的皮下环可容 纳一示指尖， 男性有精索、 女性有子宫圆韧带通过。",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_b7af8fe30917",
+      "name": "筋膜",
+      "definition": "三 腹股沟管 腹股沟管inguinal canal 是位于腹股沟韧带内侧半上方约1.5cm 处的由肌与筋膜间形成的潜在性 裂隙， 长4 5cm， 与腹股沟韧带平行。",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_08dce735fb2e",
+      "name": "淋巴引流",
+      "definition": "三 血管和淋巴引流 1. 动脉 来自腹腔干及其分支， 先沿胃大、 小弯形成两个动脉弓， 再由动脉弓发出许多小支至胃 前、 后壁 图 4 17， 图 4 18） 在胃壁内进一步分支， 吻合成网。",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_c8845c067bc2",
+      "name": "左三角韧带",
+      "definition": "（4） 左三角韧带left triangular ligament： 位于肝左叶的上面与膈之间， 变异较多， 通常含有肝纤维 附件， 后者是新生儿特有的肝残留物， 富有血管和迷走肝管等结构。",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_8fb3d9224406",
+      "name": "右三角韧带",
+      "definition": "二 韧带与膈下间隙 1. 肝的韧带 除前面已介绍的肝胃韧带和肝十二指肠韧带以外， 由腹膜形成的肝的韧带还有镰 状韧带、 冠状韧带和左、 右三角韧带 图 4 29） （1） 镰状韧带falciform ligament： 是位于膈与肝上面之间的双层腹膜结构， 大致呈矢状位， 自脐至 肝的上面， 居前正中线右侧。",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_da543a25c6a8",
+      "name": "胃脾韧带",
+      "definition": "1. 胃脾韧带 如前述 见第三节中 “胃” 2. 脾肾韧带splenorenal ligament 是从脾门至左肾前面的双层腹膜结构， 内含有胰尾及脾血管、 淋巴结和神经丛等 图 4 51）",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_87fa7e8a99e2",
+      "name": "冠状韧带",
+      "definition": "二 韧带与膈下间隙 1. 肝的韧带 除前面已介绍的肝胃韧带和肝十二指肠韧带以外， 由腹膜形成的肝的韧带还有镰 状韧带、 冠状韧带和左、 右三角韧带 图 4 29） （1） 镰状韧带falciform ligament： 是位于膈与肝上面之间的双层腹膜结构， 大致呈矢状位， 自脐至 肝的上面， 居前正中线右侧。",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_0f2dece02651",
+      "name": "血管",
+      "definition": "临床上常从腹部取皮瓣 进行整形手术， 特别是腹股沟附近的皮肤移动性小， 可供吻合的皮血管丰富， 故常在该区取皮片或皮 瓣作移植。",
+      "category": "应用场景",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_85a65ac4a822",
+      "name": "网膜孔",
+      "definition": "右界是 网膜孔omental foramen， 又称Winslow 孔 图 4 30）",
+      "category": "核心概念",
+      "chapter": "第四章 腹部",
+      "page": 111,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第四章 腹部, 第 111 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_ece400eab765",
+      "name": "淋巴引流",
+      "definition": "五、 盆部的血管、 淋巴引流和神经 一 动脉 1. 髂总动脉common iliac artery 腹主动脉在平第4 腰椎下缘的左前方分为左、 右髂总动脉。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_2a77ff91a2fc",
+      "name": "动脉",
+      "definition": "6. 卵巢悬韧带suspensory ligament of ovary 临床上称为骨盆漏斗韧带infundibulopelvic ligament， 是腹膜包绕卵巢动、 静脉等形成的皱襞， 起自骨盆上口上方髂外动脉前面， 向下达卵巢上端续于子宫 阔韧带。",
+      "category": "应用场景",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_14988a49aed2",
+      "name": "筋膜",
+      "definition": "位于骶骨前方的部分为骶前筋膜presacral fascia 又称Waldeyer 筋膜 图5 - 4） 较为致密， 是在MRI 图像上可见的结构。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_52dd4c1709a4",
+      "name": "子宫阔韧带",
+      "definition": "子 宫系膜mesometrium 是子宫阔韧带的其余部分， 内有子宫动、 静脉等。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_bd1fb4bda7a7",
+      "name": "神经",
+      "definition": "发自下腹下丛的神经和细小的直肠血管穿过直肠系膜筋膜和直肠系膜到达直肠， 被称为直 肠侧韧带lateral rectal ligament。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_8170b570b8ba",
+      "name": "淋巴结",
+      "definition": "系膜内有直肠上动脉及其分支、 直肠上静脉及其属 支， 以及沿直肠上静脉排列的淋巴管和淋巴结。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_34c6ad2595b3",
+      "name": "静脉",
+      "definition": "包裹前 列腺的部分称为前列腺鞘fascial sheath of prostate 或前列腺筋膜prostatic fascia， 鞘的前份和两侧部内 含有前列腺静脉丛等结构。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_d4c752639c81",
+      "name": "卵巢悬韧带",
+      "definition": "6. 卵巢悬韧带suspensory ligament of ovary 临床上称为骨盆漏斗韧带infundibulopelvic ligament， 是腹膜包绕卵巢动、 静脉等形成的皱襞， 起自骨盆上口上方髂外动脉前面， 向下达卵巢上端续于子宫 阔韧带。",
+      "category": "应用场景",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_04c80bcb08f1",
+      "name": "子宫主韧带",
+      "definition": "子宫主韧带是固定 子宫颈， 使其维持在坐骨棘平面以上的主要结构之一。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_025c6ee58eeb",
+      "name": "子宫圆韧带",
+      "definition": "子宫阔韧带包裹子宫圆韧带、 卵巢和输卵管， 并含有血管、 淋巴 管、 神经和大量疏松结缔组织， 称为子宫旁组织parametrium。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_7f0bf5e64d1f",
+      "name": "淋巴管",
+      "definition": "卵巢下端借卵巢固有韧带proper ligament of ovary 与子宫角相连， 其上端以卵巢悬韧带 suspensory ligament of ovary 也称为骨盆漏斗韧带 连于骨盆侧壁， 此韧带为隆起的腹膜皱襞， 内有卵 巢血管、 淋巴管和卵巢神经丛等 见图5 - 15） 八 输卵管 输卵管uterine tube 位于子宫阔韧带上缘内， 长8 12cm。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_3b47f4565f98",
+      "name": "血管",
+      "definition": "直肠系膜外被一层无血管的网眼状筋膜， 称为直肠系 膜筋膜mesorectal fascia， 外科称之为直肠固有筋膜。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_f7da3fafa9ad",
+      "name": "骶结节韧带",
+      "definition": "耻骨联合下缘、 耻骨下支、 坐骨支、 坐骨结节、 骶结节韧带和尾骨尖围成骨盆下 口inferior pelvic aperture， 是盆部的下界。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_cc6aaea2edf6",
+      "name": "有耻骨前列腺韧带",
+      "definition": "耻骨体后面， 男性有耻骨前列腺韧带puboprostatic ligament 张于耻骨体与前列 腺鞘和膀胱颈之间， 女性有耻骨膀胱韧带pubovesical ligament 张于耻骨体与膀胱颈和尿道之间。",
+      "category": "核心概念",
+      "chapter": "第五章 盆部与会阴",
+      "page": 173,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第五章 盆部与会阴, 第 173 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_bd6ef3726a49",
+      "name": "神经",
+      "definition": "骶正 中嵴外侧的隆嵴为骶外侧嵴， 是经骶后孔作骶神经丛阻滞的标志。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_d7f61193c6dc",
+      "name": "椎静脉丛",
+      "definition": "脊柱区深静脉可通过椎静脉丛， 广泛与椎管内外、 颅内以及盆部等处的深静 脉相交通。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_86361d5195ef",
+      "name": "黄韧带",
+      "definition": "3. 黄韧带ligamenta flava 是连于相邻两椎弓板之间的弹性结缔组织， 其厚度和宽度在脊柱的 不同部位有所差异： 颈段宽而薄， 胸段窄而稍厚， 腰段最厚。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_1dfccc86edc4",
+      "name": "深筋膜",
+      "definition": "第12 肋与髂嵴之间 的深筋膜增厚， 并分为前、 中、 后三层 图6 - 3） 被称为胸腰筋膜thoracolumbar fascia。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_85420bcc7582",
+      "name": "动脉",
+      "definition": "枕大神经greater occipital nerve 是第2 颈神经后支的分支， 在上项线下方、 斜方肌的起点处浅出， 伴枕动脉的分支上行， 分布 至枕部皮肤。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_9af41e92d41a",
+      "name": "浅筋膜",
+      "definition": "听诊三角的底为薄层脂肪组织、 深筋膜和第6 肋间隙， 表面覆以皮肤和浅筋膜， 是背 部听诊呼吸音最清晰的部位。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_6fe49ce5ce10",
+      "name": "椎内静脉丛",
+      "definition": "2. 脊膜腔 （1） 硬膜外隙epidural space： 是位于椎管骨膜与硬脊膜之间的窄隙， 其内填有脂肪、 椎内静脉丛、 脊神经脊膜支和淋巴管等， 并有脊神经根及其伴行血管通过， 正常时呈负压 见图6 - 12， 图6 - 13）",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_1ff27dfd0bac",
+      "name": "齿状韧带",
+      "definition": "在脊髓两侧， 软脊膜增厚并向外 突， 形成齿状韧带。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_ea7eb374594c",
+      "name": "腰静脉",
+      "definition": "腰区静脉经腰静脉汇入下腔静脉；",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_47d6bb049b0b",
+      "name": "关节",
+      "definition": "2. 椎间盘intervertebral disc 椎间盘是运动节 段的纤维软骨连结， 由中央部髓核和周围部纤维环 构成， 位于相邻两个椎体之间， 占脊柱全长的1 成 人共23 个， 可以被压缩， 缓冲外力对脊柱的震动， 并 图6 - 9 颈部钩椎关节及其毗邻 协助脊柱运动。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_3b42d29a53d6",
+      "name": "斜方肌",
+      "definition": "枕大神经greater occipital nerve 是第2 颈神经后支的分支， 在上项线下方、 斜方肌的起点处浅出， 伴枕动脉的分支上行， 分布 至枕部皮肤。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_bb9f14d4a2ac",
+      "name": "背阔肌",
+      "definition": "一 浅层肌 包括斜方肌trapezius、 背阔肌latissimus dorsi 和腹外斜肌后部。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_249af75c8e55",
+      "name": "浅层肌",
+      "definition": "胸腰筋膜前层位于腰方肌前 面， 又称腰方肌筋膜quadratus lumborum fascia， 内侧附于腰椎横突尖， 向下附于髂腰韧带和髂嵴后份， 上部增厚呈弧形， 附着于第2 腰椎横突与第12 肋之间， 称为腰肋外侧弓状韧带， 其内侧为跨越腰大肌 表面， 附着于第1 腰椎侧面与第2 腰椎横突之间的腰肋内侧弓状韧带， 此两弓状韧带在腹壁较易观察 到 图6 - 3） 三、 肌层 中层肌和深层肌。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_10219e4db2a3",
+      "name": "竖脊肌表面的筋膜",
+      "definition": "5. 解剖背筋膜深层 （1） 用镊子和刀修洁夹肌、 竖脊肌表面的筋膜。",
+      "category": "核心概念",
+      "chapter": "第六章 脊柱区",
+      "page": 206,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第六章 脊柱区, 第 206 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_785d4c44c8fb",
+      "name": "静脉",
+      "definition": "锁胸筋膜是位于锁骨下肌、 胸小肌和喙突之间的胸部深筋膜， 有头静脉 cephalic vein、 胸肩峰血管thoracoacromial vessel 和胸外侧神经lateral pectoral nerve 穿过 图7 - 4） （2） 后壁： 由背阔肌latissimus dorsi、 大圆肌teres major、 肩胛下肌subscapularis 和肩胛骨scapula 构成。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_e96e08595475",
+      "name": "神经",
+      "definition": "锁胸筋膜是位于锁骨下肌、 胸小肌和喙突之间的胸部深筋膜， 有头静脉 cephalic vein、 胸肩峰血管thoracoacromial vessel 和胸外侧神经lateral pectoral nerve 穿过 图7 - 4） （2） 后壁： 由背阔肌latissimus dorsi、 大圆肌teres major、 肩胛下肌subscapularis 和肩胛骨scapula 构成。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_7f29dff9726b",
+      "name": "深筋膜",
+      "definition": "锁胸筋膜是位于锁骨下肌、 胸小肌和喙突之间的胸部深筋膜， 有头静脉 cephalic vein、 胸肩峰血管thoracoacromial vessel 和胸外侧神经lateral pectoral nerve 穿过 图7 - 4） （2） 后壁： 由背阔肌latissimus dorsi、 大圆肌teres major、 肩胛下肌subscapularis 和肩胛骨scapula 构成。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_318280abc3ce",
+      "name": "动脉",
+      "definition": "二 腋窝的内容 主要有臂丛的锁骨下部及其分支、 腋动脉及其分支、 腋静脉及其属支、 腋淋巴结和疏松结缔组织 等 图7 - 6） 扫描图片 体验AR 1. 腋动脉axillary artery 在第1 肋外侧缘续接锁骨下动脉， 至大圆肌下缘移行于肱动脉， 以胸小 肌为标志分为3 段， 共发出6 个分支， 包括第1 段1 个分支；",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_d7a9de608769",
+      "name": "锁胸筋膜",
+      "definition": "锁胸筋膜是位于锁骨下肌、 胸小肌和喙突之间的胸部深筋膜， 有头静脉 cephalic vein、 胸肩峰血管thoracoacromial vessel 和胸外侧神经lateral pectoral nerve 穿过 图7 - 4） （2） 后壁： 由背阔肌latissimus dorsi、 大圆肌teres major、 肩胛下肌subscapularis 和肩胛骨scapula 构成。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_b8bd325eba00",
+      "name": "淋巴管",
+      "definition": "（4） 中央淋巴结central lymph node： 是最大一群腋淋巴结， 位于腋窝内脂肪组织中， 收纳上述3 群 淋巴结的输出淋巴管。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_397ce84daa7e",
+      "name": "肩关节",
+      "definition": "2. 肩袖rotator cuff 又称肌腱袖， 是由肩袖肌群， 即冈上肌、 冈下肌、 小圆肌和肩胛下肌的肌腱联 合形成的腱膜结构， 包绕肩关节的前、 上、 后方， 并与肩关节囊愈着 图7 - 10）",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_362ce833bf1c",
+      "name": "浅筋膜",
+      "definition": "肱骨外科颈骨折时， 可能损伤腋神经致三角肌瘫痪， 肩不能外展， 肌萎缩出现 “方肩” 二 肩胛区 肩胛区scapular region 是指肩胛骨后面的区域 图7 - 9） 1. 浅层结构 皮肤较厚， 浅筋膜致密， 内有颈丛的锁骨上神经分布。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_68f9581ec5e3",
+      "name": "外侧骨筋膜鞘",
+      "definition": "这样， 在手掌形成了3 个骨筋膜鞘， 即外侧骨筋膜鞘、 中间骨筋膜鞘和内侧骨筋膜鞘。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_2d5c7ea101f5",
+      "name": "鱼际筋膜",
+      "definition": "内含大量脂肪、 指血管、 指神经和蚓 状肌腱， 是手掌、 手背及手指掌、 背侧之间的通道 图7 - 22） 鱼际筋膜thenar fascia： 被覆于鱼际肌表面， 较薄弱。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_9fd4797c5042",
+      "name": "筋膜间隙",
+      "definition": "拇收肌与骨间掌侧筋膜之间的间隙， 称拇收肌后隙posterior space of abductor pollicis 图7 - 23） 3. 筋膜间隙 位于掌中间鞘深部， 内有疏松结缔组织， 包括外侧的鱼际间隙和内侧的掌中间隙 图7 - 23， 图7 - 24）",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_b707924f90de",
+      "name": "骨间掌侧筋膜",
+      "definition": "拇收肌与骨间掌侧筋膜之间的间隙， 称拇收肌后隙posterior space of abductor pollicis 图7 - 23） 3. 筋膜间隙 位于掌中间鞘深部， 内有疏松结缔组织， 包括外侧的鱼际间隙和内侧的掌中间隙 图7 - 23， 图7 - 24）",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_262fb4e4b94f",
+      "name": "中间骨筋膜鞘",
+      "definition": "这样， 在手掌形成了3 个骨筋膜鞘， 即外侧骨筋膜鞘、 中间骨筋膜鞘和内侧骨筋膜鞘。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_355af35e4bfe",
+      "name": "骨间背侧筋膜",
+      "definition": "（2） 骨间背侧筋膜dorsal interosseous fascia： 为覆盖在第2 5 掌骨和第2 4 骨间背侧肌表面的手 背筋膜深层。",
+      "category": "核心概念",
+      "chapter": "第七章 上肢",
+      "page": 224,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第七章 上肢, 第 224 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    },
+    {
+      "id": "node_94ae011ed0a4",
+      "name": "静脉",
+      "definition": "其最长的皮神经为隐神经saphenous nerve， 在股三角内伴股动脉外侧下行入收肌管， 在收肌管下端穿大收肌腱板， 行于缝匠 肌和股薄肌之间， 在膝关节内侧穿出深筋 膜， 伴大隐静脉下行至髌骨下方、 小腿内 侧和足内侧缘的皮肤 图8 - 14） 5. 收肌管adductor canal 又称Hunter 管， 位于股中1 3 段前内侧， 缝匠肌的 深面， 大收肌和股内侧肌之间， 是一长 17cm 的断面呈三角形的管状间隙。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.95
+    },
+    {
+      "id": "node_60ad94e9e713",
+      "name": "神经",
+      "definition": "臀部皮神经包括臀上、 下皮神经和臀内侧皮神经。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.9
+    },
+    {
+      "id": "node_c8d0c8bd1258",
+      "name": "腘动脉",
+      "definition": "（3） 如果要判断腘动脉及其终末动脉是否发生损伤， 检查这些动脉搏动的位置。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.85
+    },
+    {
+      "id": "node_d11e9e700f9d",
+      "name": "深筋膜",
+      "definition": "二 深层结构 膝前区的深筋膜是阔筋膜的延续， 并与其深面的肌腱融合。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.8
+    },
+    {
+      "id": "node_7d7fcffb16d5",
+      "name": "足背动脉",
+      "definition": "8. 足背动脉 自内、 外踝经足背连线的中点至第1、 2 跖骨底之间的连线为足背动脉的投影， 并 可触及其搏动。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.75
+    },
+    {
+      "id": "node_104c1234f68a",
+      "name": "外侧动脉",
+      "definition": "另外， 在髋关节附近的盆腔侧 壁， 还有旋髂深动脉、 髂腰动脉、 骶外侧动脉、 骶正中动脉等参与该网的构成 图8 - 5）",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.7
+    },
+    {
+      "id": "node_09145148cf28",
+      "name": "胫后动脉",
+      "definition": "7. 胫后动脉 自腘窝下角与内踝至跟腱内缘之间中点的连线为胫后动脉的投影。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.65
+    },
+    {
+      "id": "node_51a671db8f67",
+      "name": "韧带",
+      "definition": "髂前上棘与耻骨结 节之间为腹股沟韧带inguinal ligament。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.6
+    },
+    {
+      "id": "node_509fa9ef715c",
+      "name": "臀筋膜损伤",
+      "definition": "臀筋膜损伤是腰腿痛的病因之一。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.55
+    },
+    {
+      "id": "node_4c4f5dfda634",
+      "name": "胫前动脉",
+      "definition": "6. 胫前动脉 腓骨头至胫骨粗隆连线的中点与内、 外踝前面连线中点之间的连线即为胫前动脉 的投影。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.5
+    },
+    {
+      "id": "node_6215d6bc690b",
+      "name": "膝中动脉",
+      "definition": "腘动脉 在腘窝的分支有膝上内侧动脉medial superior genicular artery、 膝上外侧动脉lateral superior genicular artery、 膝中动脉middle genicular artery、 膝下内侧动脉medial inferior genicular artery 和膝下外侧动脉 lateral inferior genicular artery 供应膝关节， 并参与膝关节动脉网的组",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.44999999999999996
+    },
+    {
+      "id": "node_52d22b2bf9e1",
+      "name": "淋巴结",
+      "definition": "浅筋膜中富含脂肪， 有浅动脉、 浅静脉、 浅 淋巴管、 淋巴结及皮神经分布。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.4
+    },
+    {
+      "id": "node_ca292ef49bae",
+      "name": "膝上内侧动脉",
+      "definition": "腘动脉 在腘窝的分支有膝上内侧动脉medial superior genicular artery、 膝上外侧动脉lateral superior genicular artery、 膝中动脉middle genicular artery、 膝下内侧动脉medial inferior genicular artery 和膝下外侧动脉 lateral inferior genicular artery 供应膝关节， 并参与膝关节动脉网的组",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.35
+    },
+    {
+      "id": "node_0830bb7e1086",
+      "name": "外侧骨筋膜鞘",
+      "definition": "深筋膜、 前肌间隔、 后肌间隔、 胫骨骨膜、 腓骨骨膜及骨间膜， 共同围成前骨筋膜鞘和 外侧骨筋膜鞘， 容纳相应肌群及血管和神经 图8 - 20） 1. 前骨筋膜鞘 容纳小腿前群肌、 腓深神经和胫前血管。",
+      "category": "核心概念",
+      "chapter": "第八章 下肢",
+      "page": 262,
+      "textbook_id": "book_aafee265ba12",
+      "textbook_title": "01_局部解剖学",
+      "source": "01_局部解剖学, 第八章 下肢, 第 262 页",
+      "frequency": 1,
+      "aliases": [],
+      "importance": 0.30000000000000004
+    }
+  ],
+  "edges": [
+    {
+      "source": "node_8da8270fe585",
+      "target": "node_a9fda349d9a0",
+      "relation_type": "contains",
+      "description": "“绪论”中的核心主题“神经”包含或统摄“深筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8da8270fe585",
+      "target": "node_35fd960ccb40",
+      "relation_type": "contains",
+      "description": "“绪论”中的核心主题“神经”包含或统摄“血管”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8da8270fe585",
+      "target": "node_934d4921d489",
+      "relation_type": "contains",
+      "description": "“绪论”中的核心主题“神经”包含或统摄“淋巴管”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8da8270fe585",
+      "target": "node_cacd3d0a02e7",
+      "relation_type": "contains",
+      "description": "“绪论”中的核心主题“神经”包含或统摄“浅静脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8da8270fe585",
+      "target": "node_9699c159be1e",
+      "relation_type": "contains",
+      "description": "“绪论”中的核心主题“神经”包含或统摄“淋巴结”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8da8270fe585",
+      "target": "node_e33e336b996d",
+      "relation_type": "contains",
+      "description": "“绪论”中的核心主题“神经”包含或统摄“浅筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8da8270fe585",
+      "target": "node_5fffbeb9324a",
+      "relation_type": "contains",
+      "description": "“绪论”中的核心主题“神经”包含或统摄“动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_a9fda349d9a0",
+      "target": "node_35fd960ccb40",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“血管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a9fda349d9a0",
+      "target": "node_934d4921d489",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“淋巴管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a9fda349d9a0",
+      "target": "node_cacd3d0a02e7",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“浅静脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a9fda349d9a0",
+      "target": "node_9699c159be1e",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_a9fda349d9a0",
+      "target": "node_e33e336b996d",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35fd960ccb40",
+      "target": "node_934d4921d489",
+      "relation_type": "parallel",
+      "description": "“血管”与“淋巴管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35fd960ccb40",
+      "target": "node_cacd3d0a02e7",
+      "relation_type": "parallel",
+      "description": "“血管”与“浅静脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35fd960ccb40",
+      "target": "node_9699c159be1e",
+      "relation_type": "parallel",
+      "description": "“血管”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35fd960ccb40",
+      "target": "node_e33e336b996d",
+      "relation_type": "parallel",
+      "description": "“血管”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_934d4921d489",
+      "target": "node_cacd3d0a02e7",
+      "relation_type": "parallel",
+      "description": "“淋巴管”与“浅静脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_934d4921d489",
+      "target": "node_9699c159be1e",
+      "relation_type": "parallel",
+      "description": "“淋巴管”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_934d4921d489",
+      "target": "node_e33e336b996d",
+      "relation_type": "parallel",
+      "description": "“淋巴管”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cacd3d0a02e7",
+      "target": "node_9699c159be1e",
+      "relation_type": "parallel",
+      "description": "“浅静脉”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cacd3d0a02e7",
+      "target": "node_e33e336b996d",
+      "relation_type": "parallel",
+      "description": "“浅静脉”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_9699c159be1e",
+      "target": "node_e33e336b996d",
+      "relation_type": "parallel",
+      "description": "“淋巴结”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f21889a35341",
+      "target": "node_9c6570a7da95",
+      "relation_type": "contains",
+      "description": "“第一章 头部”中的核心主题“神经”包含或统摄“静脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_f21889a35341",
+      "target": "node_25d8a34101cc",
+      "relation_type": "contains",
+      "description": "“第一章 头部”中的核心主题“神经”包含或统摄“枕动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_f21889a35341",
+      "target": "node_2b95a929cca2",
+      "relation_type": "contains",
+      "description": "“第一章 头部”中的核心主题“神经”包含或统摄“基底动脉环”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_f21889a35341",
+      "target": "node_fa2f67a65dd8",
+      "relation_type": "contains",
+      "description": "“第一章 头部”中的核心主题“神经”包含或统摄“颈外动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_f21889a35341",
+      "target": "node_c5f5e5e717b1",
+      "relation_type": "contains",
+      "description": "“第一章 头部”中的核心主题“神经”包含或统摄“上颌动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_f21889a35341",
+      "target": "node_a5e3f79a9335",
+      "relation_type": "contains",
+      "description": "“第一章 头部”中的核心主题“神经”包含或统摄“颈内动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_f21889a35341",
+      "target": "node_a0b9059c0115",
+      "relation_type": "contains",
+      "description": "“第一章 头部”中的核心主题“神经”包含或统摄“浅筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_9c6570a7da95",
+      "target": "node_25d8a34101cc",
+      "relation_type": "parallel",
+      "description": "“静脉”与“枕动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_9c6570a7da95",
+      "target": "node_2b95a929cca2",
+      "relation_type": "parallel",
+      "description": "“静脉”与“基底动脉环”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_9c6570a7da95",
+      "target": "node_fa2f67a65dd8",
+      "relation_type": "parallel",
+      "description": "“静脉”与“颈外动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_9c6570a7da95",
+      "target": "node_c5f5e5e717b1",
+      "relation_type": "parallel",
+      "description": "“静脉”与“上颌动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_9c6570a7da95",
+      "target": "node_a5e3f79a9335",
+      "relation_type": "parallel",
+      "description": "“静脉”与“颈内动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_25d8a34101cc",
+      "target": "node_2b95a929cca2",
+      "relation_type": "parallel",
+      "description": "“枕动脉”与“基底动脉环”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_25d8a34101cc",
+      "target": "node_fa2f67a65dd8",
+      "relation_type": "parallel",
+      "description": "“枕动脉”与“颈外动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_25d8a34101cc",
+      "target": "node_c5f5e5e717b1",
+      "relation_type": "parallel",
+      "description": "“枕动脉”与“上颌动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_25d8a34101cc",
+      "target": "node_a5e3f79a9335",
+      "relation_type": "parallel",
+      "description": "“枕动脉”与“颈内动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2b95a929cca2",
+      "target": "node_fa2f67a65dd8",
+      "relation_type": "parallel",
+      "description": "“基底动脉环”与“颈外动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2b95a929cca2",
+      "target": "node_c5f5e5e717b1",
+      "relation_type": "parallel",
+      "description": "“基底动脉环”与“上颌动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2b95a929cca2",
+      "target": "node_a5e3f79a9335",
+      "relation_type": "parallel",
+      "description": "“基底动脉环”与“颈内动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_fa2f67a65dd8",
+      "target": "node_c5f5e5e717b1",
+      "relation_type": "parallel",
+      "description": "“颈外动脉”与“上颌动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_fa2f67a65dd8",
+      "target": "node_a5e3f79a9335",
+      "relation_type": "parallel",
+      "description": "“颈外动脉”与“颈内动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c5f5e5e717b1",
+      "target": "node_a5e3f79a9335",
+      "relation_type": "parallel",
+      "description": "“上颌动脉”与“颈内动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_594f0521c4b5",
+      "target": "node_dfdbd6a55f03",
+      "relation_type": "contains",
+      "description": "“第二章 颈部”中的核心主题“动脉”包含或统摄“神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_594f0521c4b5",
+      "target": "node_574fbd79925a",
+      "relation_type": "contains",
+      "description": "“第二章 颈部”中的核心主题“动脉”包含或统摄“静脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_594f0521c4b5",
+      "target": "node_e0141cdc68e7",
+      "relation_type": "contains",
+      "description": "“第二章 颈部”中的核心主题“动脉”包含或统摄“筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_594f0521c4b5",
+      "target": "node_10ad1e0b8191",
+      "relation_type": "contains",
+      "description": "“第二章 颈部”中的核心主题“动脉”包含或统摄“淋巴结”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_594f0521c4b5",
+      "target": "node_7c3a978bba4e",
+      "relation_type": "contains",
+      "description": "“第二章 颈部”中的核心主题“动脉”包含或统摄“喉部严重水肿”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_594f0521c4b5",
+      "target": "node_e76e487df4db",
+      "relation_type": "contains",
+      "description": "“第二章 颈部”中的核心主题“动脉”包含或统摄“韧带”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_594f0521c4b5",
+      "target": "node_14bfd3a72945",
+      "relation_type": "contains",
+      "description": "“第二章 颈部”中的核心主题“动脉”包含或统摄“甲状软骨上缘”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_dfdbd6a55f03",
+      "target": "node_574fbd79925a",
+      "relation_type": "parallel",
+      "description": "“神经”与“静脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_dfdbd6a55f03",
+      "target": "node_e0141cdc68e7",
+      "relation_type": "parallel",
+      "description": "“神经”与“筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_dfdbd6a55f03",
+      "target": "node_10ad1e0b8191",
+      "relation_type": "parallel",
+      "description": "“神经”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_dfdbd6a55f03",
+      "target": "node_7c3a978bba4e",
+      "relation_type": "parallel",
+      "description": "“神经”与“喉部严重水肿”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_dfdbd6a55f03",
+      "target": "node_e76e487df4db",
+      "relation_type": "parallel",
+      "description": "“神经”与“韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_574fbd79925a",
+      "target": "node_e0141cdc68e7",
+      "relation_type": "parallel",
+      "description": "“静脉”与“筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_574fbd79925a",
+      "target": "node_10ad1e0b8191",
+      "relation_type": "parallel",
+      "description": "“静脉”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_574fbd79925a",
+      "target": "node_7c3a978bba4e",
+      "relation_type": "parallel",
+      "description": "“静脉”与“喉部严重水肿”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_574fbd79925a",
+      "target": "node_e76e487df4db",
+      "relation_type": "parallel",
+      "description": "“静脉”与“韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e0141cdc68e7",
+      "target": "node_10ad1e0b8191",
+      "relation_type": "parallel",
+      "description": "“筋膜”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e0141cdc68e7",
+      "target": "node_7c3a978bba4e",
+      "relation_type": "parallel",
+      "description": "“筋膜”与“喉部严重水肿”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e0141cdc68e7",
+      "target": "node_e76e487df4db",
+      "relation_type": "parallel",
+      "description": "“筋膜”与“韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_10ad1e0b8191",
+      "target": "node_7c3a978bba4e",
+      "relation_type": "parallel",
+      "description": "“淋巴结”与“喉部严重水肿”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_10ad1e0b8191",
+      "target": "node_e76e487df4db",
+      "relation_type": "parallel",
+      "description": "“淋巴结”与“韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7c3a978bba4e",
+      "target": "node_e76e487df4db",
+      "relation_type": "parallel",
+      "description": "“喉部严重水肿”与“韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_8ff2a4f81d97",
+      "target": "node_cf5916bd81f5",
+      "relation_type": "contains",
+      "description": "“第三章 胸部”中的核心主题“淋巴引流”包含或统摄“静脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8ff2a4f81d97",
+      "target": "node_4c52620a06e9",
+      "relation_type": "contains",
+      "description": "“第三章 胸部”中的核心主题“淋巴引流”包含或统摄“动脉韧带”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8ff2a4f81d97",
+      "target": "node_6651667c4f36",
+      "relation_type": "contains",
+      "description": "“第三章 胸部”中的核心主题“淋巴引流”包含或统摄“神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8ff2a4f81d97",
+      "target": "node_edd3aebe9f07",
+      "relation_type": "contains",
+      "description": "“第三章 胸部”中的核心主题“淋巴引流”包含或统摄“淋巴结”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8ff2a4f81d97",
+      "target": "node_dee3728a87e2",
+      "relation_type": "contains",
+      "description": "“第三章 胸部”中的核心主题“淋巴引流”包含或统摄“胸主动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8ff2a4f81d97",
+      "target": "node_92771a541c26",
+      "relation_type": "contains",
+      "description": "“第三章 胸部”中的核心主题“淋巴引流”包含或统摄“肺动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_8ff2a4f81d97",
+      "target": "node_d13ac3af9332",
+      "relation_type": "contains",
+      "description": "“第三章 胸部”中的核心主题“淋巴引流”包含或统摄“左颈总动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_cf5916bd81f5",
+      "target": "node_4c52620a06e9",
+      "relation_type": "parallel",
+      "description": "“静脉”与“动脉韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cf5916bd81f5",
+      "target": "node_6651667c4f36",
+      "relation_type": "parallel",
+      "description": "“静脉”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cf5916bd81f5",
+      "target": "node_edd3aebe9f07",
+      "relation_type": "parallel",
+      "description": "“静脉”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cf5916bd81f5",
+      "target": "node_dee3728a87e2",
+      "relation_type": "parallel",
+      "description": "“静脉”与“胸主动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_cf5916bd81f5",
+      "target": "node_92771a541c26",
+      "relation_type": "parallel",
+      "description": "“静脉”与“肺动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4c52620a06e9",
+      "target": "node_6651667c4f36",
+      "relation_type": "parallel",
+      "description": "“动脉韧带”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4c52620a06e9",
+      "target": "node_edd3aebe9f07",
+      "relation_type": "parallel",
+      "description": "“动脉韧带”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4c52620a06e9",
+      "target": "node_dee3728a87e2",
+      "relation_type": "parallel",
+      "description": "“动脉韧带”与“胸主动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_4c52620a06e9",
+      "target": "node_92771a541c26",
+      "relation_type": "parallel",
+      "description": "“动脉韧带”与“肺动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6651667c4f36",
+      "target": "node_edd3aebe9f07",
+      "relation_type": "parallel",
+      "description": "“神经”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6651667c4f36",
+      "target": "node_dee3728a87e2",
+      "relation_type": "parallel",
+      "description": "“神经”与“胸主动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_6651667c4f36",
+      "target": "node_92771a541c26",
+      "relation_type": "parallel",
+      "description": "“神经”与“肺动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_edd3aebe9f07",
+      "target": "node_dee3728a87e2",
+      "relation_type": "parallel",
+      "description": "“淋巴结”与“胸主动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_edd3aebe9f07",
+      "target": "node_92771a541c26",
+      "relation_type": "parallel",
+      "description": "“淋巴结”与“肺动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_dee3728a87e2",
+      "target": "node_92771a541c26",
+      "relation_type": "parallel",
+      "description": "“胸主动脉”与“肺动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_640568c59d44",
+      "target": "node_35fd8083b1b0",
+      "relation_type": "contains",
+      "description": "“第四章 腹部”中的核心主题“静脉”包含或统摄“动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_640568c59d44",
+      "target": "node_03e30e6f38d9",
+      "relation_type": "contains",
+      "description": "“第四章 腹部”中的核心主题“静脉”包含或统摄“神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_640568c59d44",
+      "target": "node_f8f439770cf4",
+      "relation_type": "contains",
+      "description": "“第四章 腹部”中的核心主题“静脉”包含或统摄“淋巴管”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_640568c59d44",
+      "target": "node_60ec8d067ce0",
+      "relation_type": "contains",
+      "description": "“第四章 腹部”中的核心主题“静脉”包含或统摄“淋巴结”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_640568c59d44",
+      "target": "node_33968a0e333f",
+      "relation_type": "contains",
+      "description": "“第四章 腹部”中的核心主题“静脉”包含或统摄“子宫圆韧带”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_640568c59d44",
+      "target": "node_b7af8fe30917",
+      "relation_type": "contains",
+      "description": "“第四章 腹部”中的核心主题“静脉”包含或统摄“筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_640568c59d44",
+      "target": "node_08dce735fb2e",
+      "relation_type": "contains",
+      "description": "“第四章 腹部”中的核心主题“静脉”包含或统摄“淋巴引流”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_35fd8083b1b0",
+      "target": "node_03e30e6f38d9",
+      "relation_type": "parallel",
+      "description": "“动脉”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35fd8083b1b0",
+      "target": "node_f8f439770cf4",
+      "relation_type": "parallel",
+      "description": "“动脉”与“淋巴管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35fd8083b1b0",
+      "target": "node_60ec8d067ce0",
+      "relation_type": "parallel",
+      "description": "“动脉”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35fd8083b1b0",
+      "target": "node_33968a0e333f",
+      "relation_type": "parallel",
+      "description": "“动脉”与“子宫圆韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_35fd8083b1b0",
+      "target": "node_b7af8fe30917",
+      "relation_type": "parallel",
+      "description": "“动脉”与“筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_03e30e6f38d9",
+      "target": "node_f8f439770cf4",
+      "relation_type": "parallel",
+      "description": "“神经”与“淋巴管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_03e30e6f38d9",
+      "target": "node_60ec8d067ce0",
+      "relation_type": "parallel",
+      "description": "“神经”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_03e30e6f38d9",
+      "target": "node_33968a0e333f",
+      "relation_type": "parallel",
+      "description": "“神经”与“子宫圆韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_03e30e6f38d9",
+      "target": "node_b7af8fe30917",
+      "relation_type": "parallel",
+      "description": "“神经”与“筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f8f439770cf4",
+      "target": "node_60ec8d067ce0",
+      "relation_type": "parallel",
+      "description": "“淋巴管”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f8f439770cf4",
+      "target": "node_33968a0e333f",
+      "relation_type": "parallel",
+      "description": "“淋巴管”与“子宫圆韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_f8f439770cf4",
+      "target": "node_b7af8fe30917",
+      "relation_type": "parallel",
+      "description": "“淋巴管”与“筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_60ec8d067ce0",
+      "target": "node_33968a0e333f",
+      "relation_type": "parallel",
+      "description": "“淋巴结”与“子宫圆韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_60ec8d067ce0",
+      "target": "node_b7af8fe30917",
+      "relation_type": "parallel",
+      "description": "“淋巴结”与“筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_33968a0e333f",
+      "target": "node_b7af8fe30917",
+      "relation_type": "parallel",
+      "description": "“子宫圆韧带”与“筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_0f2dece02651",
+      "target": "node_640568c59d44",
+      "relation_type": "applies_to",
+      "description": "“血管”可用于解释“静脉”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_ece400eab765",
+      "target": "node_2a77ff91a2fc",
+      "relation_type": "contains",
+      "description": "“第五章 盆部与会阴”中的核心主题“淋巴引流”包含或统摄“动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_ece400eab765",
+      "target": "node_14988a49aed2",
+      "relation_type": "contains",
+      "description": "“第五章 盆部与会阴”中的核心主题“淋巴引流”包含或统摄“筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_ece400eab765",
+      "target": "node_52dd4c1709a4",
+      "relation_type": "contains",
+      "description": "“第五章 盆部与会阴”中的核心主题“淋巴引流”包含或统摄“子宫阔韧带”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_ece400eab765",
+      "target": "node_bd1fb4bda7a7",
+      "relation_type": "contains",
+      "description": "“第五章 盆部与会阴”中的核心主题“淋巴引流”包含或统摄“神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_ece400eab765",
+      "target": "node_8170b570b8ba",
+      "relation_type": "contains",
+      "description": "“第五章 盆部与会阴”中的核心主题“淋巴引流”包含或统摄“淋巴结”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_ece400eab765",
+      "target": "node_34c6ad2595b3",
+      "relation_type": "contains",
+      "description": "“第五章 盆部与会阴”中的核心主题“淋巴引流”包含或统摄“静脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_ece400eab765",
+      "target": "node_d4c752639c81",
+      "relation_type": "contains",
+      "description": "“第五章 盆部与会阴”中的核心主题“淋巴引流”包含或统摄“卵巢悬韧带”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_14988a49aed2",
+      "target": "node_52dd4c1709a4",
+      "relation_type": "parallel",
+      "description": "“筋膜”与“子宫阔韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_14988a49aed2",
+      "target": "node_bd1fb4bda7a7",
+      "relation_type": "parallel",
+      "description": "“筋膜”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_14988a49aed2",
+      "target": "node_8170b570b8ba",
+      "relation_type": "parallel",
+      "description": "“筋膜”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_14988a49aed2",
+      "target": "node_34c6ad2595b3",
+      "relation_type": "parallel",
+      "description": "“筋膜”与“静脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_52dd4c1709a4",
+      "target": "node_bd1fb4bda7a7",
+      "relation_type": "parallel",
+      "description": "“子宫阔韧带”与“神经”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_52dd4c1709a4",
+      "target": "node_8170b570b8ba",
+      "relation_type": "parallel",
+      "description": "“子宫阔韧带”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_52dd4c1709a4",
+      "target": "node_34c6ad2595b3",
+      "relation_type": "parallel",
+      "description": "“子宫阔韧带”与“静脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bd1fb4bda7a7",
+      "target": "node_8170b570b8ba",
+      "relation_type": "parallel",
+      "description": "“神经”与“淋巴结”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_bd1fb4bda7a7",
+      "target": "node_34c6ad2595b3",
+      "relation_type": "parallel",
+      "description": "“神经”与“静脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_8170b570b8ba",
+      "target": "node_34c6ad2595b3",
+      "relation_type": "parallel",
+      "description": "“淋巴结”与“静脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_2a77ff91a2fc",
+      "target": "node_ece400eab765",
+      "relation_type": "applies_to",
+      "description": "“动脉”可用于解释“淋巴引流”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_d4c752639c81",
+      "target": "node_ece400eab765",
+      "relation_type": "applies_to",
+      "description": "“卵巢悬韧带”可用于解释“淋巴引流”相关临床或应用场景。",
+      "weight": 0.55
+    },
+    {
+      "source": "node_bd6ef3726a49",
+      "target": "node_d7f61193c6dc",
+      "relation_type": "contains",
+      "description": "“第六章 脊柱区”中的核心主题“神经”包含或统摄“椎静脉丛”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd6ef3726a49",
+      "target": "node_86361d5195ef",
+      "relation_type": "contains",
+      "description": "“第六章 脊柱区”中的核心主题“神经”包含或统摄“黄韧带”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd6ef3726a49",
+      "target": "node_1dfccc86edc4",
+      "relation_type": "contains",
+      "description": "“第六章 脊柱区”中的核心主题“神经”包含或统摄“深筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd6ef3726a49",
+      "target": "node_85420bcc7582",
+      "relation_type": "contains",
+      "description": "“第六章 脊柱区”中的核心主题“神经”包含或统摄“动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd6ef3726a49",
+      "target": "node_9af41e92d41a",
+      "relation_type": "contains",
+      "description": "“第六章 脊柱区”中的核心主题“神经”包含或统摄“浅筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd6ef3726a49",
+      "target": "node_6fe49ce5ce10",
+      "relation_type": "contains",
+      "description": "“第六章 脊柱区”中的核心主题“神经”包含或统摄“椎内静脉丛”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_bd6ef3726a49",
+      "target": "node_1ff27dfd0bac",
+      "relation_type": "contains",
+      "description": "“第六章 脊柱区”中的核心主题“神经”包含或统摄“齿状韧带”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_d7f61193c6dc",
+      "target": "node_86361d5195ef",
+      "relation_type": "parallel",
+      "description": "“椎静脉丛”与“黄韧带”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d7f61193c6dc",
+      "target": "node_1dfccc86edc4",
+      "relation_type": "parallel",
+      "description": "“椎静脉丛”与“深筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d7f61193c6dc",
+      "target": "node_85420bcc7582",
+      "relation_type": "parallel",
+      "description": "“椎静脉丛”与“动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d7f61193c6dc",
+      "target": "node_9af41e92d41a",
+      "relation_type": "parallel",
+      "description": "“椎静脉丛”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d7f61193c6dc",
+      "target": "node_6fe49ce5ce10",
+      "relation_type": "parallel",
+      "description": "“椎静脉丛”与“椎内静脉丛”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_86361d5195ef",
+      "target": "node_1dfccc86edc4",
+      "relation_type": "parallel",
+      "description": "“黄韧带”与“深筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_86361d5195ef",
+      "target": "node_85420bcc7582",
+      "relation_type": "parallel",
+      "description": "“黄韧带”与“动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_86361d5195ef",
+      "target": "node_9af41e92d41a",
+      "relation_type": "parallel",
+      "description": "“黄韧带”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_86361d5195ef",
+      "target": "node_6fe49ce5ce10",
+      "relation_type": "parallel",
+      "description": "“黄韧带”与“椎内静脉丛”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_1dfccc86edc4",
+      "target": "node_85420bcc7582",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_1dfccc86edc4",
+      "target": "node_9af41e92d41a",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_1dfccc86edc4",
+      "target": "node_6fe49ce5ce10",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“椎内静脉丛”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_85420bcc7582",
+      "target": "node_9af41e92d41a",
+      "relation_type": "parallel",
+      "description": "“动脉”与“浅筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_85420bcc7582",
+      "target": "node_6fe49ce5ce10",
+      "relation_type": "parallel",
+      "description": "“动脉”与“椎内静脉丛”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_9af41e92d41a",
+      "target": "node_6fe49ce5ce10",
+      "relation_type": "parallel",
+      "description": "“浅筋膜”与“椎内静脉丛”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_785d4c44c8fb",
+      "target": "node_e96e08595475",
+      "relation_type": "contains",
+      "description": "“第七章 上肢”中的核心主题“静脉”包含或统摄“神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_785d4c44c8fb",
+      "target": "node_7f29dff9726b",
+      "relation_type": "contains",
+      "description": "“第七章 上肢”中的核心主题“静脉”包含或统摄“深筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_785d4c44c8fb",
+      "target": "node_318280abc3ce",
+      "relation_type": "contains",
+      "description": "“第七章 上肢”中的核心主题“静脉”包含或统摄“动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_785d4c44c8fb",
+      "target": "node_d7a9de608769",
+      "relation_type": "contains",
+      "description": "“第七章 上肢”中的核心主题“静脉”包含或统摄“锁胸筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_785d4c44c8fb",
+      "target": "node_b8bd325eba00",
+      "relation_type": "contains",
+      "description": "“第七章 上肢”中的核心主题“静脉”包含或统摄“淋巴管”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_785d4c44c8fb",
+      "target": "node_397ce84daa7e",
+      "relation_type": "contains",
+      "description": "“第七章 上肢”中的核心主题“静脉”包含或统摄“肩关节”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_785d4c44c8fb",
+      "target": "node_362ce833bf1c",
+      "relation_type": "contains",
+      "description": "“第七章 上肢”中的核心主题“静脉”包含或统摄“浅筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_e96e08595475",
+      "target": "node_7f29dff9726b",
+      "relation_type": "parallel",
+      "description": "“神经”与“深筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e96e08595475",
+      "target": "node_318280abc3ce",
+      "relation_type": "parallel",
+      "description": "“神经”与“动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e96e08595475",
+      "target": "node_d7a9de608769",
+      "relation_type": "parallel",
+      "description": "“神经”与“锁胸筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e96e08595475",
+      "target": "node_b8bd325eba00",
+      "relation_type": "parallel",
+      "description": "“神经”与“淋巴管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_e96e08595475",
+      "target": "node_397ce84daa7e",
+      "relation_type": "parallel",
+      "description": "“神经”与“肩关节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7f29dff9726b",
+      "target": "node_318280abc3ce",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7f29dff9726b",
+      "target": "node_d7a9de608769",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“锁胸筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7f29dff9726b",
+      "target": "node_b8bd325eba00",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“淋巴管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7f29dff9726b",
+      "target": "node_397ce84daa7e",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“肩关节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_318280abc3ce",
+      "target": "node_d7a9de608769",
+      "relation_type": "parallel",
+      "description": "“动脉”与“锁胸筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_318280abc3ce",
+      "target": "node_b8bd325eba00",
+      "relation_type": "parallel",
+      "description": "“动脉”与“淋巴管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_318280abc3ce",
+      "target": "node_397ce84daa7e",
+      "relation_type": "parallel",
+      "description": "“动脉”与“肩关节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d7a9de608769",
+      "target": "node_b8bd325eba00",
+      "relation_type": "parallel",
+      "description": "“锁胸筋膜”与“淋巴管”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d7a9de608769",
+      "target": "node_397ce84daa7e",
+      "relation_type": "parallel",
+      "description": "“锁胸筋膜”与“肩关节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_b8bd325eba00",
+      "target": "node_397ce84daa7e",
+      "relation_type": "parallel",
+      "description": "“淋巴管”与“肩关节”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_94ae011ed0a4",
+      "target": "node_60ad94e9e713",
+      "relation_type": "contains",
+      "description": "“第八章 下肢”中的核心主题“静脉”包含或统摄“神经”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_94ae011ed0a4",
+      "target": "node_c8d0c8bd1258",
+      "relation_type": "contains",
+      "description": "“第八章 下肢”中的核心主题“静脉”包含或统摄“腘动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_94ae011ed0a4",
+      "target": "node_d11e9e700f9d",
+      "relation_type": "contains",
+      "description": "“第八章 下肢”中的核心主题“静脉”包含或统摄“深筋膜”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_94ae011ed0a4",
+      "target": "node_7d7fcffb16d5",
+      "relation_type": "contains",
+      "description": "“第八章 下肢”中的核心主题“静脉”包含或统摄“足背动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_94ae011ed0a4",
+      "target": "node_104c1234f68a",
+      "relation_type": "contains",
+      "description": "“第八章 下肢”中的核心主题“静脉”包含或统摄“外侧动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_94ae011ed0a4",
+      "target": "node_09145148cf28",
+      "relation_type": "contains",
+      "description": "“第八章 下肢”中的核心主题“静脉”包含或统摄“胫后动脉”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_94ae011ed0a4",
+      "target": "node_51a671db8f67",
+      "relation_type": "contains",
+      "description": "“第八章 下肢”中的核心主题“静脉”包含或统摄“韧带”。",
+      "weight": 0.8
+    },
+    {
+      "source": "node_60ad94e9e713",
+      "target": "node_c8d0c8bd1258",
+      "relation_type": "parallel",
+      "description": "“神经”与“腘动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_60ad94e9e713",
+      "target": "node_d11e9e700f9d",
+      "relation_type": "parallel",
+      "description": "“神经”与“深筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_60ad94e9e713",
+      "target": "node_7d7fcffb16d5",
+      "relation_type": "parallel",
+      "description": "“神经”与“足背动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_60ad94e9e713",
+      "target": "node_104c1234f68a",
+      "relation_type": "parallel",
+      "description": "“神经”与“外侧动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_60ad94e9e713",
+      "target": "node_09145148cf28",
+      "relation_type": "parallel",
+      "description": "“神经”与“胫后动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c8d0c8bd1258",
+      "target": "node_d11e9e700f9d",
+      "relation_type": "parallel",
+      "description": "“腘动脉”与“深筋膜”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c8d0c8bd1258",
+      "target": "node_7d7fcffb16d5",
+      "relation_type": "parallel",
+      "description": "“腘动脉”与“足背动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c8d0c8bd1258",
+      "target": "node_104c1234f68a",
+      "relation_type": "parallel",
+      "description": "“腘动脉”与“外侧动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_c8d0c8bd1258",
+      "target": "node_09145148cf28",
+      "relation_type": "parallel",
+      "description": "“腘动脉”与“胫后动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d11e9e700f9d",
+      "target": "node_7d7fcffb16d5",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“足背动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d11e9e700f9d",
+      "target": "node_104c1234f68a",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“外侧动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_d11e9e700f9d",
+      "target": "node_09145148cf28",
+      "relation_type": "parallel",
+      "description": "“深筋膜”与“胫后动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7d7fcffb16d5",
+      "target": "node_104c1234f68a",
+      "relation_type": "parallel",
+      "description": "“足背动脉”与“外侧动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_7d7fcffb16d5",
+      "target": "node_09145148cf28",
+      "relation_type": "parallel",
+      "description": "“足背动脉”与“胫后动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_104c1234f68a",
+      "target": "node_09145148cf28",
+      "relation_type": "parallel",
+      "description": "“外侧动脉”与“胫后动脉”均属于核心概念层级。",
+      "weight": 0.45
+    },
+    {
+      "source": "node_8da8270fe585",
+      "target": "node_a9fda349d9a0",
+      "relation_type": "prerequisite",
+      "description": "学习“深筋膜”通常需要先理解“神经”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_a9fda349d9a0",
+      "target": "node_35fd960ccb40",
+      "relation_type": "prerequisite",
+      "description": "学习“血管”通常需要先理解“深筋膜”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_35fd960ccb40",
+      "target": "node_934d4921d489",
+      "relation_type": "prerequisite",
+      "description": "学习“淋巴管”通常需要先理解“血管”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_f21889a35341",
+      "target": "node_9c6570a7da95",
+      "relation_type": "prerequisite",
+      "description": "学习“静脉”通常需要先理解“神经”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_9c6570a7da95",
+      "target": "node_25d8a34101cc",
+      "relation_type": "prerequisite",
+      "description": "学习“枕动脉”通常需要先理解“静脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_25d8a34101cc",
+      "target": "node_2b95a929cca2",
+      "relation_type": "prerequisite",
+      "description": "学习“基底动脉环”通常需要先理解“枕动脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_594f0521c4b5",
+      "target": "node_dfdbd6a55f03",
+      "relation_type": "prerequisite",
+      "description": "学习“神经”通常需要先理解“动脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_dfdbd6a55f03",
+      "target": "node_574fbd79925a",
+      "relation_type": "prerequisite",
+      "description": "学习“静脉”通常需要先理解“神经”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_574fbd79925a",
+      "target": "node_e0141cdc68e7",
+      "relation_type": "prerequisite",
+      "description": "学习“筋膜”通常需要先理解“静脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_8ff2a4f81d97",
+      "target": "node_cf5916bd81f5",
+      "relation_type": "prerequisite",
+      "description": "学习“静脉”通常需要先理解“淋巴引流”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_cf5916bd81f5",
+      "target": "node_4c52620a06e9",
+      "relation_type": "prerequisite",
+      "description": "学习“动脉韧带”通常需要先理解“静脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_4c52620a06e9",
+      "target": "node_6651667c4f36",
+      "relation_type": "prerequisite",
+      "description": "学习“神经”通常需要先理解“动脉韧带”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_640568c59d44",
+      "target": "node_35fd8083b1b0",
+      "relation_type": "prerequisite",
+      "description": "学习“动脉”通常需要先理解“静脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_35fd8083b1b0",
+      "target": "node_03e30e6f38d9",
+      "relation_type": "prerequisite",
+      "description": "学习“神经”通常需要先理解“动脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_03e30e6f38d9",
+      "target": "node_f8f439770cf4",
+      "relation_type": "prerequisite",
+      "description": "学习“淋巴管”通常需要先理解“神经”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_ece400eab765",
+      "target": "node_2a77ff91a2fc",
+      "relation_type": "prerequisite",
+      "description": "学习“动脉”通常需要先理解“淋巴引流”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_2a77ff91a2fc",
+      "target": "node_14988a49aed2",
+      "relation_type": "prerequisite",
+      "description": "学习“筋膜”通常需要先理解“动脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_14988a49aed2",
+      "target": "node_52dd4c1709a4",
+      "relation_type": "prerequisite",
+      "description": "学习“子宫阔韧带”通常需要先理解“筋膜”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_bd6ef3726a49",
+      "target": "node_d7f61193c6dc",
+      "relation_type": "prerequisite",
+      "description": "学习“椎静脉丛”通常需要先理解“神经”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_d7f61193c6dc",
+      "target": "node_86361d5195ef",
+      "relation_type": "prerequisite",
+      "description": "学习“黄韧带”通常需要先理解“椎静脉丛”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_86361d5195ef",
+      "target": "node_1dfccc86edc4",
+      "relation_type": "prerequisite",
+      "description": "学习“深筋膜”通常需要先理解“黄韧带”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_785d4c44c8fb",
+      "target": "node_e96e08595475",
+      "relation_type": "prerequisite",
+      "description": "学习“神经”通常需要先理解“静脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_e96e08595475",
+      "target": "node_7f29dff9726b",
+      "relation_type": "prerequisite",
+      "description": "学习“深筋膜”通常需要先理解“神经”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_7f29dff9726b",
+      "target": "node_318280abc3ce",
+      "relation_type": "prerequisite",
+      "description": "学习“动脉”通常需要先理解“深筋膜”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_94ae011ed0a4",
+      "target": "node_60ad94e9e713",
+      "relation_type": "prerequisite",
+      "description": "学习“神经”通常需要先理解“静脉”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_60ad94e9e713",
+      "target": "node_c8d0c8bd1258",
+      "relation_type": "prerequisite",
+      "description": "学习“腘动脉”通常需要先理解“神经”。",
+      "weight": 0.65
+    },
+    {
+      "source": "node_c8d0c8bd1258",
+      "target": "node_d11e9e700f9d",
+      "relation_type": "prerequisite",
+      "description": "学习“深筋膜”通常需要先理解“腘动脉”。",
+      "weight": 0.65
+    }
+  ],
+  "created_at": "2026-05-17T11:49:07.516405"
+}

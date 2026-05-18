@@ -201,11 +201,13 @@ function naturalCompare(a = '', b = '') {
 }
 
 function chapterNumber(text = '') {
-  if (/未识别|自动分段|未命名/.test(text)) return 9999;
   const arabic = text.match(/第\s*(\d+)\s*[章节]/);
   if (arabic) return Number(arabic[1]);
   const cn = text.match(/第\s*([一二三四五六七八九十百千万零〇两]+)\s*[章节]/);
-  return cn ? chineseNumber(cn[1]) : 9998;
+  if (cn) return chineseNumber(cn[1]);
+  if (/^\s*(绪论|总论)\s*$/.test(text)) return 0;
+  if (/未识别|未命名/.test(text)) return 9999;
+  return 9998;
 }
 
 function chineseNumber(input: string) {

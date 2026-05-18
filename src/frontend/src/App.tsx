@@ -6,6 +6,7 @@ import RightPanel from './components/RightPanel';
 import DetailDrawer from './components/DetailDrawer';
 
 export default function App() {
+  const offlineMode = typeof window !== 'undefined' && Boolean((window as any).__OFFLINE_DATA__);
   const [books, setBooks] = useState<Textbook[]>([]);
   const [selected, setSelected] = useState<string | undefined>();
   const [graph, setGraph] = useState<KnowledgeGraph | null>(null);
@@ -64,7 +65,7 @@ export default function App() {
   }, []);
 
   return (
-    <div className="app-layout">
+    <div className={offlineMode ? 'app-layout offline-layout' : 'app-layout'}>
       <UploadPanel books={books} selectedId={selected} onBooks={handleBooks} onSelect={handleSelect} onGraphBuilt={onGraphBuilt} onDeleted={handleDeleted} />
       <div className="center">
         <div className="hero">
@@ -82,7 +83,7 @@ export default function App() {
             <span><b>{activeGraph?.edges?.length ?? 0}</b><em>关系</em></span>
           </div>
         </div>
-        <GraphCanvas graph={activeGraph} selectedNode={node} onNode={setNode} />
+        <GraphCanvas graph={activeGraph} books={books} selectedNode={node} onNode={setNode} />
       </div>
       <RightPanel integrated={integrated} onIntegrated={handleIntegrated} />
       <DetailDrawer node={node} onClose={() => setNode(null)} />

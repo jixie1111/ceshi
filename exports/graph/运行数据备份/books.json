@@ -1,0 +1,1220 @@
+[
+  {
+    "textbook_id": "book_aafee265ba12",
+    "filename": "01_局部解剖学.pdf",
+    "title": "01_局部解剖学",
+    "format": "pdf",
+    "file_size": 116943885,
+    "total_pages": 305,
+    "total_chars": 297695,
+    "status": "已完成",
+    "error": null,
+    "uploaded_at": "2026-05-17T11:29:01.034917",
+    "chapters": [
+      {
+        "chapter_id": "ch_001",
+        "title": "绪论",
+        "page_start": 20,
+        "page_end": 27,
+        "content": "",
+        "char_count": 8750
+      },
+      {
+        "chapter_id": "ch_002",
+        "title": "第一章 头部",
+        "page_start": 28,
+        "page_end": 56,
+        "content": "",
+        "char_count": 30165
+      },
+      {
+        "chapter_id": "ch_003",
+        "title": "第二章 颈部",
+        "page_start": 57,
+        "page_end": 81,
+        "content": "",
+        "char_count": 23141
+      },
+      {
+        "chapter_id": "ch_004",
+        "title": "第三章 胸部",
+        "page_start": 82,
+        "page_end": 110,
+        "content": "",
+        "char_count": 30019
+      },
+      {
+        "chapter_id": "ch_005",
+        "title": "第四章 腹部",
+        "page_start": 111,
+        "page_end": 172,
+        "content": "",
+        "char_count": 55193
+      },
+      {
+        "chapter_id": "ch_006",
+        "title": "第五章 盆部与会阴",
+        "page_start": 173,
+        "page_end": 205,
+        "content": "",
+        "char_count": 31190
+      },
+      {
+        "chapter_id": "ch_007",
+        "title": "第六章 脊柱区",
+        "page_start": 206,
+        "page_end": 223,
+        "content": "",
+        "char_count": 18229
+      },
+      {
+        "chapter_id": "ch_008",
+        "title": "第七章 上肢",
+        "page_start": 224,
+        "page_end": 261,
+        "content": "",
+        "char_count": 39150
+      },
+      {
+        "chapter_id": "ch_009",
+        "title": "第八章 下肢",
+        "page_start": 262,
+        "page_end": 305,
+        "content": "",
+        "char_count": 61858
+      }
+    ]
+  },
+  {
+    "textbook_id": "book_a14422a45c16",
+    "filename": "02_组织学与胚胎学.pdf",
+    "title": "02_组织学与胚胎学",
+    "format": "pdf",
+    "file_size": 437865172,
+    "total_pages": 319,
+    "total_chars": 293989,
+    "status": "已完成",
+    "error": null,
+    "uploaded_at": "2026-05-17T11:29:22.036032",
+    "chapters": [
+      {
+        "chapter_id": "ch_001",
+        "title": "第1章 组织学绪论",
+        "page_start": 25,
+        "page_end": 31,
+        "content": "",
+        "char_count": 8388
+      },
+      {
+        "chapter_id": "ch_002",
+        "title": "第2章 上皮组织",
+        "page_start": 32,
+        "page_end": 42,
+        "content": "",
+        "char_count": 9650
+      },
+      {
+        "chapter_id": "ch_003",
+        "title": "第3章 结缔组织",
+        "page_start": 43,
+        "page_end": 51,
+        "content": "",
+        "char_count": 8724
+      },
+      {
+        "chapter_id": "ch_004",
+        "title": "第4章 软骨和骨",
+        "page_start": 52,
+        "page_end": 63,
+        "content": "",
+        "char_count": 13188
+      },
+      {
+        "chapter_id": "ch_005",
+        "title": "第5章 血液",
+        "page_start": 64,
+        "page_end": 74,
+        "content": "",
+        "char_count": 12016
+      },
+      {
+        "chapter_id": "ch_006",
+        "title": "第6章 肌组织",
+        "page_start": 75,
+        "page_end": 82,
+        "content": "",
+        "char_count": 5603
+      },
+      {
+        "chapter_id": "ch_007",
+        "title": "第7章 神经组织",
+        "page_start": 83,
+        "page_end": 97,
+        "content": "",
+        "char_count": 13568
+      },
+      {
+        "chapter_id": "ch_008",
+        "title": "第8章 神经系统",
+        "page_start": 98,
+        "page_end": 105,
+        "content": "",
+        "char_count": 7526
+      },
+      {
+        "chapter_id": "ch_009",
+        "title": "第9章 循环系统",
+        "page_start": 106,
+        "page_end": 116,
+        "content": "",
+        "char_count": 11588
+      },
+      {
+        "chapter_id": "ch_010",
+        "title": "第10章 免疫系统",
+        "page_start": 117,
+        "page_end": 128,
+        "content": "",
+        "char_count": 13935
+      },
+      {
+        "chapter_id": "ch_011",
+        "title": "第11章 皮肤",
+        "page_start": 129,
+        "page_end": 136,
+        "content": "",
+        "char_count": 8239
+      },
+      {
+        "chapter_id": "ch_012",
+        "title": "第12章 眼与耳",
+        "page_start": 137,
+        "page_end": 149,
+        "content": "",
+        "char_count": 12170
+      },
+      {
+        "chapter_id": "ch_013",
+        "title": "第13章 内分泌系统",
+        "page_start": 150,
+        "page_end": 158,
+        "content": "",
+        "char_count": 10074
+      },
+      {
+        "chapter_id": "ch_014",
+        "title": "第14章 消化管",
+        "page_start": 159,
+        "page_end": 173,
+        "content": "",
+        "char_count": 13610
+      },
+      {
+        "chapter_id": "ch_015",
+        "title": "第15章 消化腺",
+        "page_start": 174,
+        "page_end": 183,
+        "content": "",
+        "char_count": 9025
+      },
+      {
+        "chapter_id": "ch_016",
+        "title": "第16章 呼吸系统",
+        "page_start": 184,
+        "page_end": 192,
+        "content": "",
+        "char_count": 7581
+      },
+      {
+        "chapter_id": "ch_017",
+        "title": "第17章 泌尿系统",
+        "page_start": 193,
+        "page_end": 202,
+        "content": "",
+        "char_count": 9006
+      },
+      {
+        "chapter_id": "ch_018",
+        "title": "第18章 男性生殖系统",
+        "page_start": 203,
+        "page_end": 210,
+        "content": "",
+        "char_count": 7711
+      },
+      {
+        "chapter_id": "ch_019",
+        "title": "第19章 女性生殖系统",
+        "page_start": 211,
+        "page_end": 222,
+        "content": "",
+        "char_count": 11500
+      },
+      {
+        "chapter_id": "ch_020",
+        "title": "第20章 胚胎学绪论",
+        "page_start": 223,
+        "page_end": 225,
+        "content": "",
+        "char_count": 4493
+      },
+      {
+        "chapter_id": "ch_021",
+        "title": "第21章 胚胎发生总论",
+        "page_start": 226,
+        "page_end": 243,
+        "content": "",
+        "char_count": 15782
+      },
+      {
+        "chapter_id": "ch_022",
+        "title": "第22章 颜面和四肢的发生",
+        "page_start": 244,
+        "page_end": 251,
+        "content": "",
+        "char_count": 5567
+      },
+      {
+        "chapter_id": "ch_023",
+        "title": "第23章 消化系统和呼吸系统的发生",
+        "page_start": 252,
+        "page_end": 259,
+        "content": "",
+        "char_count": 6372
+      },
+      {
+        "chapter_id": "ch_024",
+        "title": "第24章 泌尿系统和生殖系统的发生",
+        "page_start": 260,
+        "page_end": 269,
+        "content": "",
+        "char_count": 7519
+      },
+      {
+        "chapter_id": "ch_025",
+        "title": "第25章 心血管系统的发生",
+        "page_start": 270,
+        "page_end": 281,
+        "content": "",
+        "char_count": 8449
+      },
+      {
+        "chapter_id": "ch_026",
+        "title": "第26章 神经系统的发生",
+        "page_start": 282,
+        "page_end": 293,
+        "content": "",
+        "char_count": 9508
+      },
+      {
+        "chapter_id": "ch_027",
+        "title": "第27章 眼与耳的发生",
+        "page_start": 294,
+        "page_end": 299,
+        "content": "",
+        "char_count": 5212
+      },
+      {
+        "chapter_id": "ch_028",
+        "title": "第28章 先天畸形概论",
+        "page_start": 300,
+        "page_end": 319,
+        "content": "",
+        "char_count": 37985
+      }
+    ]
+  },
+  {
+    "textbook_id": "book_b96d5ebc2869",
+    "filename": "03_生理学.pdf",
+    "title": "03_生理学",
+    "format": "pdf",
+    "file_size": 32880059,
+    "total_pages": 450,
+    "total_chars": 630420,
+    "status": "已完成",
+    "error": null,
+    "uploaded_at": "2026-05-17T11:29:52.386584",
+    "chapters": [
+      {
+        "chapter_id": "ch_001",
+        "title": "第一章 绪论",
+        "page_start": 24,
+        "page_end": 35,
+        "content": "",
+        "char_count": 17742
+      },
+      {
+        "chapter_id": "ch_002",
+        "title": "第二章 细胞的基本功能",
+        "page_start": 36,
+        "page_end": 75,
+        "content": "",
+        "char_count": 57404
+      },
+      {
+        "chapter_id": "ch_003",
+        "title": "第三章 血液",
+        "page_start": 76,
+        "page_end": 101,
+        "content": "",
+        "char_count": 42422
+      },
+      {
+        "chapter_id": "ch_004",
+        "title": "第四章 血液循环",
+        "page_start": 102,
+        "page_end": 157,
+        "content": "",
+        "char_count": 87105
+      },
+      {
+        "chapter_id": "ch_005",
+        "title": "第五章 呼吸",
+        "page_start": 158,
+        "page_end": 187,
+        "content": "",
+        "char_count": 44389
+      },
+      {
+        "chapter_id": "ch_006",
+        "title": "第六章 消化和吸收",
+        "page_start": 188,
+        "page_end": 218,
+        "content": "",
+        "char_count": 41780
+      },
+      {
+        "chapter_id": "ch_007",
+        "title": "第七章 能量代谢与体温",
+        "page_start": 219,
+        "page_end": 235,
+        "content": "",
+        "char_count": 24689
+      },
+      {
+        "chapter_id": "ch_008",
+        "title": "第八章 尿的生成和排出",
+        "page_start": 236,
+        "page_end": 264,
+        "content": "",
+        "char_count": 38388
+      },
+      {
+        "chapter_id": "ch_009",
+        "title": "第九章 感觉器官的功能",
+        "page_start": 265,
+        "page_end": 302,
+        "content": "",
+        "char_count": 49809
+      },
+      {
+        "chapter_id": "ch_010",
+        "title": "第十章 神经系统的功能",
+        "page_start": 303,
+        "page_end": 359,
+        "content": "",
+        "char_count": 82954
+      },
+      {
+        "chapter_id": "ch_011",
+        "title": "第十一章 内分泌",
+        "page_start": 360,
+        "page_end": 405,
+        "content": "",
+        "char_count": 66588
+      },
+      {
+        "chapter_id": "ch_012",
+        "title": "第十二章 生殖",
+        "page_start": 406,
+        "page_end": 422,
+        "content": "",
+        "char_count": 22643
+      },
+      {
+        "chapter_id": "ch_013",
+        "title": "第十三章 生长发育和衰老",
+        "page_start": 423,
+        "page_end": 450,
+        "content": "",
+        "char_count": 54507
+      }
+    ]
+  },
+  {
+    "textbook_id": "book_05a6cf28c050",
+    "filename": "04_医学微生物学.pdf",
+    "title": "04_医学微生物学",
+    "format": "pdf",
+    "file_size": 34157478,
+    "total_pages": 386,
+    "total_chars": 513159,
+    "status": "已完成",
+    "error": null,
+    "uploaded_at": "2026-05-17T11:30:28.178285",
+    "chapters": [
+      {
+        "chapter_id": "ch_001",
+        "title": "绪论",
+        "page_start": 20,
+        "page_end": 27,
+        "content": "",
+        "char_count": 10689
+      },
+      {
+        "chapter_id": "ch_002",
+        "title": "第一章 细菌的形态与结构",
+        "page_start": 28,
+        "page_end": 40,
+        "content": "",
+        "char_count": 14767
+      },
+      {
+        "chapter_id": "ch_003",
+        "title": "第二章 细菌的生理",
+        "page_start": 41,
+        "page_end": 50,
+        "content": "",
+        "char_count": 16447
+      },
+      {
+        "chapter_id": "ch_004",
+        "title": "第三章 消毒灭菌与病原微生物实验室生物安全",
+        "page_start": 51,
+        "page_end": 60,
+        "content": "",
+        "char_count": 15236
+      },
+      {
+        "chapter_id": "ch_005",
+        "title": "第四章 噬菌体",
+        "page_start": 61,
+        "page_end": 65,
+        "content": "",
+        "char_count": 4921
+      },
+      {
+        "chapter_id": "ch_006",
+        "title": "第五章 细菌的遗传与变异",
+        "page_start": 66,
+        "page_end": 76,
+        "content": "",
+        "char_count": 15297
+      },
+      {
+        "chapter_id": "ch_007",
+        "title": "第六章 细菌的耐药性",
+        "page_start": 77,
+        "page_end": 82,
+        "content": "",
+        "char_count": 8465
+      },
+      {
+        "chapter_id": "ch_008",
+        "title": "第七章 细菌的感染与免疫",
+        "page_start": 83,
+        "page_end": 103,
+        "content": "",
+        "char_count": 31199
+      },
+      {
+        "chapter_id": "ch_009",
+        "title": "第八章 细菌感染的检查方法与防治原则",
+        "page_start": 104,
+        "page_end": 111,
+        "content": "",
+        "char_count": 12481
+      },
+      {
+        "chapter_id": "ch_010",
+        "title": "第九章 球菌",
+        "page_start": 112,
+        "page_end": 126,
+        "content": "",
+        "char_count": 20447
+      },
+      {
+        "chapter_id": "ch_011",
+        "title": "第十章 肠杆菌科",
+        "page_start": 127,
+        "page_end": 141,
+        "content": "",
+        "char_count": 22841
+      },
+      {
+        "chapter_id": "ch_012",
+        "title": "第十一章 弧菌属",
+        "page_start": 142,
+        "page_end": 146,
+        "content": "",
+        "char_count": 6496
+      },
+      {
+        "chapter_id": "ch_013",
+        "title": "第十二章 螺杆菌属和弯曲菌属",
+        "page_start": 147,
+        "page_end": 149,
+        "content": "",
+        "char_count": 3475
+      },
+      {
+        "chapter_id": "ch_014",
+        "title": "第十三章 厌氧性细菌",
+        "page_start": 150,
+        "page_end": 159,
+        "content": "",
+        "char_count": 15837
+      },
+      {
+        "chapter_id": "ch_015",
+        "title": "第十四章 分枝杆菌属",
+        "page_start": 160,
+        "page_end": 167,
+        "content": "",
+        "char_count": 12659
+      },
+      {
+        "chapter_id": "ch_016",
+        "title": "第十五章 嗜血杆菌属与鲍特菌属",
+        "page_start": 168,
+        "page_end": 171,
+        "content": "",
+        "char_count": 4397
+      },
+      {
+        "chapter_id": "ch_017",
+        "title": "第十六章 动物源性细菌",
+        "page_start": 172,
+        "page_end": 182,
+        "content": "",
+        "char_count": 16629
+      },
+      {
+        "chapter_id": "ch_018",
+        "title": "第十七章 放线菌",
+        "page_start": 183,
+        "page_end": 185,
+        "content": "",
+        "char_count": 4207
+      },
+      {
+        "chapter_id": "ch_019",
+        "title": "第十八章 支原体",
+        "page_start": 186,
+        "page_end": 190,
+        "content": "",
+        "char_count": 6095
+      },
+      {
+        "chapter_id": "ch_020",
+        "title": "第十九章 立克次体",
+        "page_start": 191,
+        "page_end": 197,
+        "content": "",
+        "char_count": 10997
+      },
+      {
+        "chapter_id": "ch_021",
+        "title": "第二十章 衣原体",
+        "page_start": 198,
+        "page_end": 203,
+        "content": "",
+        "char_count": 8971
+      },
+      {
+        "chapter_id": "ch_022",
+        "title": "第二十一章 螺旋体",
+        "page_start": 204,
+        "page_end": 213,
+        "content": "",
+        "char_count": 14558
+      },
+      {
+        "chapter_id": "ch_023",
+        "title": "第二十二章 其他细菌",
+        "page_start": 214,
+        "page_end": 225,
+        "content": "",
+        "char_count": 16902
+      },
+      {
+        "chapter_id": "ch_024",
+        "title": "第二十三章 病毒的基本性状",
+        "page_start": 226,
+        "page_end": 240,
+        "content": "",
+        "char_count": 16259
+      },
+      {
+        "chapter_id": "ch_025",
+        "title": "第二十四章 病毒的感染与免疫",
+        "page_start": 241,
+        "page_end": 250,
+        "content": "",
+        "char_count": 13634
+      },
+      {
+        "chapter_id": "ch_026",
+        "title": "第二十五章 病毒感染的检查方法与防治原则",
+        "page_start": 251,
+        "page_end": 258,
+        "content": "",
+        "char_count": 11530
+      },
+      {
+        "chapter_id": "ch_027",
+        "title": "第二十六章 呼吸道病毒",
+        "page_start": 259,
+        "page_end": 274,
+        "content": "",
+        "char_count": 22716
+      },
+      {
+        "chapter_id": "ch_028",
+        "title": "第二十七章 肠道病毒",
+        "page_start": 275,
+        "page_end": 282,
+        "content": "",
+        "char_count": 11139
+      },
+      {
+        "chapter_id": "ch_029",
+        "title": "第二十八章 急性胃肠炎病毒",
+        "page_start": 283,
+        "page_end": 287,
+        "content": "",
+        "char_count": 7214
+      },
+      {
+        "chapter_id": "ch_030",
+        "title": "第二十九章 肝炎病毒",
+        "page_start": 288,
+        "page_end": 301,
+        "content": "",
+        "char_count": 20472
+      },
+      {
+        "chapter_id": "ch_031",
+        "title": "第三十章 虫媒病毒",
+        "page_start": 302,
+        "page_end": 311,
+        "content": "",
+        "char_count": 13853
+      },
+      {
+        "chapter_id": "ch_032",
+        "title": "第三十一章 出血热病毒",
+        "page_start": 312,
+        "page_end": 318,
+        "content": "",
+        "char_count": 8874
+      },
+      {
+        "chapter_id": "ch_033",
+        "title": "第三十二章 疱疹病毒",
+        "page_start": 319,
+        "page_end": 328,
+        "content": "",
+        "char_count": 15289
+      },
+      {
+        "chapter_id": "ch_034",
+        "title": "第三十三章 逆转录病毒",
+        "page_start": 329,
+        "page_end": 335,
+        "content": "",
+        "char_count": 11616
+      },
+      {
+        "chapter_id": "ch_035",
+        "title": "第三十四章 其他病毒",
+        "page_start": 336,
+        "page_end": 342,
+        "content": "",
+        "char_count": 10268
+      },
+      {
+        "chapter_id": "ch_036",
+        "title": "第三十五章 朊粒",
+        "page_start": 343,
+        "page_end": 348,
+        "content": "",
+        "char_count": 6537
+      },
+      {
+        "chapter_id": "ch_037",
+        "title": "第三十六章 真菌学总论",
+        "page_start": 349,
+        "page_end": 356,
+        "content": "",
+        "char_count": 9533
+      },
+      {
+        "chapter_id": "ch_038",
+        "title": "第三十七章 主要病原性真菌",
+        "page_start": 357,
+        "page_end": 367,
+        "content": "",
+        "char_count": 11753
+      },
+      {
+        "chapter_id": "ch_039",
+        "title": "第三十八章 人体微生物群的构成和功能",
+        "page_start": 368,
+        "page_end": 371,
+        "content": "",
+        "char_count": 4958
+      },
+      {
+        "chapter_id": "ch_040",
+        "title": "第三十九章 人体微生物群与疾病",
+        "page_start": 372,
+        "page_end": 386,
+        "content": "",
+        "char_count": 23501
+      }
+    ]
+  },
+  {
+    "textbook_id": "book_8b15d8cbaa14",
+    "filename": "05_病理学.pdf",
+    "title": "05_病理学",
+    "format": "pdf",
+    "file_size": 40411233,
+    "total_pages": 418,
+    "total_chars": 533624,
+    "status": "已完成",
+    "error": null,
+    "uploaded_at": "2026-05-17T11:30:54.852020",
+    "chapters": [
+      {
+        "chapter_id": "ch_001",
+        "title": "绪论",
+        "page_start": 26,
+        "page_end": 29,
+        "content": "",
+        "char_count": 6498
+      },
+      {
+        "chapter_id": "ch_002",
+        "title": "第一章 细胞和组织的适应与损伤",
+        "page_start": 30,
+        "page_end": 49,
+        "content": "",
+        "char_count": 26909
+      },
+      {
+        "chapter_id": "ch_003",
+        "title": "第二章 损伤的修复",
+        "page_start": 50,
+        "page_end": 65,
+        "content": "",
+        "char_count": 23027
+      },
+      {
+        "chapter_id": "ch_004",
+        "title": "第三章 局部血液循环障碍",
+        "page_start": 66,
+        "page_end": 83,
+        "content": "",
+        "char_count": 22575
+      },
+      {
+        "chapter_id": "ch_005",
+        "title": "第四章 炎症",
+        "page_start": 84,
+        "page_end": 101,
+        "content": "",
+        "char_count": 23539
+      },
+      {
+        "chapter_id": "ch_006",
+        "title": "第五章 免疫性疾病",
+        "page_start": 102,
+        "page_end": 114,
+        "content": "",
+        "char_count": 18599
+      },
+      {
+        "chapter_id": "ch_007",
+        "title": "第六章 肿瘤",
+        "page_start": 115,
+        "page_end": 148,
+        "content": "",
+        "char_count": 43180
+      },
+      {
+        "chapter_id": "ch_008",
+        "title": "第七章 环境和营养性疾病",
+        "page_start": 149,
+        "page_end": 157,
+        "content": "",
+        "char_count": 11267
+      },
+      {
+        "chapter_id": "ch_009",
+        "title": "第八章 遗传性疾病和儿童疾病",
+        "page_start": 158,
+        "page_end": 165,
+        "content": "",
+        "char_count": 10197
+      },
+      {
+        "chapter_id": "ch_010",
+        "title": "第九章 心血管系统疾病",
+        "page_start": 166,
+        "page_end": 193,
+        "content": "",
+        "char_count": 37990
+      },
+      {
+        "chapter_id": "ch_011",
+        "title": "第十章 呼吸系统疾病",
+        "page_start": 194,
+        "page_end": 218,
+        "content": "",
+        "char_count": 36020
+      },
+      {
+        "chapter_id": "ch_012",
+        "title": "第十一章 消化系统疾病",
+        "page_start": 219,
+        "page_end": 248,
+        "content": "",
+        "char_count": 40187
+      },
+      {
+        "chapter_id": "ch_013",
+        "title": "第十二章 淋巴造血系统疾病",
+        "page_start": 249,
+        "page_end": 273,
+        "content": "",
+        "char_count": 35270
+      },
+      {
+        "chapter_id": "ch_014",
+        "title": "第十三章 泌尿系统疾病",
+        "page_start": 274,
+        "page_end": 292,
+        "content": "",
+        "char_count": 24855
+      },
+      {
+        "chapter_id": "ch_015",
+        "title": "第十四章 生殖系统和乳腺疾病",
+        "page_start": 293,
+        "page_end": 313,
+        "content": "",
+        "char_count": 25641
+      },
+      {
+        "chapter_id": "ch_016",
+        "title": "第十五章 内分泌系统疾病",
+        "page_start": 314,
+        "page_end": 329,
+        "content": "",
+        "char_count": 22553
+      },
+      {
+        "chapter_id": "ch_017",
+        "title": "第十六章 神经系统疾病",
+        "page_start": 330,
+        "page_end": 350,
+        "content": "",
+        "char_count": 26450
+      },
+      {
+        "chapter_id": "ch_018",
+        "title": "第十七章 骨关节和软组织疾病",
+        "page_start": 351,
+        "page_end": 364,
+        "content": "",
+        "char_count": 15601
+      },
+      {
+        "chapter_id": "ch_019",
+        "title": "第十八章 传染病",
+        "page_start": 365,
+        "page_end": 389,
+        "content": "",
+        "char_count": 33903
+      },
+      {
+        "chapter_id": "ch_020",
+        "title": "第十九章 病理学诊断与研究技术",
+        "page_start": 390,
+        "page_end": 418,
+        "content": "",
+        "char_count": 49363
+      }
+    ]
+  },
+  {
+    "textbook_id": "book_786a362bca53",
+    "filename": "06_传染病学.pdf",
+    "title": "06_传染病学",
+    "format": "pdf",
+    "file_size": 133978936,
+    "total_pages": 398,
+    "total_chars": 575694,
+    "status": "已完成",
+    "error": null,
+    "uploaded_at": "2026-05-17T11:31:39.703464",
+    "chapters": [
+      {
+        "chapter_id": "ch_001",
+        "title": "第一章 总论",
+        "page_start": 18,
+        "page_end": 34,
+        "content": "",
+        "char_count": 28371
+      },
+      {
+        "chapter_id": "ch_002",
+        "title": "第二章 新发感染病",
+        "page_start": 35,
+        "page_end": 42,
+        "content": "",
+        "char_count": 10673
+      },
+      {
+        "chapter_id": "ch_003",
+        "title": "第三章 病毒性疾病",
+        "page_start": 43,
+        "page_end": 167,
+        "content": "",
+        "char_count": 196080
+      },
+      {
+        "chapter_id": "ch_004",
+        "title": "第四章 立克次体病",
+        "page_start": 168,
+        "page_end": 179,
+        "content": "",
+        "char_count": 15917
+      },
+      {
+        "chapter_id": "ch_005",
+        "title": "第五章 细菌性疾病",
+        "page_start": 180,
+        "page_end": 246,
+        "content": "",
+        "char_count": 98957
+      },
+      {
+        "chapter_id": "ch_006",
+        "title": "第六章 深部真菌病",
+        "page_start": 247,
+        "page_end": 262,
+        "content": "",
+        "char_count": 24009
+      },
+      {
+        "chapter_id": "ch_007",
+        "title": "第七章 螺旋体病",
+        "page_start": 263,
+        "page_end": 277,
+        "content": "",
+        "char_count": 21354
+      },
+      {
+        "chapter_id": "ch_008",
+        "title": "第八章 原虫病",
+        "page_start": 278,
+        "page_end": 300,
+        "content": "",
+        "char_count": 30880
+      },
+      {
+        "chapter_id": "ch_009",
+        "title": "第九章 蠕虫病",
+        "page_start": 301,
+        "page_end": 341,
+        "content": "",
+        "char_count": 59534
+      },
+      {
+        "chapter_id": "ch_010",
+        "title": "第十章 其他感染相关问题",
+        "page_start": 342,
+        "page_end": 398,
+        "content": "",
+        "char_count": 89919
+      }
+    ]
+  },
+  {
+    "textbook_id": "book_439b209be14e",
+    "filename": "07_病理生理学.pdf",
+    "title": "07_病理生理学",
+    "format": "pdf",
+    "file_size": 66504661,
+    "total_pages": 291,
+    "total_chars": 374303,
+    "status": "已完成",
+    "error": null,
+    "uploaded_at": "2026-05-17T11:32:02.471214",
+    "chapters": [
+      {
+        "chapter_id": "ch_001",
+        "title": "第一章 绪论",
+        "page_start": 25,
+        "page_end": 28,
+        "content": "",
+        "char_count": 5029
+      },
+      {
+        "chapter_id": "ch_002",
+        "title": "第二章 疾病概论",
+        "page_start": 29,
+        "page_end": 40,
+        "content": "",
+        "char_count": 20063
+      },
+      {
+        "chapter_id": "ch_003",
+        "title": "第三章 细胞增殖分化和死亡与疾病",
+        "page_start": 41,
+        "page_end": 53,
+        "content": "",
+        "char_count": 19002
+      },
+      {
+        "chapter_id": "ch_004",
+        "title": "第四章 细胞信号转导与疾病",
+        "page_start": 54,
+        "page_end": 64,
+        "content": "",
+        "char_count": 14947
+      },
+      {
+        "chapter_id": "ch_005",
+        "title": "第五章 衰老与疾病",
+        "page_start": 65,
+        "page_end": 74,
+        "content": "",
+        "char_count": 13754
+      },
+      {
+        "chapter_id": "ch_006",
+        "title": "第六章 应激",
+        "page_start": 75,
+        "page_end": 88,
+        "content": "",
+        "char_count": 17922
+      },
+      {
+        "chapter_id": "ch_007",
+        "title": "第七章 水电解质代谢紊乱",
+        "page_start": 89,
+        "page_end": 111,
+        "content": "",
+        "char_count": 35069
+      },
+      {
+        "chapter_id": "ch_008",
+        "title": "第八章 酸碱平衡紊乱",
+        "page_start": 112,
+        "page_end": 131,
+        "content": "",
+        "char_count": 26800
+      },
+      {
+        "chapter_id": "ch_009",
+        "title": "第九章 糖脂代谢紊乱",
+        "page_start": 132,
+        "page_end": 146,
+        "content": "",
+        "char_count": 23293
+      },
+      {
+        "chapter_id": "ch_010",
+        "title": "第十章 缺氧",
+        "page_start": 147,
+        "page_end": 159,
+        "content": "",
+        "char_count": 17712
+      },
+      {
+        "chapter_id": "ch_011",
+        "title": "第十一章 发热",
+        "page_start": 160,
+        "page_end": 169,
+        "content": "",
+        "char_count": 15464
+      },
+      {
+        "chapter_id": "ch_012",
+        "title": "第十二章 缺血再灌注损伤",
+        "page_start": 170,
+        "page_end": 181,
+        "content": "",
+        "char_count": 15525
+      },
+      {
+        "chapter_id": "ch_013",
+        "title": "第十三章 休克",
+        "page_start": 182,
+        "page_end": 192,
+        "content": "",
+        "char_count": 12906
+      },
+      {
+        "chapter_id": "ch_014",
+        "title": "第十四章 凝血与抗凝血平衡紊乱",
+        "page_start": 193,
+        "page_end": 204,
+        "content": "",
+        "char_count": 16037
+      },
+      {
+        "chapter_id": "ch_015",
+        "title": "第十五章 心功能不全",
+        "page_start": 205,
+        "page_end": 218,
+        "content": "",
+        "char_count": 22370
+      },
+      {
+        "chapter_id": "ch_016",
+        "title": "第十六章 肺功能不全",
+        "page_start": 219,
+        "page_end": 231,
+        "content": "",
+        "char_count": 15110
+      },
+      {
+        "chapter_id": "ch_017",
+        "title": "第十七章 肝功能不全",
+        "page_start": 232,
+        "page_end": 241,
+        "content": "",
+        "char_count": 12892
+      },
+      {
+        "chapter_id": "ch_018",
+        "title": "第十八章 肾功能不全",
+        "page_start": 242,
+        "page_end": 258,
+        "content": "",
+        "char_count": 24049
+      },
+      {
+        "chapter_id": "ch_019",
+        "title": "第十九章 脑功能不全",
+        "page_start": 259,
+        "page_end": 269,
+        "content": "",
+        "char_count": 15540
+      },
+      {
+        "chapter_id": "ch_020",
+        "title": "第二十章 多器官功能障碍",
+        "page_start": 270,
+        "page_end": 291,
+        "content": "",
+        "char_count": 30819
+      }
+    ]
+  }
+]
